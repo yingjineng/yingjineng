@@ -1,267 +1,268 @@
-[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
+[![freeCodeCamp 社交横幅](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
-[![Open Source Helpers](https://www.codetriage.com/freecodecamp/freecodecamp/badges/users.svg)](https://www.codetriage.com/freecodecamp/freecodecamp)
-[![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
+[![欢迎 Pull Request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
+[![新手友好](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
+[![开源助手](https://www.codetriage.com/freecodecamp/freecodecamp/badges/users.svg)](https://www.codetriage.com/freecodecamp/freecodecamp)
+[![自动化设置](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay)
 
-## freeCodeCamp.org's open-source codebase and curriculum
+## freeCodeCamp.org 的开源代码库与课程
 
-[freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) charity](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech. Our community has already helped more than 40,000 people get their first developer job.
+[freeCodeCamp.org](https://www.freecodecamp.org) 是一个友好的社区，你可以在这里免费学习编程。它由一个[捐助者支持的 501(c)(3) 慈善机构](https://www.freecodecamp.org/donate)运营，帮助数百万忙碌的成年人转行进入科技行业。我们的社区已经帮助超过 40,000 人获得了他们的第一份开发者工作。
 
-Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
+我们的全栈 Web 开发和机器学习课程完全免费且自定进度。我们有数千个交互式编程挑战，帮助你提升技能。
 
-## Table of Contents
+## 目录
 
-- [Certifications](#certifications)
-- [The Learning Platform](#the-learning-platform)
-- [Reporting Bugs and Issues](#reporting-bugs-and-issues)
-- [Reporting Security Issues and Responsible Disclosure](#reporting-security-issues-and-responsible-disclosure)
-- [Contributing](#contributing)
-- [Platform, Build and Deployment Status](#platform-build-and-deployment-status)
-- [License](#license)
+- [认证](#certifications)
+- [学习平台](#the-learning-platform)
+- [报告 Bug 和问题](#reporting-bugs-and-issues)
+- [报告安全问题与负责任披露](#reporting-security-issues-and-responsible-disclosure)
+- [贡献](#contributing)
+- [平台、构建与部署状态](#platform-build-and-deployment-status)
+- [许可证](#license)
 
-### Certifications
+### 认证
 
-freeCodeCamp.org offers several free developer certifications. Each of these certifications involves building 5 required web app projects, along with hundreds of optional coding challenges to help you prepare for those projects. We estimate that each certification will take a beginner programmer around 300 hours to earn.
+freeCodeCamp.org 提供多项免费的开发者认证。每项认证都需要构建 5 个必做的 Web 应用项目，并有数百个可选编程挑战帮助你为这些项目做准备。我们估计每项认证大约需要初学者 300 小时完成。
 
-Each of these 50 projects in the freeCodeCamp.org curriculum has its own agile user stories and automated tests. These help you build up your project incrementally and ensure you've fulfilled all the user stories before you submit it.
+freeCodeCamp.org 课程中的 50 个项目都有自己的敏捷用户故事和自动化测试。这些帮助你逐步构建项目，并确保在提交前已完成所有用户故事。
 
-You can pull in these test suites through [freeCodeCamp's CDN](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js). This means you can build these projects on websites like CodePen and Replit - or even on your local computer's development environment.
+你可以通过 [freeCodeCamp 的 CDN](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js) 引入这些测试套件。这意味着你可以在 CodePen、Replit 等网站，甚至本地开发环境中构建这些项目。
 
-Once you've earned a certification, you will always have it. You will always be able to link to it from your LinkedIn or resume. And when your prospective employers or freelance clients click that link, they'll see a verified certification specific to you.
+一旦获得认证，你将永久拥有它。你可以随时将其链接到你的 LinkedIn 或简历。当潜在雇主或客户点击该链接时，他们会看到专属于你的已验证认证。
 
-The one exception to this is if we discover violations of our [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
+唯一的例外是如果我们发现违反了我们的[学术诚信政策](https://www.freecodecamp.org/news/academic-honesty-policy/)。当我们明确发现有人抄袭（提交他人代码或项目且未注明来源），我们会像所有严谨的学习机构一样——撤销其认证并封禁账号。
 
-Here are our twelve core certifications:
+以下是我们的十二项核心认证：
 
-#### 1. [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+#### 1. [响应式网页设计认证](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-- [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
-- [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
-- [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-colors-by-building-a-set-of-colored-markers)
-- [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form)
-- [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting)
-- [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery)
-- [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label)
-- [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz)
-- [Learn More About CSS Pseudo Selectors by Building A Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
-- [Learn Intermediate CSS by Building a Cat Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-cat-painting)
-- [Learn Responsive Web Design by Building a Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano)
-- [Learn CSS Variables by Building a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline)
-- [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine)
-- [Learn CSS Transforms by Building a Penguin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-transforms-by-building-a-penguin)
-- [Learn CSS Animations by Building a Ferris Wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel)
+- [通过构建猫咪照片应用学习 HTML](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+- [通过构建咖啡馆菜单学习基础 CSS](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
+- [通过构建彩色标记笔学习 CSS 颜色](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-colors-by-building-a-set-of-colored-markers)
+- [通过构建注册表单学习 HTML 表单](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form)
+- [通过构建罗斯科画作学习 CSS 盒模型](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting)
+- [通过构建照片画廊学习 CSS Flexbox](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery)
+- [通过构建营养标签学习排版](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label)
+- [通过构建测验学习无障碍性](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz)
+- [通过构建资产负债表学习 CSS 伪选择器](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
+- [通过构建猫咪画作学习中级 CSS](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-cat-painting)
+- [通过构建钢琴学习响应式网页设计](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano)
+- [通过构建城市天际线学习 CSS 变量](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline)
+- [通过构建杂志学习 CSS Grid](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine)
+- [通过构建企鹅学习 CSS 变换](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-transforms-by-building-a-penguin)
+- [通过构建摩天轮学习 CSS 动画](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel)
   <br />
   <br />
-  **Projects**: [Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form), [Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page), [Technical Documentation Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page), [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page), [Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
+  **项目**: [调查表单](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form), [致敬页面](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page), [技术文档页面](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page), [产品登陆页](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page), [个人作品集网页](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
 
-#### 2. [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+#### 2. [JavaScript 算法与数据结构认证](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
-- [Learn Introductory JavaScript by Building a Pyramid Generator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator)
-- [Learn Basic JavaScript by Building a Role Playing Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game)
-- [Learn Form Validation by Building a Calorie Counter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-form-validation-by-building-a-calorie-counter)
-- [Learn Basic String and Array Methods by Building a Music Player](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-string-and-array-methods-by-building-a-music-player)
-- [Learn the Date Object by Building a Date Formatter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-the-date-object-by-building-a-date-formatter)
-- [Learn Modern JavaScript Methods By Building Football Team Cards](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-modern-javascript-methods-by-building-football-team-cards)
-- [Learn localStorage by Building a Todo App](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-localstorage-by-building-a-todo-app)
-- [Learn Recursion by Building a Decimal to Binary Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-recursion-by-building-a-decimal-to-binary-converter)
-- [Learn Basic Algorithmic Thinking by Building a Number Sorter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-algorithmic-thinking-by-building-a-number-sorter)
-- [Learn Advanced Array Methods by Building a Statistics Calculator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-advanced-array-methods-by-building-a-statistics-calculator)
-- [Learn Functional Programming by Building a Spreadsheet](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-functional-programming-by-building-a-spreadsheet)
-- [Learn Regular Expressions by Building a Spam Filter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-regular-expressions-by-building-a-spam-filter)
-- [Learn Basic OOP by Building a Shopping Cart](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-oop-by-building-a-shopping-cart)
-- [Learn Intermediate OOP by Building a Platformer Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-intermediate-oop-by-building-a-platformer-game)
-- [Learn Intermediate Algorithmic Thinking by Building a Dice Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#review-algorithmic-thinking-by-building-a-dice-game)
-- [Learn Fetch and Promises By Building an fCC Authors Page](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-fetch-and-promises-by-building-an-fcc-authors-page)
-- [Learn Asynchronous Programming by Building an fCC Forum Leaderboard](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-asynchronous-programming-by-building-an-fcc-forum-leaderboard)
+- [通过构建金字塔生成器学习 JavaScript 入门](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator)
+- [通过构建角色扮演游戏学习基础 JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game)
+- [通过构建卡路里计算器学习表单验证](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-form-validation-by-building-a-calorie-counter)
+- [通过构建音乐播放器学习字符串与数组方法](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-string-and-array-methods-by-building-a-music-player)
+- [通过构建日期格式化器学习 Date 对象](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-the-date-object-by-building-a-date-formatter)
+- [通过构建足球队卡片学习现代 JavaScript 方法](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-modern-javascript-methods-by-building-football-team-cards)
+- [通过构建待办事项应用学习 localStorage](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-localstorage-by-building-a-todo-app)
+- [通过构建十进制转二进制转换器学习递归](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-recursion-by-building-a-decimal-to-binary-converter)
+- [通过构建数字排序器学习基础算法思维](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-algorithmic-thinking-by-building-a-number-sorter)
+- [通过构建统计计算器学习高级数组方法](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-advanced-array-methods-by-building-a-statistics-calculator)
+- [通过构建电子表格学习函数式编程](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-functional-programming-by-building-a-spreadsheet)
+- [通过构建垃圾邮件过滤器学习正则表达式](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-regular-expressions-by-building-a-spam-filter)
+- [通过构建购物车学习基础面向对象编程](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-oop-by-building-a-shopping-cart)
+- [通过构建平台游戏学习中级面向对象编程](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-intermediate-oop-by-building-a-platformer-game)
+- [通过构建骰子游戏学习中级算法思维](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#review-algorithmic-thinking-by-building-a-dice-game)
+- [通过构建 fCC 作者页面学习 Fetch 与 Promise](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-fetch-and-promises-by-building-an-fcc-authors-page)
+- [通过构建 fCC 论坛排行榜学习异步编程](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-asynchronous-programming-by-building-an-fcc-forum-leaderboard)
   <br />
   <br />
-  **Projects**: [Palindrome Checker](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-palindrome-checker-project/build-a-palindrome-checker), [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-roman-numeral-converter-project/build-a-roman-numeral-converter), [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-telephone-number-validator-project/build-a-telephone-number-validator), [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-cash-register-project/build-a-cash-register), [RPG Creature Search App](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-an-rpg-creature-search-app-project/build-an-rpg-creature-search-app)
+  **项目**: [回文检查器](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-palindrome-checker-project/build-a-palindrome-checker), [罗马数字转换器](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-roman-numeral-converter-project/build-a-roman-numeral-converter), [电话号码验证器](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-telephone-number-validator-project/build-a-telephone-number-validator), [收银机](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-cash-register-project/build-a-cash-register), [RPG 生物搜索应用](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-an-rpg-creature-search-app-project/build-an-rpg-creature-search-app)
 
-#### 3. [Front End Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+#### 3. [前端库认证](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
 - [Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap)
 - [jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery)
 - [Sass](https://www.freecodecamp.org/learn/front-end-development-libraries/#sass)
 - [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
 - [Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
-- [React and Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux)
+- [React 与 Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux)
   <br />
   <br />
-  **Projects**: [Random Quote Machine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine), [Markdown Previewer](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer), [Drum Machine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine), [JavaScript Calculator](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator), [25 + 5 Clock](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
+  **项目**: [随机语录机](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine), [Markdown 预览器](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer), [鼓机](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine), [JavaScript 计算器](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator), [25 + 5 时钟](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
 
-#### 4. [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/)
+#### 4. [数据可视化认证](https://www.freecodecamp.org/learn/data-visualization/)
 
-- [Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/#data-visualization-with-d3)
-- [JSON APIs and Ajax](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax)
+- [D3 数据可视化](https://www.freecodecamp.org/learn/data-visualization/#data-visualization-with-d3)
+- [JSON API 与 Ajax](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax)
   <br />
   <br />
-  **Projects**: [Bar Chart](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart), [Scatterplot Graph](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph), [Heat Map](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map), [Choropleth Map](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map), [Treemap Diagram](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram)
+  **项目**: [条形图](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart), [散点图](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph), [热力图](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map), [分级统计地图](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map), [树状图](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram)
 
-#### 5. [Relational Database](https://www.freecodecamp.org/learn/relational-database/)
+#### 5. [关系型数据库](https://www.freecodecamp.org/learn/relational-database/)
 
-- [Learn Bash by Building a Boilerplate](https://www.freecodecamp.org/learn/relational-database/#learn-bash-by-building-a-boilerplate)
-- [Learn Relational Databases by Building a Database of Video Game Characters](https://www.freecodecamp.org/learn/relational-database/#learn-relational-databases-by-building-a-database-of-video-game-characters)
-- [Learn Bash Scripting by Building Five Programs](https://www.freecodecamp.org/learn/relational-database/#learn-bash-scripting-by-building-five-programs)
-- [Learn SQL by Building a Student Database: Part 1](https://www.freecodecamp.org/learn/relational-database/#learn-sql-by-building-a-student-database-part-1)
-- [Learn SQL by Building a Student Database: Part 2](https://www.freecodecamp.org/learn/relational-database/#learn-sql-by-building-a-student-database-part-2)
-- [Learn Advanced Bash by Building a Kitty Ipsum Translator](https://www.freecodecamp.org/learn/relational-database/#learn-advanced-bash-by-building-a-kitty-ipsum-translator)
-- [Learn Bash and SQL by Building a Bike Rental Shop](https://www.freecodecamp.org/learn/relational-database/#learn-bash-and-sql-by-building-a-bike-rental-shop)
-- [Learn Nano by Building a Castle](https://www.freecodecamp.org/learn/relational-database/#learn-nano-by-building-a-castle)
-- [Learn Git by Building an SQL Reference Object](https://www.freecodecamp.org/learn/relational-database/#learn-git-by-building-an-sql-reference-object)
+- [通过构建样板学习 Bash](https://www.freecodecamp.org/learn/relational-database/#learn-bash-by-building-a-boilerplate)
+- [通过构建游戏角色数据库学习关系型数据库](https://www.freecodecamp.org/learn/relational-database/#learn-relational-databases-by-building-a-database-of-video-game-characters)
+- [通过构建五个程序学习 Bash 脚本](https://www.freecodecamp.org/learn/relational-database/#learn-bash-scripting-by-building-five-programs)
+- [通过构建学生数据库（第 1 部分）学习 SQL](https://www.freecodecamp.org/learn/relational-database/#learn-sql-by-building-a-student-database-part-1)
+- [通过构建学生数据库（第 2 部分）学习 SQL](https://www.freecodecamp.org/learn/relational-database/#learn-sql-by-building-a-student-database-part-2)
+- [通过构建猫咪 Ipsum 翻译器学习高级 Bash](https://www.freecodecamp.org/learn/relational-database/#learn-advanced-bash-by-building-a-kitty-ipsum-translator)
+- [通过构建自行车租赁店学习 Bash 与 SQL](https://www.freecodecamp.org/learn/relational-database/#learn-bash-and-sql-by-building-a-bike-rental-shop)
+- [通过构建城堡学习 Nano](https://www.freecodecamp.org/learn/relational-database/#learn-nano-by-building-a-castle)
+- [通过构建 SQL 参考对象学习 Git](https://www.freecodecamp.org/learn/relational-database/#learn-git-by-building-an-sql-reference-object)
   <br />
   <br />
-  **Projects**: [Salon Appointment Scheduler](https://www.freecodecamp.org/learn/relational-database/#build-a-salon-appointment-scheduler-project), [Celestial Bodies Database](https://www.freecodecamp.org/learn/relational-database/#build-a-celestial-bodies-database-project), [Periodic Table Database](https://www.freecodecamp.org/learn/relational-database/#build-a-periodic-table-database-project), [Number Guessing Game](https://www.freecodecamp.org/learn/relational-database/#build-a-number-guessing-game-project), [World Cup Database](https://www.freecodecamp.org/learn/relational-database/#build-a-world-cup-database-project)
+  **项目**: [美发沙龙预约调度器](https://www.freecodecamp.org/learn/relational-database/#build-a-salon-appointment-scheduler-project), [天体数据库](https://www.freecodecamp.org/learn/relational-database/#build-a-celestial-bodies-database-project), [元素周期表数据库](https://www.freecodecamp.org/learn/relational-database/#build-a-periodic-table-database-project), [数字猜谜游戏](https://www.freecodecamp.org/learn/relational-database/#build-a-number-guessing-game-project), [世界杯数据库](https://www.freecodecamp.org/learn/relational-database/#build-a-world-cup-database-project)
 
-#### 6. [Back End Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+#### 6. [后端开发与 API 认证](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
-- [Managing Packages with Npm](https://www.freecodecamp.org/learn/back-end-development-and-apis/#managing-packages-with-npm)
-- [Basic Node and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express)
-- [MongoDB and Mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose)
+- [使用 Npm 管理包](https://www.freecodecamp.org/learn/back-end-development-and-apis/#managing-packages-with-npm)
+- [基础 Node 与 Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express)
+- [MongoDB 与 Mongoose](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose)
   <br />
   <br />
-  **Projects**: [Timestamp Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice), [Request Header Parser](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice), [URL Shortener](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice), [Exercise Tracker](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker), [File Metadata Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice)
+  **项目**: [时间戳微服务](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice), [请求头解析器](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice), [URL 缩短器](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice), [锻炼追踪器](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker), [文件元数据微服务](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice)
 
-#### 7. [Quality Assurance Certification](https://www.freecodecamp.org/learn/quality-assurance/)
+#### 7. [质量保障认证](https://www.freecodecamp.org/learn/quality-assurance/)
 
-- [Quality Assurance and Testing with Chai](https://www.freecodecamp.org/learn/quality-assurance/#quality-assurance-and-testing-with-chai)
-- [Advanced Node and Express](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express)
+- [使用 Chai 进行质量保障与测试](https://www.freecodecamp.org/learn/quality-assurance/#quality-assurance-and-testing-with-chai)
+- [高级 Node 与 Express](https://www.freecodecamp.org/learn/quality-assurance/#advanced-node-and-express)
   <br />
   <br />
-  **Projects**: [Metric-Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter), [Issue Tracker](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker), [Personal Library](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library), [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver), [American British Translator](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator)
+  **项目**: [公英制转换器](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter), [问题追踪器](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker), [个人图书馆](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library), [数独求解器](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver), [美式英式翻译器](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator)
 
-#### 8. [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+#### 8. [Python 科学计算认证](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 
-- [Learn String Manipulation by Building a Cipher](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-string-manipulation-by-building-a-cipher)
-- [Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-how-to-work-with-numbers-and-strings-by-implementing-the-luhn-algorithm)
-- [Learn Lambda Functions by Building an Expense Tracker](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-lambda-functions-by-building-an-expense-tracker)
-- [Learn List Comprehension by Building a Case Converter Program](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-list-comprehension-by-building-a-case-converter-program)
-- [Learn the Bisection Method by Finding the Square Root of a Number](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-the-bisection-method-by-finding-the-square-root-of-a-number)
-- [Learn Regular Expressions by Building a Password Generator](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-regular-expressions-by-building-a-password-generator)
-- [Learn Algorithm Design by Building a Shortest Path Algorithm](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-algorithm-design-by-building-a-shortest-path-algorithm)
-- [Learn Recursion by Solving the Tower of Hanoi Puzzle](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-recursion-by-solving-the-tower-of-hanoi-puzzle)
-- [Learn Data Structures by Building the Merge Sort Algorithm](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-data-structures-by-building-the-merge-sort-algorithm)
-- [Learn Classes and Objects by Building a Sudoku Solver](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-classes-and-objects-by-building-a-sudoku-solver)
-- [Learn Tree Traversal by Building a Binary Search Tree](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-tree-traversal-by-building-a-binary-search-tree)
-- [Learn Special Methods by Building a Vector Space](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-special-methods-by-building-a-vector-space)
+- [通过构建密码器学习字符串操作](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-string-manipulation-by-building-a-cipher)
+- [通过实现 Luhn 算法学习数字与字符串处理](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-how-to-work-with-numbers-and-strings-by-implementing-the-luhn-algorithm)
+- [通过构建支出追踪器学习 Lambda 函数](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-lambda-functions-by-building-an-expense-tracker)
+- [通过构建大小写转换程序学习列表推导式](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-list-comprehension-by-building-a-case-converter-program)
+- [通过求平方根学习二分法](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-the-bisection-method-by-finding-the-square-root-of-a-number)
+- [通过构建密码生成器学习正则表达式](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-regular-expressions-by-building-a-password-generator)
+- [通过构建最短路径算法学习算法设计](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-algorithm-design-by-building-a-shortest-path-algorithm)
+- [通过解决汉诺塔难题学习递归](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-recursion-by-solving-the-tower-of-hanoi-puzzle)
+- [通过构建归并排序算法学习数据结构](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-data-structures-by-building-the-merge-sort-algorithm)
+- [通过构建数独求解器学习类与对象](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-classes-and-objects-by-building-a-sudoku-solver)
+- [通过构建二叉搜索树学习树遍历](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-tree-traversal-by-building-a-binary-search-tree)
+- [通过构建向量空间学习特殊方法](https://www.freecodecamp.org/learn/scientific-computing-with-python/#learn-special-methods-by-building-a-vector-space)
   <br />
   <br />
-  **Projects**: [Arithmetic Formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-an-arithmetic-formatter-project/build-an-arithmetic-formatter-project), [Time Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-time-calculator-project/build-a-time-calculator-project), [Budget App](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-budget-app-project/build-a-budget-app-project), [Polygon Area Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-polygon-area-calculator-project/build-a-polygon-area-calculator-project), [Probability Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-probability-calculator-project/build-a-probability-calculator-project)
+  **项目**: [算术格式化器](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-an-arithmetic-formatter-project/build-an-arithmetic-formatter-project), [时间计算器](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-time-calculator-project/build-a-time-calculator-project), [预算应用](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-budget-app-project/build-a-budget-app-project), [多边形面积计算器](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-polygon-area-calculator-project/build-a-polygon-area-calculator-project), [概率计算器](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-probability-calculator-project/build-a-probability-calculator-project)
 
-#### 9. [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+#### 9. [Python 数据分析认证](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
-- [Data Analysis with Python Course](https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course)
+- [Python 数据分析课程](https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course)
 - [NumPy](https://www.freecodecamp.org/learn/data-analysis-with-python/#numpy)
   <br />
   <br />
-  **Projects**: [Mean-Variance-Standard Deviation Calculator](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator), [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer), [Medical Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer), [Page View Time Series Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer), [Sea Level Predictor](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor)
+  **项目**: [均值-方差-标准差计算器](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator), [人口统计数据分析器](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer), [医疗数据可视化器](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer), [页面浏览量时间序列可视化器](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer), [海平面预测器](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor)
 
-#### 10. [Information Security Certification](https://www.freecodecamp.org/learn/information-security/)
+#### 10. [信息安全认证](https://www.freecodecamp.org/learn/information-security/)
 
-- [Information Security with HelmetJS](https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs)
-- [Python for Penetration Testing](https://www.freecodecamp.org/learn/information-security/#python-for-penetration-testing)
+- [使用 HelmetJS 进行信息安全](https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs)
+- [渗透测试用 Python](https://www.freecodecamp.org/learn/information-security/#python-for-penetration-testing)
   <br />
   <br />
-  **Projects**: [Stock Price Checker](https://www.freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker), [Anonymous Message Board](https://www.freecodecamp.org/learn/information-security/information-security-projects/anonymous-message-board), [Port Scanner](https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner), [SHA-1 Password Cracker](https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker), [Secure Real Time Multiplayer Game ](https://www.freecodecamp.org/learn/information-security/information-security-projects/secure-real-time-multiplayer-game)
+  **项目**: [股票价格检查器](https://www.freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker), [匿名留言板](https://www.freecodecamp.org/learn/information-security/information-security-projects/anonymous-message-board), [端口扫描器](https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner), [SHA-1 密码破解器](https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker), [安全实时多人游戏](https://www.freecodecamp.org/learn/information-security/information-security-projects/secure-real-time-multiplayer-game)
 
-#### 11. [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+#### 11. [Python 机器学习认证](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 
 - [TensorFlow](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
-- [How Neural Networks Work](https://www.freecodecamp.org/learn/machine-learning-with-python/#how-neural-networks-work)
+- [神经网络工作原理](https://www.freecodecamp.org/learn/machine-learning-with-python/#how-neural-networks-work)
   <br />
   <br />
-  **Projects**: [Rock Paper Scissors](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors), [Cat and Dog Image Classifier](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier), [Book Recommendation Engine using KNN](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/book-recommendation-engine-using-knn), [Linear Regression Health Costs Calculator](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator), [Neural Network SMS Text Classifier](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/neural-network-sms-text-classifier)
+  **项目**: [石头剪刀布](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors), [猫狗图片分类器](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier), [基于 KNN 的图书推荐引擎](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/book-recommendation-engine-using-knn), [线性回归健康费用计算器](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator), [神经网络短信文本分类器](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/neural-network-sms-text-classifier)
 
-#### 12. [College Algebra with Python](https://www.freecodecamp.org/learn/college-algebra-with-python/)
+#### 12. [Python 大学代数](https://www.freecodecamp.org/learn/college-algebra-with-python/)
 
-- [Learn Ratios and Proportions](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-ratios-and-proportions)
-- [Learn How to Solve for X](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-how-to-solve-for-x)
-- [Learn Fractions and Decimals](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-fractions-and-decimals)
-- [Learn Functions and Graphing](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-functions-and-graphing)
-- [Learn Linear Functions](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-linear-functions)
-- [Learn Common Factors and Square Roots](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-common-factors-and-square-roots)
-- [Learn How to Graph Systems of Equations](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-how-to-graph-systems-of-equations)
-- [Learn How to Solve Systems of Equations](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-how-to-solve-systems-of-equations)
-- [Learn Applications of Linear Systems](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-applications-of-linear-systems)
-- [Learn Quadratic Equations](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-quadratic-equations)
-- [Learn Parent Graphs and Polynomials](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-parent-graphs-and-polynomials)
-- [Learn Business Applications of College Algebra](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-business-applications-of-college-algebra)
-- [Learn Simple and Compound Interest](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-simple-and-compound-interest)
-- [Learn Exponents and Logarithms](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-exponents-and-logarithms)
-- [College Algebra with Python: Conclusion](https://www.freecodecamp.org/learn/college-algebra-with-python/#college-algebra-with-python-conclusion)
+- [学习比率与比例](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-ratios-and-proportions)
+- [学习如何解 X](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-how-to-solve-for-x)
+- [学习分数与小数](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-fractions-and-decimals)
+- [学习函数与图像](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-functions-and-graphing)
+- [学习线性函数](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-linear-functions)
+- [学习公因数与平方根](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-common-factors-and-square-roots)
+- [学习如何绘制方程组图像](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-how-to-graph-systems-of-equations)
+- [学习如何解方程组](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-how-to-solve-systems-of-equations)
+- [学习线性系统的应用](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-applications-of-linear-systems)
+- [学习二次方程](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-quadratic-equations)
+- [学习母图与多项式](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-parent-graphs-and-polynomials)
+- [学习大学代数的商业应用](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-business-applications-of-college-algebra)
+- [学习简单与复利](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-simple-and-compound-interest)
+- [学习指数与对数](https://www.freecodecamp.org/learn/college-algebra-with-python/#learn-exponents-and-logarithms)
+- [大学代数总结](https://www.freecodecamp.org/learn/college-algebra-with-python/#college-algebra-with-python-conclusion)
   <br />
   <br />
-  **Projects**: [Multi-Function Calculator](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-a-multi-function-calculator-project), [Graphing Calculator](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-a-graphing-calculator-project), [Three Math Games](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-three-math-games-project), [Financial Calculator](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-a-financial-calculator-project), [Data Graph Explorer](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-a-data-graph-explorer-project)
+  **项目**: [多功能计算器](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-a-multi-function-calculator-project), [图形计算器](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-a-graphing-calculator-project), [三个数学游戏](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-three-math-games-project), [财务计算器](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-a-financial-calculator-project), [数据图形探索器](https://www.freecodecamp.org/learn/college-algebra-with-python/#build-a-data-graph-explorer-project)
 
-#### Legacy Full Stack Development Certification
+#### 传统全栈开发认证
 
-Once you have earned the Responsive Web Design, Algorithms and Data Structures, Front End Development Libraries, Data Visualization, Back End Development and APIs, and Legacy Information Security and Quality Assurance certifications, you'll be able to claim your freeCodeCamp.org Full Stack Development Certification. This distinction signifies that you've completed around 1,800 hours of coding with a wide range of web development tools.
+当你获得响应式网页设计、算法与数据结构、前端开发库、数据可视化、后端开发与 API 以及传统信息安全与质量保障认证后，你将可以申请 freeCodeCamp.org 全栈开发认证。这意味着你已完成约 1800 小时的编程，掌握了多种 Web 开发工具。
 
-#### Legacy Certifications
+#### 传统认证
 
-We also have 4 legacy certifications dating back to our 2015 curriculum, which are still available. All of the required projects for these legacy certifications will remain available on freeCodeCamp.org.
+我们还有 4 个自 2015 年课程起的传统认证，仍然可用。所有这些传统认证的必做项目仍可在 freeCodeCamp.org 上访问。
 
-- Legacy Front End Development Certification
-- Legacy Data Visualization Certification
-- Legacy Back End Development Certification
-- Legacy Information Security and Quality Assurance Certification
+- 传统前端开发认证
+- 传统数据可视化认证
+- 传统后端开发认证
+- 传统信息安全与质量保障认证
 
-### Free professional certifications
+### 免费专业认证
 
-#### [(New) Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+#### [(新) 微软 C# 基础认证](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
-- [Write Your First Code Using C#](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#write-your-first-code-using-c-sharp)
-- [Create and Run Simple C# Console Applications](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#create-and-run-simple-c-sharp-console-applications)
-- [Add Logic to C# Console Applications](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#add-logic-to-c-sharp-console-applications)
-- [Work with Variable Data in C# Console Applications](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#work-with-variable-data-in-c-sharp-console-applications)
-- [Create Methods in C# Console Applications](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#create-methods-in-c-sharp-console-applications)
-- [Debug C# Console Applications](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#debug-c-sharp-console-applications)
+- [用 C# 编写你的第一段代码](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#write-your-first-code-using-c-sharp)
+- [创建并运行简单的 C# 控制台应用](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#create-and-run-simple-c-sharp-console-applications)
+- [为 C# 控制台应用添加逻辑](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#add-logic-to-c-sharp-console-applications)
+- [在 C# 控制台应用中使用变量数据](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#work-with-variable-data-in-c-sharp-console-applications)
+- [在 C# 控制台应用中创建方法](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#create-methods-in-c-sharp-console-applications)
+- [调试 C# 控制台应用](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#debug-c-sharp-console-applications)
   <br />
   <br />
-  **Exam**: [Foundational C# with Microsoft Certification Exam](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/foundational-c-sharp-with-microsoft-certification-exam/foundational-c-sharp-with-microsoft-certification-exam)
+  **考试**: [微软 C# 基础认证考试](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/foundational-c-sharp-with-microsoft-certification-exam/foundational-c-sharp-with-microsoft-certification-exam)
 
-### The Learning Platform
+### 学习平台
 
-This code is running live at [freeCodeCamp.org](https://www.freecodecamp.org).
+本代码正在 [freeCodeCamp.org](https://www.freecodecamp.org) 实时运行。
 
-Our community also has:
+我们的社区还包括：
 
-- A [forum](https://forum.freecodecamp.org) where you can usually get programming help or project feedback within hours.
-- A [YouTube channel](https://youtube.com/freecodecamp) with free courses on Python, SQL, Android, and a wide variety of other technologies.
-- A [technical publication](https://www.freecodecamp.org/news) with thousands of programming tutorials and articles about mathematics and computer science.
-- A [Discord server](https://discord.gg/Z7Fm39aNtZ) where you can hang out and talk with developers and people who are learning to code.
+- 一个[论坛](https://forum.freecodecamp.org)，你通常可以在几小时内获得编程帮助或项目反馈。
+- 一个[YouTube 频道](https://youtube.com/freecodecamp)，提供 Python、SQL、Android 及多种技术的免费视频课程。
+- 一个[技术出版物](https://www.freecodecamp.org/news)，有数千篇关于编程、数学和计算机科学的教程与文章。
+- 一个 [Discord 服务器](https://discord.gg/Z7Fm39aNtZ)，你可以在这里与开发者和学习编程的人交流。
 
-> #### [Join the community here](https://www.freecodecamp.org/signin).
+> #### [点击这里加入社区](https://www.freecodecamp.org/signin)。
 
-### Reporting Bugs and Issues
+### 报告 Bug 和问题
 
-If you think you've found a bug, first read the [how to report a bug](https://forum.freecodecamp.org/t/how-to-report-a-bug/19543) article and follow its instructions.
+如果你认为发现了 Bug，请先阅读[如何报告 Bug](https://forum.freecodecamp.org/t/how-to-report-a-bug/19543) 文章并按其说明操作。
 
-If you're confident it's a new bug and have confirmed that someone else is facing the same issue, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
+如果你确定这是新 Bug，并且已确认其他人也遇到同样问题，请创建新的 GitHub issue。请尽量提供详细信息，以便我们复现问题。
 
-### Reporting Security Issues and Responsible Disclosure
+### 报告安全问题与负责任披露
 
-We appreciate responsible disclosure of vulnerabilities that might impact the integrity of our platforms and users.
+我们感谢对可能影响平台和用户安全漏洞的负责任披露。
 
-> #### [Read our security policy and follow these steps to report a vulnerability](https://contribute.freecodecamp.org/#/security).
+> #### [阅读我们的安全政策并按此步骤报告漏洞](https://contribute.freecodecamp.org/#/security)。
 
-### Contributing
+### 贡献
 
-The freeCodeCamp.org community is possible thanks to thousands of kind volunteers like you. We welcome all contributions to the community and are excited to welcome you aboard.
+freeCodeCamp.org 社区得益于成千上万善良的志愿者。我们欢迎所有人参与贡献，并期待你的加入。
 
-> #### [Please follow these steps to contribute](https://contribute.freecodecamp.org).
+> #### [请按此步骤参与贡献](https://contribute.freecodecamp.org)。
 
-Recent Contributions:
+近期贡献：
 
 ![Alt](https://repobeats.axiom.co/api/embed/89be0a1a1c8f641c54f9234a7423e7755352c746.svg 'Repobeats analytics image')
 
-### License
+### 许可证
 
 Copyright © 2025 freeCodeCamp.org
 
-The content of this repository is bound by the following licenses:
+本仓库内容受以下许可证约束：
 
-- The computer software is licensed under the [BSD-3-Clause](LICENSE.md) license.
-- The learning resources in the [`/curriculum`](/curriculum) directory including their subdirectories thereon are copyright © 2025 freeCodeCamp.org
+- 计算机软件遵循 [BSD-3-Clause](LICENSE.md) 许可证。
+- [`/curriculum`](/curriculum) 目录及其子目录下的学习资源版权归 freeCodeCamp.org 所有，© 2025
+
