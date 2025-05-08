@@ -863,43 +863,43 @@
         "intro": ["这是你要获得认证必须做的项目之一。"]
       },
       "build-a-polygon-area-calculator-project": {
-        "title": "Build a Polygon Area Calculator Project",
+        "title": "创建多边形面积计算器项目",
         "intro": [
-          "This is one of the required projects to claim your certification."
+          "这是你要获得认证必须做的项目之一。"
         ]
       },
       "build-a-probability-calculator-project": {
-        "title": "Build a Probability Calculator Project",
+        "title": "创建概率计算器项目",
         "intro": [
-          "This is one of the required projects to claim your certification."
+          "这是你要获得认证必须做的项目之一。"
         ]
       },
       "learn-interfaces-by-building-an-equation-solver": {
-        "title": "Learn Interfaces by Building an Equation Solver",
+        "title": "通过创建方程求解器学习接口",
         "intro": [
-          "Abstract classes enable you to define formal interfaces - objects acting as blueprints for classes.",
-          "In this project, you'll discover how to implement an interface in Python while building a simple equation solver program."
+          "抽象类允许你定义正式的接口——作为类蓝图的对象。",
+          "在本项目中，你将学习如何在 Python 中实现接口，并通过构建一个简单的方程求解器程序来实践。"
         ]
       },
       "learn-special-methods-by-building-a-vector-space": {
-        "title": "Learn Special Methods by Building a Vector Space",
+        "title": "通过创建向量空间学习特殊方法",
         "intro": [
-          "Python special methods are called in response to specific operations and enable you to customize the behaviour of your objects in a detailed and effective way.",
-          "In this project, you are going to explore some of the most common special methods while learning about vectors by building a vector space."
+          "Python 的特殊方法会在特定操作时被调用，使你能够详细且高效地自定义对象的行为。",
+          "在本项目中，你将探索一些最常见的特殊方法，并通过构建向量空间来学习向量相关知识。"
         ]
       },
       "learn-encapsulation-by-building-a-projectile-trajectory-calculator": {
-        "title": "Learn Encapsulation by Building a Projectile Trajectory Calculator",
+        "title": "通过创建抛体轨迹计算器学习封装",
         "intro": [
-          "Encapsulation is a core OOP principle based on writing code that limits direct access to data.",
-          "In this project, you'll discover new concepts related to encapsulation, such as getters, setters, and name mangling, and you'll use them together with what you already learned to create a program that calculates a projectile trajectory."
+          "封装是面向对象编程的核心原则之一，其基础是编写限制对数据直接访问的代码。",
+          "在本项目中，你将学习与封装相关的新概念，如 getter、setter 和名称重整，并结合已学知识创建一个抛体轨迹计算程序。"
         ]
       },
       "learn-the-bisection-method-by-finding-the-square-root-of-a-number": {
-        "title": "Learn the Bisection Method by Finding the Square Root of a Number",
+        "title": "通过求解数的平方根学习二分法",
         "intro": [
-          "Numerical methods are used to approximate solutions to mathematical problems that are difficult or impossible to solve analytically.",
-          "In this project, you will explore the numerical method of bisection to find the square root of a number by iteratively narrowing down the possible range of values that contain the square root."
+          "数值方法用于近似求解难以或无法用解析法解决的数学问题。",
+          "在本项目中，你将探索二分法这一数值方法，通过不断缩小包含平方根的可能取值范围，来近似求解一个数的平方根。"
         ]
       }
     }
@@ -1148,8 +1148,8 @@
     "title": "面试攻略",
     "intro": [
       "如果你正在寻找免费的编程训练来帮你为下一个工作面试做准备，我们已经帮你准备好了。",
-      "This section contains dozens of coding challenges that test your knowledge of algorithms, data structures, and mathematics. It also has a number of take-home projects you can use to strengthen your skills, or add to your portfolio.",
-      "This work incorporates material from <a href=\"https://www.wikipedia.org/\" target=\"_blank\">Wikipedia</a>, which is licensed under the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike License 4.0</a>. The original content might have been modified and adapted. For the unaltered version and additional details, see the original page on <a href=\"https://www.wikipedia.org/\" target\"_blank\">Wikipedia</a>."
+      "本部分包含数十个编程挑战，测试你对算法、数据结构和数学的理解。还包含一些带回家完成的项目，帮助你提升技能或丰富你的作品集。",
+      "本作品包含来自 <a href=\"https://www.wikipedia.org/\" target=\"_blank\">维基百科</a> 的内容，遵循 <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">知识共享署名-相同方式共享 4.0 国际许可协议</a>。原始内容可能已被修改和调整。未经修改的版本及更多细节，请参见 <a href=\"https://www.wikipedia.org/\" target=\"_blank\">维基百科</a> 原页面。"
     ],
     "note": "欧拉计划和罗塞塔代码已移至各自的课程中。返回课程列表查看我们提供的课程。",
     "blocks": {
@@ -1177,14 +1177,14 @@
     }
   },
   "the-odin-project": {
-    "title": "The Odin Project - freeCodeCamp Remix",
+    "title": "Odin 项目 - freeCodeCamp 增强版",
     "intro": [
-      "The Odin Project 由开发人员 Erik Trautman 创建于 2013 年。多年来，开源社区不断维护和扩展该项目。",
+      "Odin 项目由开发者 Erik Trautman 于 2013 年创建。多年来，开源社区不断维护和扩展该项目。",
       "freeCodeCamp 在开源课程的基础上进行了扩展，使其可以在浏览器中交互运行，并通过测试来评估你的代码，确保你理解了关键概念。",
-      "如果你想体验在本地计算机上配置运行所有 The Odin Project，可以在 <a href='https://www.theodinproject.com/' target='_blank' rel='noopener noreferrer nofollow'>The Odin Project 网站</a> 上查看原始的 Odin Project。衷心感谢 The Odin Project 社区持续为世界各地的开发人员维护这一宝贵的学习资源。",
-      "This course is unofficial, and not endorsed by The Odin Project. Changes to The Odin Project curriculum content have been made, and all instructional material for this course is licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' target='_blank' rel='noopener noreferrer nofollow'>CC-BY-SA-NC 4.0</a>",
-      "<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed' target='_blank' rel='noopener noreferrer nofollow'>&copy; The Odin Project</a>",
-      "This course includes content from <a href='https://javascript.info/' target='_blank' rel='noopener noreferrer nofollow'>JavaScript.info</a>, which is licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' target='_blank' rel='noopener noreferrer nofollow'>CC-BY-NC-SA 4.0</a>."
+      "如果你想体验在本地计算机上配置并运行完整的 Odin 项目，可以访问 <a href='https://www.theodinproject.com/' target='_blank' rel='noopener noreferrer nofollow'>Odin 项目官网</a> 查看原始内容。衷心感谢 Odin 项目社区持续为全球开发者维护这一宝贵的学习资源。",
+      "本课程为非官方版本，未获得 Odin 项目的认可。课程内容已做出调整，所有教学材料均遵循 <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' target='_blank' rel='noopener noreferrer nofollow'>CC-BY-NC-SA 4.0</a> 许可协议。",
+      "<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed' target='_blank' rel='noopener noreferrer nofollow'>&copy; Odin 项目</a>",
+      "本课程包含来自 <a href='https://javascript.info/' target='_blank' rel='noopener noreferrer nofollow'>JavaScript.info</a> 的内容，遵循 <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' target='_blank' rel='noopener noreferrer nofollow'>CC-BY-NC-SA 4.0</a> 许可协议。"
     ],
     "blocks": {
       "top-learn-html-foundations": {
@@ -1266,19 +1266,19 @@
         "intro": ["通过构建基本函数来测试你的 JavaScript 技能。"]
       },
       "top-learn-arrays-and-loops": {
-        "title": "Learn Arrays and Loops",
-        "intro": ["Learn about arrays and loops in JavaScript."]
+        "title": "学习数组和循环",
+        "intro": ["学习 JavaScript 中的数组和循环。"]
       },
       "top-learn-to-solve-problems-and-understand-errors": {
-        "title": "Learn to Solve Problems and Understand Errors",
+        "title": "学习解决问题和理解错误",
         "intro": [
-          "Learn how to solve problems and understand errors in JavaScript."
+          "学习如何在 JavaScript 中解决问题并理解错误。"
         ]
       },
       "top-build-a-rock-paper-scissors-game": {
-        "title": "Build a Rock Paper Scissor Game",
+        "title": "通过创建石头剪刀布游戏巩固所学",
         "intro": [
-          "Put your JavaScript skills to the test by building a Rock Paper Scissors game."
+          "通过编写石头剪刀布游戏来检验你的 JavaScript 技能。"
         ]
       }
     }
@@ -1323,7 +1323,7 @@
     }
   },
   "foundational-c-sharp-with-microsoft": {
-    "title": "Free Foundational C# with Microsoft Certification",
+    "title": "微软 C# 基础认证（免费）",
     "intro": [
       "本课程全面介绍 C# 编程，涵盖其核心概念、语法和在软件开发中的实际应用。",
       "通过实践练习和项目，你将学习 C# 的基础知识，包括变量、数据类型、控制结构和面向对象编程原理。",
@@ -1374,7 +1374,7 @@
     }
   },
   "a2-english-for-developers": {
-    "title": "A2 English for Developers (Beta) Certification",
+    "title": "A2 开发者英语（测试版）认证",
     "intro": [
       "在开发者英语课程中，你将学习英语交流的基本要素。课程遵循欧洲共同语言参考标准（CEFR）的 A2 级，侧重于对开发者有用的词汇。",
       "课程的前半部分将帮助你熟悉英语语法和用法。你将通过大量的实践练习学习自我介绍、聊天和讨论工作等基础知识。",
@@ -1439,270 +1439,271 @@
       "learn-how-to-have-a-conversation-about-preferences-and-motivations": {
         "title": "学习如何就偏好和动机进行对话",
         "intro": [
-          "In this course, you'll learn how to ask about what motivates people in their personal and professional lives, answer questions related to your motivations, and discuss about people's preferences."
+          "在本课程中，你将学习如何询问他人在个人和职业生活中的动力，如何回答与自己动机相关的问题，以及如何讨论人们的偏好。"
         ]
       },
       "learn-how-to-discuss-popular-trends-in-technology": {
         "title": "学习如何讨论流行的技术趋势",
         "intro": [
-          "In this course, you'll learn how to discuss about things that everybody's talking about in technology these days."
+          "在本课程中，你将学习如何讨论当下科技领域大家都在谈论的话题。"
         ]
       },
       "learn-how-to-clarify-information-in-different-interactions": {
         "title": "学习如何在不同的互动中阐明信息",
         "intro": [
-          "In this course, you'll learn how to check to see if the information you had is correct and how to ask for clarification when something is not clear to you."
+          "在本课程中，你将学习如何确认你获得的信息是否正确，以及在不清楚时如何请求澄清。"
         ]
       },
       "learn-how-to-use-basic-programming-vocabulary-in-conversations": {
         "title": "学习如何在对话中使用基本编程词汇",
         "intro": [
-          "This course will present basic vocabulary related to programming. You'll learn how to ask questions related to basic programming concepts."
+          "本课程将介绍与编程相关的基础词汇。你将学习如何就基本编程概念提问。"
         ]
       },
       "learn-how-to-use-code-related-concepts-and-terms": {
         "title": "学习如何使用代码相关的概念和术语",
         "intro": [
-          "In this course, you will be introduced to terms related to coding and learn how to use them in conversation."
+          "在本课程中，你将接触与编程相关的术语，并学习如何在对话中使用它们。"
         ]
       },
       "learn-how-to-discuss-tech-trends-and-updates": {
         "title": "学习如何谈论技术趋势和更新",
         "intro": [
-          "In this course, you will be introduced to some recent trends in the world of technology and learn how to discuss them in English."
+          "在本课程中，你将了解科技领域的一些最新趋势，并学习如何用英语讨论这些内容。"
         ]
       },
       "learn-how-to-help-a-coworker-troubleshoot-on-github": {
         "title": "学习如何在 GitHub 上帮助同事解决问题",
         "intro": [
-          "In this course, you will learn expression related to how to ask for help from a coworker as well as how to offer them some assistance."
+          "在本课程中，你将学习如何向同事寻求帮助以及如何为他们提供协助的相关表达。"
         ]
       },
       "learn-how-to-share-your-progress-in-weekly-stand-up-meetings": {
         "title": "学习如何在每周站立会议上分享你的进展",
         "intro": [
-          "This course will show you how to talk about your projects in terms of what you have already done and what you are currently doing in them."
+          "本课程将教你如何用“已经完成”和“正在进行”的表达方式介绍你的项目进展。"
         ]
       },
       "learn-how-to-ask-for-clarification-on-code-understanding": {
         "title": "学习如何要求澄清对代码的理解",
         "intro": [
-          "In this course, you will see how you can ask questions to clarify things which are not very clear to you in a code."
+          "在本课程中，你将学习如何针对代码中不太明白的地方提出澄清性问题。"
         ]
       },
       "learn-how-to-document-code-for-a-project": {
         "title": "学习如何为项目写代码文档",
         "intro": [
-          "This course will show you expressions related to what to do when documenting code."
+          "本课程将介绍编写代码文档时常用的表达方式。"
         ]
       },
       "learn-how-to-read-and-understand-code-documentation": {
         "title": "学习如何阅读和理解代码文档",
         "intro": [
-          "This course will present more expressions related to code documentation and bring tips on how to understand it."
+          "本课程将介绍更多与代码文档相关的表达，并提供理解文档的技巧。"
         ]
       },
       "learn-how-to-analyze-code-documentation": {
         "title": "学习如何分析代码文档",
         "intro": [
-          "In this course, you will see some ideas to help you to approach documentation and analyze it in simple terms."
+          "在本课程中，你将学习如何用简单的方式分析和理解文档。"
         ]
       },
       "learn-how-to-share-progress-and-accomplishments": {
         "title": "学习如何分享进度和成就",
         "intro": [
-          "In this course, you will learn how to share your progress with coworkers and tell about what successes you've had in your projects."
+          "在本课程中，你将学习如何与同事分享你的进展，以及如何介绍你在项目中取得的成果。"
         ]
       },
       "learn-how-to-talk-about-updates-and-plans-for-tasks-and-projects": {
-        "title": "Learn How to Talk about Updates and Plans for Tasks and Projects",
+        "title": "学习如何谈论任务和项目的更新与计划",
         "intro": [
-          "This course will show you how to speak about the most recent advancements in your projects and about your plans."
+          "本课程将教你如何介绍项目的最新进展以及你的后续计划。"
         ]
       },
       "learn-how-to-express-agreement-or-disagreement": {
         "title": "学习如何表达同意或不同意",
         "intro": [
-          "This course will introduce how to say that you agree with what another person says and to tell them politely that you do not agree with them."
+          "本课程将介绍如何表达你同意他人的观点，以及如何礼貌地表达不同意。"
         ]
       },
       "learn-how-to-offer-technical-support-and-guidance": {
         "title": "学习如何提供技术支持和指导",
         "intro": [
-          "In this course, you will see ways of offering some help in terms of technical specifics to another person."
+          "在本课程中，你将学习如何向他人提供技术方面的帮助。"
         ]
       },
       "learn-how-to-request-and-receive-guidance": {
         "title": "学习如何请求和接受指导",
         "intro": [
-          "This course will show you how to ask for assistance from a coworker when you need it."
+          "本课程将教你在需要时如何向同事请求帮助。"
         ]
       },
       "learn-how-to-provide-explanations-when-helping-others": {
         "title": "学习如何在帮助别人时提供解释",
         "intro": [
-          "This course will provide you with ways to explain things to other people while assisting them."
+          "本课程将为你提供在协助他人时进行解释的表达方式。"
         ]
       },
       "a2-english-for-developers-certification-exam": {
-        "title": "A2 English for Developers Certification Exam",
+        "title": "A2 开发者英语认证考试",
         "intro": [
-          "This exam is required to claim the A2 English for Developers Certification."
+          "要获得 A2 开发者英语认证，必须通过本考试。"
         ]
+      }
       }
     }
   },
   "b1-english-for-developers": {
-    "title": "B1 English for Developers (Beta) Certification",
+    "title": "B1 开发者英语（测试版）认证",
     "intro": [
-      "In this English for Developers Curriculum, you'll learn the essentials of English communication. This will follow the B1 level of the Common European Framework of Reference (CEFR). And we've focused on vocabulary that is particularly useful for developers.",
-      "It will help you strengthen your foundational skills while introducing more complex grammar and usage. You'll learn how to describe places and things, share past experiences, and confidently use tenses like Present Perfect and Future. Practical communication strategies are included as well, such as managing conversations, expressing opinions, and building agreement or disagreement in discussions.",
-      "You'll also focus on applying these skills in professional and technical settings. You'll practice vocabulary and phrases essential for developers, such as describing code, participating in stand-up meetings, and discussing tech trends. Advanced topics include conditionals, comparative structures, and conversation management, so you can prepare for real-world interactions in the tech industry.",
-      "This entire B1-level curriculum includes 73 different dialogues. Each is designed to build your vocabulary and boost your confidence when speaking in a professional tech setting."
+      "在开发者英语课程中，你将学习英语交流的核心要素。本课程遵循欧洲共同语言参考标准（CEFR）的 B1 级，重点关注对开发者特别有用的词汇。",
+      "课程将帮助你巩固基础技能，同时引入更复杂的语法和用法。你将学习如何描述地点和事物、分享过去的经历，并自信地使用现在完成时和将来时。课程还包含实用的交流策略，如管理对话、表达观点以及在讨论中建立同意或不同意。",
+      "你还将专注于在专业和技术环境中应用这些技能。你将练习开发者必备的词汇和表达方式，例如描述代码、参与站立会议和讨论技术趋势。高级主题包括条件句、比较结构和对话管理，帮助你为技术行业的真实交流做好准备。",
+      "整个 B1 级课程包含 73 个不同的对话。每个对话都旨在帮助你积累词汇，并增强你在专业技术环境中用英语交流的信心。"
     ],
     "blocks": {
       "learn-how-to-describe-places-and-events": {
-        "title": "Learn How to Describe Places and Events",
+        "title": "学习如何描述地点和事件",
         "intro": [
-          "This course will show you ways of talking about places and events conversationally."
+          "本课程将教你如何用对话的方式描述地点和事件。"
         ]
       },
       "learn-how-to-talk-about-past-experiences": {
-        "title": "Learn How to Talk About Past Experiences",
+        "title": "学习如何谈论过去的经历",
         "intro": [
-          "In this course, you will learn how to share experiences that you had in the past."
+          "在本课程中，你将学习如何分享你过去的经历。"
         ]
       },
       "learn-how-to-talk-about-past-activities": {
-        "title": "Learn How to Talk About Past Activities",
+        "title": "学习如何谈论过去的活动",
         "intro": [
-          "In this course, you will learn how talk about things that you did."
+          "在本课程中，你将学习如何谈论你做过的事情。"
         ]
       },
       "learn-present-perfect-while-talking-about-accessibility": {
-        "title": "Learn Present Perfect while Talking About Accessibility",
+        "title": "通过谈论无障碍学习现在完成时",
         "intro": [
-          "In this course, you will learn to use the Present Perfect structure and learn a bit more about accessibility."
+          "在本课程中，你将学习如何使用现在完成时结构，并进一步了解无障碍相关内容。"
         ]
       },
       "learn-how-to-plan-future-events": {
-        "title": "Learn How to Plan Future Events",
+        "title": "学习如何规划未来事件",
         "intro": [
-          "In this course, you will learn to use the different forms of the future to plan for upcoming events."
+          "在本课程中，你将学习如何用不同的将来时表达计划中的事件。"
         ]
       },
       "learn-future-continuous-while-describing-actions": {
-        "title": "Learn Future Continuous while Describing Actions",
+        "title": "通过描述动作学习将来进行时",
         "intro": [
-          "In this course, you will learn to use the Future Continuous tense, and how to describe actions to be performed."
+          "在本课程中，你将学习如何使用将来进行时，并描述即将要做的动作。"
         ]
       },
       "learn-how-to-use-conditionals": {
-        "title": "Learn How to Use Conditionals",
+        "title": "学习如何使用条件句",
         "intro": [
-          "In this course, you will learn to use the conditional sentences to describe hypothetical outcomes depending on the fact that certain conditions are met."
+          "在本课程中，你将学习如何用条件句描述在某些条件满足时可能发生的假设结果。"
         ]
       },
       "learn-how-to-share-feedback": {
-        "title": "Learn How to Share Feedback",
+        "title": "学习如何给予反馈",
         "intro": [
-          "In this course, you will see ways of telling other people how you feel about their work, highlighting both their strengths and points for improvement."
+          "在本课程中，你将学习如何向他人表达你对他们工作的看法，包括优点和改进建议。"
         ]
       },
       "learn-how-to-share-your-opinion": {
-        "title": "Learn How to Share Your Opinion",
+        "title": "学习如何表达你的观点",
         "intro": [
-          "This course will show you how to express your ideas and feeling towards topics in a discussion."
+          "本课程将教你如何在讨论中表达你的想法和感受。"
         ]
       },
       "learn-how-to-express-agreement": {
-        "title": "Learn How to Express Agreement",
+        "title": "学习如何表达同意",
         "intro": [
-          "In this course, you will learn to express agreement in different professional settings."
+          "在本课程中，你将学习在不同的专业场合表达同意。"
         ]
       },
       "learn-how-to-express-disagreement": {
-        "title": "Learn How to Express Disagreement",
+        "title": "学习如何表达不同意",
         "intro": [
-          "In this course, you will learn to express disagreement in different professional settings."
+          "在本课程中，你将学习在不同的专业场合表达不同意。"
         ]
       },
       "learn-how-to-express-concerns": {
-        "title": "Learn How to Express Concerns",
+        "title": "学习如何表达担忧",
         "intro": [
-          "In this course, you will learn to inform other people that you are worried about things that might happen to your projects and tasks."
+          "在本课程中，你将学习如何告知他人你对项目或任务可能发生的事情感到担忧。"
         ]
       },
       "learn-how-to-express-decisions-based-on-comparisons": {
-        "title": "Learn How to Express Decisions Based on Comparisons",
+        "title": "学习如何基于比较做出决策",
         "intro": [
-          "In this course, you will learn how to compare things like tools or companies using words like better, faster, and the best. You will also practice having friendly conversations to give opinions and make decisions"
+          "在本课程中，你将学习如何用“更好、更快、最好”等词比较工具或公司，并练习在友好对话中表达观点和做出决策。"
         ]
       },
       "learn-how-to-use-modal-verbs": {
-        "title": "Learn How to Use Modal Verbs",
+        "title": "学习如何使用情态动词",
         "intro": [
-          "In this course, you will learn how to talk about rules, describe things that are necessary, and what could happen if they aren't. You'll also practice asking and answering questions clearly, and adding helpful details to your ideas."
+          "在本课程中，你将学习如何谈论规则、描述必要的事情，以及如果不做会发生什么。你还将练习清晰地提问和回答，并为你的观点补充有用细节。"
         ]
       },
       "learn-how-to-manage-a-conversation": {
-        "title": "Learn How to Manage a Conversation",
+        "title": "学习如何管理对话",
         "intro": [
-          "In this course, you will learn how to manage conversations at work — like how to continue a talk after a break, change topics politely, or interrupt when needed. You'll also practice using useful expressions to keep the conversation clear, friendly, and organized."
+          "在本课程中，你将学习如何在工作中管理对话——比如如何在中断后继续、礼貌地转换话题或在需要时插话。你还将练习使用有用表达，使对话清晰、友好且有条理。"
         ]
       },
       "learn-how-to-clarify-misunderstandings": {
-        "title": "Learn How to Clarify Misunderstandings",
+        "title": "学习如何澄清误解",
         "intro": [
-          "In this course, you will learn how to ask for and give explanations when something is not clear, using polite questions and helpful responses. You'll also practice guessing the meaning of new words, describing problems, and clearing up misunderstandings in a friendly and professional way."
+          "在本课程中，你将学习在遇到不清楚的地方如何请求和给予解释，使用礼貌的提问和有帮助的回应。你还将练习猜测新词含义、描述问题，并以友好和专业的方式消除误解。"
         ]
       },
       "learn-about-speculation-and-requests": {
-        "title": "Learn About Speculation and Requests",
+        "title": "学习推测和请求表达",
         "intro": [
-          "In this course, you will learn how to talk about things that should or could have happened in the past, and how to give suggestions or make polite requests. You'll also practice using expressions to guess what might have caused a problem and how to work together to solve it in a clear and respectful way."
+          "在本课程中，你将学习如何谈论本应或可能发生的事情，以及如何提出建议或礼貌地请求。你还将练习用表达方式推测问题原因，并以清晰、尊重的方式共同解决问题。"
         ]
       },
       "learn-about-adverbial-phrases": {
-        "title": "Learn About Adverbial Phrases",
+        "title": "学习状语短语",
         "intro": [
-          "In this course, you will learn how to use phrases that give more information about when, where, how often, or how much something happens. You'll also practice using these phrases to describe tasks, talk about plans, and explain results more clearly in your daily work."
+          "在本课程中，你将学习如何使用状语短语，补充说明事情发生的时间、地点、频率或程度。你还将练习用这些短语描述任务、谈论计划，并更清晰地解释结果。"
         ]
       },
       "learn-how-to-use-adjectives-in-conversations": {
-        "title": "Learn How to Use Adjectives in Conversations",
+        "title": "学习在对话中使用形容词",
         "intro": [
-          "In this course, you will learn how to use adjectives to describe things clearly, compare options, and highlight important details in professional conversations. You'll also practice how to make your ideas stronger and more persuasive."
+          "在本课程中，你将学习如何用形容词清晰地描述事物、比较选项，并突出专业对话中的重要细节。你还将练习如何让你的观点更有说服力。"
         ]
       },
       "learn-determiners-and-advanced-use-of-articles": {
-        "title": "Learn Determiners and Advanced Use of Articles",
+        "title": "学习限定词和冠词的高级用法",
         "intro": [
-          "In this course, you will learn how to use determiners to give clear information about quantity, choice, and distribution. You will also practice using articles in more advanced ways, especially in professional conversations about planning, tasks, and resources."
+          "在本课程中，你将学习如何用限定词清晰表达数量、选择和分配。你还将练习在专业对话中更高级地使用冠词，特别是在讨论计划、任务和资源时。"
         ]
       },
       "learn-how-to-use-reported-speech": {
-        "title": "Learn How to Use Reported Speech",
+        "title": "学习如何使用间接引语",
         "intro": [
-          "In this course, you will learn how to report what someone else said in a clear and natural way. You will also practice using the correct verb tenses and sentence structures to share feedback, explain situations, and talk about past events in professional conversations."
+          "在本课程中，你将学习如何用清晰自然的方式转述他人的话。你还将练习使用正确的时态和句型，在专业对话中分享反馈、解释情况和谈论过去的事件。"
         ]
       },
       "learn-how-to-use-prepositions-according-to-context": {
-        "title": "Learn How to Use Prepositions According to Context",
+        "title": "学习根据语境使用介词",
         "intro": [
-          "In this course, you will learn how to use prepositions to describe time, place, and direction clearly in everyday work situations. You will also practice talking about schedules, giving directions, and explaining where people or things are located using natural and accurate language."
+          "在本课程中，你将学习如何用介词清晰描述时间、地点和方向。你还将练习用自然准确的语言谈论日程、给出指引和说明人员或物品的位置。"
         ]
       },
       "learn-how-to-talk-about-numbers-with-a-coworker": {
-        "title": "Learn How to Talk About Numbers with a Coworker",
+        "title": "学习如何与同事谈论数字",
         "intro": [
-          "In this course, you will learn how to use numbers to talk about tasks, schedules, budgets, and resources in the workplace. You will practice using cardinal and ordinal numbers, percentages, and fractions to organize work, explain progress, and share inventory or financial updates clearly with your team."
+          "在本课程中，你将学习如何用数字谈论任务、日程、预算和资源。你将练习使用基数词、序数词、百分比和分数，清晰地组织工作、解释进展，并与团队分享库存或财务更新。"
         ]
       },
       "learn-common-phrasal-verbs-and-idioms": {
-        "title": "Learn Common Phrasal Verbs and Idioms",
+        "title": "学习常见短语动词和习语",
         "intro": [
-          "In this course, you will learn how to use common phrasal verbs and idioms to sound more natural and confident at work. You will practice using expressions to give opinions, make suggestions, organize meetings, and talk about tasks in everyday professional conversations."
+          "在本课程中，你将学习如何使用常见短语动词和习语，让你的表达更自然、自信。你将练习用这些表达方式发表意见、提出建议、组织会议和在日常专业对话中谈论任务。"
         ]
       }
     }
@@ -1722,1704 +1723,1364 @@
     }
   },
   "full-stack-developer": {
-    "title": "Certified Full Stack Developer Curriculum",
+    "title": "全栈开发者认证课程",
     "intro": [
-      "This course provides a comprehensive pathway to becoming a Certified Full Stack Developer, covering all the essential technologies required to build modern, scalable web applications from start to finish.",
-      "Through a blend of interactive lessons, coding exercises, and real-world projects, you will master both frontend and backend development. You'll work with HTML, CSS, and JavaScript to build responsive user interfaces, explore React and TypeScript for advanced web applications, and learn to manage data with relational databases - and on the backend, you'll use Git, Npm, Node.js, and Python to create powerful server-side solutions.",
-      "By the end of this course, you'll have the practical skills and experience to confidently develop complete web applications, preparing you for a successful career as a Full Stack Developer.",
-      "This certification will take you a substantial amount of time and effort to complete. If you start now, you may be ready to start the remaining material and final exam when we launch it in the coming months."
+      "本课程为成为认证全栈开发者提供了全面的学习路径，涵盖构建现代、可扩展 Web 应用所需的所有核心技术。",
+      "通过互动课程、编程练习和真实项目，你将精通前端和后端开发。你将使用 HTML、CSS 和 JavaScript 构建响应式用户界面，深入学习 React 和 TypeScript 开发高级 Web 应用，并掌握关系型数据库的数据管理——在后端，你将使用 Git、Npm、Node.js 和 Python 构建强大的服务器端解决方案。",
+      "课程结束时，你将具备独立开发完整 Web 应用的实用技能和经验，为成为一名成功的全栈开发者做好准备。",
+      "完成本认证将需要你投入大量时间和精力。如果你现在开始学习，等我们在未来几个月上线剩余内容和最终考试时，你可能已经准备好迎接挑战。"
     ],
     "chapters": {
-      "freecodecamp": "Welcome",
+      "freecodecamp": "欢迎",
       "html": "HTML",
       "css": "CSS",
       "javascript": "JavaScript",
-      "frontend-libraries": "Front End Libraries",
-      "relational-databases": "Relational Databases",
-      "backend-javascript": "Backend JavaScript",
+      "frontend-libraries": "前端库",
+      "relational-databases": "关系型数据库",
+      "backend-javascript": "后端 JavaScript",
       "python": "Python",
-      "exam-certified-full-stack-developer": "Certified Full Stack Developer Exam"
+      "exam-certified-full-stack-developer": "全栈开发者认证考试"
     },
     "modules": {
-      "getting-started-with-freecodecamp": "Getting Started with freeCodeCamp",
-      "basic-html": "Basic HTML",
-      "semantic-html": "Semantic HTML",
-      "html-forms-and-tables": "Forms and Tables",
-      "html-and-accessibility": "Accessibility",
-      "review-html": "HTML Review",
-      "exam-html": "HTML Exam",
-      "computer-basics": "Computer Basics",
-      "basic-css": "Basic CSS",
-      "design-for-developers": "Design",
-      "absolute-and-relative-units": "Absolute and Relative Units",
-      "pseudo-classes-and-elements": "Pseudo Classes and Elements",
-      "css-colors": "Colors",
-      "styling-forms": "Styling Forms",
-      "css-box-model": "The Box Model",
+      "getting-started-with-freecodecamp": "freeCodeCamp 入门",
+      "basic-html": "基础 HTML",
+      "semantic-html": "语义化 HTML",
+      "html-forms-and-tables": "表单与表格",
+      "html-and-accessibility": "无障碍",
+      "review-html": "HTML 复习",
+      "exam-html": "HTML 考试",
+      "computer-basics": "计算机基础",
+      "basic-css": "基础 CSS",
+      "design-for-developers": "设计",
+      "absolute-and-relative-units": "绝对与相对单位",
+      "pseudo-classes-and-elements": "伪类与伪元素",
+      "css-colors": "颜色",
+      "styling-forms": "表单样式",
+      "css-box-model": "盒模型",
       "css-flexbox": "Flexbox",
-      "css-typography": "Typography",
-      "css-and-accessibility": "Accessibility",
-      "attribute-selectors": "Attribute Selectors",
-      "css-positioning": "Positioning",
-      "responsive-design": "Responsive Design",
-      "css-variables": "Variables",
-      "css-grid": "Grid",
-      "css-animations": "Animations",
-      "exam-css": "CSS Exam",
-      "code-editors": "Code Editors",
-      "javascript-variables-and-strings": "Variables and Strings",
-      "javascript-booleans-and-numbers": "Booleans and Numbers",
-      "javascript-functions": "Functions",
-      "javascript-arrays": "Arrays",
-      "javascript-objects": "Objects",
-      "javascript-loops": "Loops",
-      "review-javascript-fundamentals": "JavaScript Fundamentals Review",
-      "higher-order-functions-and-callbacks": "Higher Order Functions and Callbacks",
-      "dom-manipulation-and-events": "DOM Manipulation and Events",
-      "debugging-javascript": "Debugging",
-      "basic-regex": "Basic Regex",
-      "form-validation": "Form Validation",
-      "javascript-dates": "Dates",
-      "audio-and-video-events": "Audio and Video Events",
-      "maps-and-sets": "Maps and Sets",
-      "localstorage-and-crud-operations": "localStorage and CRUD Operations",
-      "classes-and-the-this-keyword": "Classes",
-      "recursion": "Recursion",
-      "functional-programming": "Functional Programming",
-      "asynchronous-javascript": "Asynchronous JavaScript",
-      "exam-javascript": "JavaScript Exam",
-      "react-fundamentals": "React Fundamentals",
-      "react-state-hooks-and-routing": "React State, Hooks, and Routing",
-      "performance": "Performance",
-      "css-libraries-and-frameworks": "CSS Libraries and Frameworks",
-      "testing": "Testing",
-      "typescript-fundamentals": "TypeScript Fundamentals",
-      "review-front-end-libraries": "Front End Libraries Review",
-      "exam-front-end-libraries": "Front End Libraries Exam",
-      "sql-and-bash": "SQL and Bash",
+      "css-typography": "排版",
+      "css-and-accessibility": "无障碍",
+      "attribute-selectors": "属性选择器",
+      "css-positioning": "定位",
+      "responsive-design": "响应式设计",
+      "css-variables": "变量",
+      "css-grid": "网格",
+      "css-animations": "动画",
+      "exam-css": "CSS 考试",
+      "code-editors": "代码编辑器",
+      "javascript-variables-and-strings": "变量与字符串",
+      "javascript-booleans-and-numbers": "布尔值与数字",
+      "javascript-functions": "函数",
+      "javascript-arrays": "数组",
+      "javascript-objects": "对象",
+      "javascript-loops": "循环",
+      "review-javascript-fundamentals": "JavaScript 基础复习",
+      "higher-order-functions-and-callbacks": "高阶函数与回调",
+      "dom-manipulation-and-events": "DOM 操作与事件",
+      "debugging-javascript": "调试",
+      "basic-regex": "基础正则表达式",
+      "form-validation": "表单验证",
+      "javascript-dates": "日期",
+      "audio-and-video-events": "音视频事件",
+      "maps-and-sets": "Map 与 Set",
+      "localstorage-and-crud-operations": "localStorage 与 CRUD 操作",
+      "classes-and-the-this-keyword": "类",
+      "recursion": "递归",
+      "functional-programming": "函数式编程",
+      "asynchronous-javascript": "异步 JavaScript",
+      "exam-javascript": "JavaScript 考试",
+      "react-fundamentals": "React 基础",
+      "react-state-hooks-and-routing": "React 状态、Hooks 与路由",
+      "performance": "性能",
+      "css-libraries-and-frameworks": "CSS 库与框架",
+      "testing": "测试",
+      "typescript-fundamentals": "TypeScript 基础",
+      "review-front-end-libraries": "前端库复习",
+      "exam-front-end-libraries": "前端库考试",
+      "sql-and-bash": "SQL 与 Bash",
       "git": "Git",
-      "security-and-privacy": "Security and Privacy",
-      "python-basics": "Python Basics",
-      "python-loops-and-sequences": "Loops and Sequences",
-      "python-dictionaries-and-sets": "Dictionaries and Sets",
-      "python-error-handling": "Error Handling",
-      "python-classes-and-objects": "Classes and Objects",
-      "python-object-oriented-programming": "Object-Oriented Programming (OOP)",
-      "python-linear-data-structures": "Linear Data Structures",
-      "python-algorithms": "Algorithms",
-      "python-graphs-and-trees": "Graphs and Trees",
-      "python-dynamic-programming": "Dynamic Programming",
-      "review-python": "Python Review",
-      "exam-python": "Python Exam"
+      "security-and-privacy": "安全与隐私",
+      "python-basics": "Python 基础",
+      "python-loops-and-sequences": "循环与序列",
+      "python-dictionaries-and-sets": "字典与集合",
+      "python-error-handling": "错误处理",
+      "python-classes-and-objects": "类与对象",
+      "python-object-oriented-programming": "面向对象编程（OOP）",
+      "python-linear-data-structures": "线性数据结构",
+      "python-algorithms": "算法",
+      "python-graphs-and-trees": "图与树",
+      "python-dynamic-programming": "动态规划",
+      "review-python": "Python 复习",
+      "exam-python": "Python 考试"
     },
-    "blocks": {
-      "lecture-welcome-to-freecodecamp": {
-        "title": "Welcome to freeCodeCamp",
-        "intro": [
-          "Watch these videos to learn what freeCodeCamp is, and how millions of people have learned to code and gotten developer jobs using it."
-        ]
-      },
-      "lecture-what-is-html": {
-        "title": "What is HTML?",
-        "intro": [
-          "In this lecture video, you will be introduced to HTML (HyperText Markup Language), a markup language for creating web pages.",
-          "You will learn about HTML's role on the web, the basic syntax, and what HTML attributes are."
-        ]
-      },
-      "workshop-cat-photo-app": {
-        "title": "Build a Cat Photo App",
-        "intro": [
-          "HTML stands for HyperText Markup Language and it represents the content and structure of a web page.",
-          "In this workshop, you will learn how to work with basic HTML elements such as headings, paragraphs, images, links, and lists."
-        ]
-      },
-      "lab-recipe-page": {
-        "title": "Build a Recipe Page",
-        "intro": [
-          "In this lab, you'll review HTML basics by creating a web page of your favorite recipe. You'll create an HTML boilerplate and work with headings, lists, images, and more."
-        ]
-      },
-      "lecture-html-fundamentals": {
-        "title": "HTML Fundamentals",
-        "intro": [
-          "In these lecture videos, you will learn about HTML fundamentals like the <code>div</code> element, the <code>id</code> and <code>class</code> attributes, the HTML boilerplate, HTML entities, and more."
-        ]
-      },
-      "lab-travel-agency-page": {
-        "title": "Build a Travel Agency Page",
-        "intro": [
-          "In this lab, you'll review working with HTML fundamentals by creating a web page for a travel agency. You'll work with images, the <code>figure</code> element, the <code>figcaption</code> element, the <code>anchor</code> element, and more."
-        ]
-      },
-      "lecture-working-with-media": {
-        "title": "Working with Media",
-        "intro": [
-          "In these lecture videos, you will learn how to work with media assets like the <code>audio</code> and <code>video</code> elements, SVGs, how to optimize them, and more."
-        ]
-      },
-      "lab-video-compilation-page": {
-        "title": "Build a Video Compilation Page",
-        "intro": [
-          "In this lab, you'll create a video compilation web page. You'll practice working with the <code>iframe</code> element."
-        ]
-      },
-      "lecture-working-with-links": {
-        "title": "Working with Links",
-        "intro": [
-          "In these lecture videos, you will learn about links, the <code>target</code> attribute, different link states, absolute, and relative paths, and more."
-        ]
-      },
-      "review-basic-html": {
-        "title": "Basic HTML Review",
-        "intro": [
-          "Before you are quizzed on the HTML knowledge you have gained so far, you first need to review the concepts.",
-          "Open up this page to review the HTML boilerplate, <code>audio</code> and <code>video</code> elements, the different <code>target</code> attribute values and more."
-        ]
-      },
-      "quiz-basic-html": {
-        "title": "Basic HTML Quiz",
-        "intro": [
-          "The following quiz will test your knowledge of the basic HTML concepts you have learned so far.",
-          "If you're getting ready for the exam, there are several quiz sets available for practice. After completing a quiz, you can revisit this page to access a new set of questions."
-        ]
-      },
-      "lecture-importance-of-semantic-html": {
-        "title": "Importance of Semantic HTML",
-        "intro": [
-          "In these lecture videos, you will learn about semantic HTML and why you should care about it, semantic elements, how semantic HTML differs from presentational HTML, and more."
-        ]
-      },
-      "workshop-blog-page": {
-        "title": "Build a Cat Blog Page",
-        "intro": [
-          "In this workshop, you will build an HTML only blog page using semantic elements including the <code>main</code>, <code>nav</code>, <code>article</code> and <code>footer</code> elements."
-        ]
-      },
-      "lab-event-hub": {
-        "title": "Build an Event Hub",
-        "intro": [
-          "In this lab, you'll build an event hub and review semantic elements like <code>header</code>, <code>nav</code>, <code>article</code>, and more."
-        ]
-      },
-      "review-semantic-html": {
-        "title": "Semantic HTML Review",
-        "intro": [
-          "Before you are quizzed on semantic HTML, you first need to review the concepts.",
-          "Open up this page to review the <code>em</code>, <code>strong</code>, <code>blockquote</code>, <code>address</code> and more semantic HTML elements."
-        ]
-      },
-      "quiz-semantic-html": {
-        "title": "Semantic HTML Quiz",
-        "intro": [
-          "The following quiz will test your knowledge on semantic HTML concepts you have learned so far.",
-          "If you're getting ready for the exam, there are several quiz sets available for practice. After completing a quiz, you can revisit this page to access a new set of questions."
-        ]
-      },
-      "lecture-working-with-forms": {
-        "title": "Working with Forms",
-        "intro": [
-          "In these lecture videos, you will learn about forms, the role of labels, inputs and buttons in creating forms, client-side form validation, and form states."
-        ]
-      },
-      "workshop-hotel-feedback-form": {
-        "title": "Build a Hotel Feedback Form",
-        "intro": [
-          "In this workshop, you will build a Hotel Feedback Form.",
-          "You will practice working with labels, inputs, fieldsets, legends, textareas and buttons."
-        ]
-      },
-      "lab-survey-form": {
-        "title": "Build a Survey Form",
-        "intro": [
-          "In this lab, you'll review HTML forms by creating a survey form.",
-          "You'll practice working with the <code>label</code> element, the different <code>input</code> elements, the <code>required</code> attribute, and more. "
-        ]
-      },
-      "lecture-working-with-tables": {
-        "title": "Working with Tables",
-        "intro": [
-          "In these lecture videos, you will learn about HTML tables, how to create them, and when to use them."
-        ]
-      },
-      "workshop-final-exams-table": {
-        "title": "Build a Final Exams Table",
-        "intro": [
-          "In this workshop, you will practice working with HTML tables by building a table of final exams."
-        ]
-      },
-      "lab-book-catalog-table": {
-        "title": "Build a Book Catalog Table",
-        "intro": [
-          "In this lab, you'll review HTML tables by building a book information table.",
-          "You'll practice the different table components like the <code>thead</code>, <code>tbody</code>, <code>th</code>, <code>tr</code>, and <code>td</code> elements."
-        ]
-      },
-      "lecture-working-with-html-tools": {
-        "title": "Working with HTML Tools",
-        "intro": [
-          "In these lecture videos, you will learn about HTML tools and how they let you write better code. These tools include HTML validators, DOM Inspector, and the browser developer tools."
-        ]
-      },
-      "review-html-tables-and-forms": {
-        "title": "HTML Tables and Forms Review",
-        "intro": [
-          "Before you are quizzed on HTML forms, tables and tools, you first need to review the concepts.",
-          "Open up this page to review the <code>table</code>, <code>input</code>, and <code>button</code> elements as well as commonly used tools like the HTML validator and more."
-        ]
-      },
-      "quiz-html-tables-and-forms": {
-        "title": "HTML Tables and Forms Quiz",
-        "intro": [
-          "The following quiz will test your knowledge of HTML tables, forms and commonly used HTML tools.",
-          "If you're getting ready for the exam, there are several quiz sets available for practice. After completing a quiz, you can revisit this page to access a new set of questions."
-        ]
-      },
-      "lecture-importance-of-accessibility-and-good-html-structure": {
-        "title": "Importance of Accessibility and Good HTML Structure",
-        "intro": [
-          "In these lecture videos, you will learn about accessibility and its importance, assistive tools for people with disabilities, HTML attributes that let you create inclusive websites, accessibility best practices, and much more."
-        ]
-      },
-      "lab-checkout-page": {
-        "title": "Build a Checkout Page",
-        "intro": [
-          "In this lab, you'll create an accessible checkout page.",
-          "You'll practice concepts like <code>alt</code> attributes and aria roles."
-        ]
-      },
-      "lab-multimedia-player": {
-        "title": "Build a Multimedia Player",
-        "intro": [
-          "In this lab, you'll build a multimedia player.",
-          "You will practice working with the <code>audio</code> and <code>video</code> elements, the <code>controls</code> attribute, and the <code>aria-label</code> attribute."
-        ]
-      },
-      "review-html-accessibility": {
-        "title": "HTML Accessibility Review",
-        "intro": [
-          "Before you are quizzed on HTML and accessibility, you first need to review the concepts.",
-          "Open up this page to review concepts including the <code>aria-hidden</code>, <code>aria-describedby</code>, <code>tabindex</code> attributes and more."
-        ]
-      },
-      "quiz-html-accessibility": {
-        "title": "HTML Accessibility Quiz",
-        "intro": [
-          "The following quiz will test your knowledge on the accessibility concepts you have learned so far.",
-          "If you're getting ready for the exam, there are several quiz sets available for practice. After completing a quiz, you can revisit this page to access a new set of questions."
-        ]
-      },
-      "review-html": {
-        "title": "HTML Review",
-        "intro": [
-          "Before you take the HTML prep exam, you first need to review the concepts taught in the previous modules.",
-          "Open up this page to review concepts around the basics of HTML elements, semantic HTML, tables, forms and accessibility."
-        ]
-      },
-      "qpra": {
-        "title": "30",
-        "intro": []
-      },
-      "lecture-understanding-computer-internet-and-tooling-basics": {
-        "title": "Understanding Computer, Internet, and Tooling Basics",
-        "intro": [
-          "In these lecture videos, you will learn about the computer, its different parts, internet service providers (ISPs), and the tools professional developers use."
-        ]
-      },
-      "lecture-working-with-file-systems": {
-        "title": "Working with File Systems",
-        "intro": [
-          "In these lecture videos, you will learn how to work with file and folder systems on your computers. You will learn how to create, move, and delete files and folders, the best practices for naming and organizing files and folders, and more."
-        ]
-      },
-      "lecture-browsing-the-web-effectively": {
-        "title": "Browsing the Web Effectively",
-        "intro": [
-          "In these lecture videos, you will learn about what websites, search engine, and web browsers are, the different browsers available, and how to get the best out of a search engine."
-        ]
-      },
-      "review-computer-basics": {
-        "title": "Computer Basics Review",
-        "intro": [
-          "Before you are quizzed on basic computer and internet concepts, you first need to review.",
-          "Open up this page to review concepts like RAM, Internet service providers, common web browsers, search engines and more."
-        ]
-      },
-      "quiz-computer-basics": {
-        "title": "Computer Basics Quiz",
-        "intro": [
-          "Test what you've learned in this quiz of basic computer knowledge."
-        ]
-      },
-      "lecture-what-is-css": {
-        "title": "What Is CSS?",
-        "intro": [
-          "The following lecture videos are all about CSS. You will learn what CSS is and its role on the web, a CSS rule and its anatomy, the three ways to write CSS and when to use each, inline and block elements, and many more."
-        ]
-      },
-      "workshop-cafe-menu": {
-        "title": "Design a Cafe Menu",
-        "intro": [
-          "CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.",
-          "In this workshop, you'll learn CSS by designing a menu page for a cafe webpage."
-        ]
-      },
-      "lab-business-card": {
-        "title": "Design a Business Card",
-        "intro": [
-          "In this lab, you'll create a business card and style it using CSS.",
-          "You'll practice style properties like <code>color</code>, <code>font-size</code>, <code>text-align</code>, and more."
-        ]
-      },
-      "lecture-css-specificity-the-cascade-algorithm-and-inheritance": {
-        "title": "CSS Specificity, the Cascade Algorithm, and Inheritance",
-        "intro": [
-          "In these lecture videos, you will learn about CSS specificity, the common selectors and their specificities, the cascade algorithm, inheritance, and more."
-        ]
-      },
-      "review-basic-css": {
-        "title": "Basic CSS Review",
-        "intro": [
-          "Before you are quizzed on basic CSS concepts, you first need to review.",
-          "Open up this page to review concepts including <code>margin</code>, <code>padding</code>, CSS combinators, CSS specificity and more."
-        ]
-      },
-      "quiz-basic-css": {
-        "title": "Basic CSS Quiz",
-        "intro": [
-          "Test what you've learned in this quiz of basic CSS knowledge."
-        ]
-      },
-      "lecture-styling-lists-and-links": {
-        "title": "Styling Lists and Links",
-        "intro": [
-          "In these lecture videos, you will learn the properties you need to know to effectively style lists and links, including link states like <code>link</code>, <code>visited</code>, <code>hover</code>, and <code>active</code>."
-        ]
-      },
-      "lab-stylized-to-do-list": {
-        "title": "Build a Stylized To-Do List",
-        "intro": [
-          "In this lab, you'll build a To-Do list and apply different styles to the links",
-          "You'll practice style properties like <code>text-decoration</code>, <code>list-style-type</code> and how to change styles on hover or click."
-        ]
-      },
-      "lecture-working-with-backgrounds-and-borders": {
-        "title": "Working with Backgrounds and Borders",
-        "intro": [
-          "In these lecture videos, you will learn about the properties and values you need to know to style backgrounds and borders of elements, alongside the accessibility considerations for backgrounds."
-        ]
-      },
-      "lab-blog-post-card": {
-        "title": "Design a Blog Post Card",
-        "intro": [
-          "In this lab, you'll design a blog post card using HTML and CSS",
-          "You'll practice concepts like <code>background-color</code>, <code>border-radius</code>, margins, paddings, and more."
-        ]
-      },
-      "review-css-backgrounds-and-borders": {
-        "title": "Lists, Links, CSS Background and Borders Review",
-        "intro": [
-          "Before you are quizzed on CSS backgrounds and borders, you first need to review.",
-          "Open up this page to review concepts including the <code>background-image</code> property, <code>border</code> property and more."
-        ]
-      },
-      "quiz-css-backgrounds-and-borders": {
-        "title": "CSS Backgrounds and Borders Quiz",
-        "intro": [
-          "Test what you've learned in this quiz of backgrounds and borders in CSS."
-        ]
-      },
-      "lecture-user-interface-design-fundamentals": {
-        "title": "User Interface Design Fundamentals",
-        "intro": [
-          "In these lecture videos, you will learn about the fundamentals of user interface (UI) design. You will learn about the terms you need to know to communicate with designers, visual hierarchy, scaling, alignment, whitespace, and much more."
-        ]
-      },
-      "lecture-user-centered-design": {
-        "title": "User-Centered Design",
-        "intro": [
-          "In these lecture videos, you will learn about best practices for designing user-facing features like dark mode, breadcrumbs, modal dialogs, and much more. You will also learn how to conduct user research, user requirements and testing."
-        ]
-      },
-      "lecture-common-design-tools": {
-        "title": "Common Design Tools",
-        "intro": [
-          "In these lecture videos, you will learn about the common design tools developers should know. You will also learn about design briefs and how developers work with them."
-        ]
-      },
-      "review-design-fundamentals": {
-        "title": "Design Fundamentals Review",
-        "intro": [
-          "Before you are quizzed on the design fundamentals you have learned so far, you first need to review.",
-          "Open up this page to review concepts like user-centered design, scale, alignment, good visual hierarchy and more."
-        ]
       },
       "quiz-design-fundamentals": {
-        "title": "Design Fundamentals Quiz",
+        "title": "设计基础测验",
         "intro": [
-          "Test what you've learned in this quiz of UI design fundamentals."
+          "通过本测验测试你对 UI 设计基础知识的掌握。"
         ]
       },
       "lecture-working-with-relative-and-absolute-units": {
-        "title": "Working with Relative and Absolute Units",
+        "title": "相对与绝对单位的使用",
         "intro": [
-          "In these lecture videos, you will learn about relative and absolute units, and how they both impact what you see in the browser."
+          "在这些讲解视频中，你将学习相对单位和绝对单位，以及它们如何影响浏览器中的显示效果。"
         ]
       },
       "lab-event-flyer-page": {
-        "title": "Build an Event Flyer Page",
+        "title": "制作活动宣传页",
         "intro": [
-          "In this lab, you'll create an event flyer page.",
-          "You will practice aligning elements using absolute and relative CSS."
+          "在本实验中，你将创建一个活动宣传页。",
+          "你将练习使用绝对和相对 CSS 对元素进行对齐。"
         ]
       },
       "review-css-relative-and-absolute-units": {
-        "title": "CSS Relative and Absolute Units Review",
+        "title": "CSS 相对与绝对单位复习",
         "intro": [
-          "Before you are quizzed on relative and absolute units, you first need to review.",
-          "Open up this page to review concepts like percentages, <code>px</code>, <code>rem</code>, <code>em</code>, and more."
+          "在参加相对与绝对单位测验前，你需要先复习相关内容。",
+          "打开本页面，复习百分比、<code>px</code>、<code>rem</code>、<code>em</code> 等概念。"
         ]
       },
       "quiz-css-relative-and-absolute-units": {
-        "title": "CSS Relative and Absolute Units Quiz",
+        "title": "CSS 相对与绝对单位测验",
         "intro": [
-          "Test what you've learned in this quiz of relative and absolute units in CSS."
+          "通过本测验测试你对 CSS 中相对与绝对单位的掌握。"
         ]
       },
       "lecture-working-with-pseudo-classes-and-pseudo-elements-in-css": {
-        "title": "Working with Pseudo-Classes and Pseudo-Elements in CSS",
+        "title": "CSS 伪类与伪元素的使用",
         "intro": [
-          "In these lecture videos, you will learn about pseudo-classes and pseudo-elements, alongside their examples and how they work."
+          "在这些讲解视频中，你将学习伪类和伪元素的用法、示例及其工作原理。"
         ]
       },
       "workshop-greeting-card": {
-        "title": "Design a Greeting Card",
+        "title": "设计贺卡",
         "intro": [
-          "In the previous lecture videos, you learned how to work with the different types of pseudo-classes.",
-          "In this workshop, you will have a chance to practice what you have learned by designing a greeting card."
+          "在前面的讲解视频中，你学习了不同类型的伪类。",
+          "在本练习中，你将有机会通过设计贺卡来实践所学内容。"
         ]
       },
       "lab-job-application-form": {
-        "title": "Build a Job Application Form",
+        "title": "制作求职申请表",
         "intro": [
-          "In this lab you'll build a job application form and style it using pseudo-classes.",
-          "You'll practice concepts like <code>:hover</code>, <code>:active</code>, <code>:focus</code>, and more."
+          "在本实验中，你将制作一个求职申请表并用伪类进行样式设计。",
+          "你将练习 <code>:hover</code>、<code>:active</code>、<code>:focus</code> 等概念。"
         ]
       },
       "review-css-pseudo-classes": {
-        "title": "CSS Pseudo-classes Review",
+        "title": "CSS 伪类复习",
         "intro": [
-          "Before you're quizzed on CSS pseudo-classes and pseudo-elements, you should review what you've learned about them.",
-          "Open up this page to review concepts like the <code>::before</code> and <code>::after</code> pseudo-elements as well as the <code>:hover</code>, <code>:active</code> pseudo-classes and more."
+          "在参加 CSS 伪类与伪元素测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>::before</code>、<code>::after</code> 伪元素，以及 <code>:hover</code>、<code>:active</code> 伪类等概念。"
         ]
       },
       "quiz-css-pseudo-classes": {
-        "title": "CSS Pseudo-classes Quiz",
-        "intro": ["Test your knowledge of CSS pseudo-classes with this quiz."]
+        "title": "CSS 伪类测验",
+        "intro": ["通过本测验测试你对 CSS 伪类的掌握。"]
       },
       "lecture-working-with-colors-in-css": {
-        "title": "Working with Colors in CSS",
+        "title": "CSS 颜色的使用",
         "intro": [
-          "In these lecture videos, you will learn about linear and radial gradients, the color theory, different kinds of colors like named, RGB, Hex, and HSL colors. You will learn how these colors work, and which to use in specific cases."
+          "在这些讲解视频中，你将学习线性和径向渐变、色彩理论、命名色、RGB、Hex、HSL 等不同类型的颜色。你将了解这些颜色的工作方式，以及在特定场景下如何选择使用。"
         ]
       },
       "workshop-colored-markers": {
-        "title": "Build a Set of Colored Markers",
+        "title": "制作一组彩色笔",
         "intro": [
-          "In this workshop, you'll build a set of colored markers. You'll practice different ways to set color values and how to pair colors with each other."
+          "在本练习中，你将制作一组彩色笔。你将练习设置颜色值的不同方法，以及如何进行颜色搭配。"
         ]
       },
       "lab-colored-boxes": {
-        "title": "Design a Set of Colored Boxes",
+        "title": "设计一组彩色方块",
         "intro": [
-          "In this lab, you'll create a color grid and practice adding background colors to the grid items using hex codes, RGB, and predefined color names."
+          "在本实验中，你将创建一个色彩网格，并用十六进制、RGB 和预定义色名为网格项添加背景色。"
         ]
       },
       "review-css-colors": {
-        "title": "CSS Colors Review",
+        "title": "CSS 颜色复习",
         "intro": [
-          "Before you're quizzed on CSS colors, you should review what you've learned about them.",
-          "Open up this page to review concepts like the <code>rgb()</code> function, <code>hsl()</code> function, <code>hex codes</code>, and more."
+          "在参加 CSS 颜色测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>rgb()</code>、<code>hsl()</code>、<code>hex</code> 代码等概念。"
         ]
       },
       "quiz-css-colors": {
-        "title": "CSS Colors Quiz",
-        "intro": ["Test your knowledge of CSS colors with this quiz."]
+        "title": "CSS 颜色测验",
+        "intro": ["通过本测验测试你对 CSS 颜色的掌握。"]
       },
       "lecture-best-practices-for-styling-forms": {
-        "title": "Best Practices for Styling Forms",
+        "title": "表单样式设计最佳实践",
         "intro": [
-          "In these lecture videos, you will learn about the best practices for styling forms and issues you can encounter while styling special inputs like <code>color</code> and <code>datetime-local</code>."
+          "在这些讲解视频中，你将学习表单样式设计的最佳实践，以及为 <code>color</code>、<code>datetime-local</code> 等特殊输入项设计样式时可能遇到的问题。"
         ]
       },
       "workshop-registration-form": {
-        "title": "Design a Registration Form",
+        "title": "设计注册表单",
         "intro": [
-          "In this workshop, you'll learn how to design HTML forms by designing a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page."
+          "在本练习中，你将通过设计注册页面学习 HTML 表单设计。你将学习如何控制用户在表单中输入的数据类型，以及一些新的 CSS 工具来美化页面。"
         ]
       },
       "lab-contact-form": {
-        "title": "Design a Contact Form",
+        "title": "设计联系表单",
         "intro": [
-          "In this lab, you'll design a contact form in HTML and style it using CSS."
+          "在本实验中，你将用 HTML 设计一个联系表单，并用 CSS 进行样式美化。"
         ]
       },
       "review-styling-forms": {
-        "title": "Styling Forms Review",
+        "title": "表单样式复习",
         "intro": [
-          "Before you're quizzed on styling forms, you should review what you've learned.",
-          "Open up this page to review how to style form inputs, working with <code>appearance: none</code> and more."
+          "在参加表单样式测验前，你应先复习相关内容。",
+          "打开本页面，复习表单输入样式、<code>appearance: none</code> 等用法。"
         ]
       },
       "quiz-styling-forms": {
-        "title": "Styling Forms Quiz",
+        "title": "表单样式测验",
         "intro": [
-          "In this quiz, you will test your knowledge of how to style forms."
+          "通过本测验测试你对表单样式设计的掌握。"
         ]
       },
       "lecture-working-with-css-transforms-overflow-and-filters": {
-        "title": "Working with CSS Transforms, Overflow, and Filters",
+        "title": "CSS 变换、溢出与滤镜的使用",
         "intro": [
-          "In these lecture videos, you will learn about working with CSS transforms, overflow, and filters. You will also learn about the box model and how it works."
+          "在这些讲解视频中，你将学习 CSS 变换、溢出和滤镜的用法。你还将学习盒模型及其工作原理。"
         ]
       },
       "workshop-rothko-painting": {
-        "title": "Design a Rothko Painting",
+        "title": "设计罗斯科绘画",
         "intro": [
-          "Every HTML element is its own box – with its own spacing and a border. This is called the Box Model.",
-          "In this workshop, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces."
+          "每个 HTML 元素都是一个独立的盒子——拥有自己的间距和边框。这就是盒模型。",
+          "在本练习中，你将用 CSS 和盒模型创作属于你自己的罗斯科风格矩形艺术作品。"
         ]
       },
       "lab-confidential-email-page": {
-        "title": "Build a Confidential Email Page",
+        "title": "制作机密邮件页面",
         "intro": [
-          "In this lab, you'll create a web page using HTML and mask the content using CSS properties."
+          "在本实验中，你将用 HTML 创建一个网页，并用 CSS 属性对内容进行遮罩处理。"
         ]
       },
       "review-css-layout-and-effects": {
-        "title": "CSS Layouts and Effects Review",
+        "title": "CSS 布局与效果复习",
         "intro": [
-          "Before you are quizzed on CSS Layouts and Effects, you first need to review.",
-          "Open up this page to review concepts like the <code>transform</code> property, the box model, the <code>overflow</code> property and more."
+          "在参加 CSS 布局与效果测验前，你需要先复习相关内容。",
+          "打开本页面，复习 <code>transform</code> 属性、盒模型、<code>overflow</code> 属性等概念。"
         ]
       },
       "quiz-css-layout-and-effects": {
-        "title": "CSS Layout and Effects Quiz",
+        "title": "CSS 布局与效果测验",
         "intro": [
-          "In this quiz, you will test your knowledge of the box model, transforms, filters, and overflow in CSS."
+          "通过本测验测试你对盒模型、变换、滤镜和溢出等 CSS 概念的掌握。"
         ]
       },
       "lecture-working-with-css-flexbox": {
-        "title": "Working with CSS Flexbox",
+        "title": "CSS Flexbox 的使用",
         "intro": [
-          "In these lecture videos, you will learn how CSS flexbox works, its properties, and when you should use it."
+          "在这些讲解视频中，你将学习 CSS flexbox 的工作原理、属性以及使用场景。"
         ]
       },
       "workshop-flexbox-photo-gallery": {
-        "title": "Build a Flexbox Photo Gallery",
+        "title": "制作 Flexbox 照片集",
         "intro": [
-          "In this workshop, you'll use Flexbox to build a responsive photo gallery webpage."
+          "在本练习中，你将用 Flexbox 制作一个响应式照片集网页。"
         ]
       },
       "lab-page-of-playing-cards": {
-        "title": "Build a Page of Playing Cards",
+        "title": "制作扑克牌页面",
         "intro": [
-          "In this lab, you'll use flexbox to create a webpage of playing cards.",
-          "You'll practice aligning elements using flexbox properties like <code>flex-direction</code>, <code>justify-content</code>, <code>align-self</code>, and more."
+          "在本实验中，你将用 flexbox 创建一个扑克牌网页。",
+          "你将练习使用 <code>flex-direction</code>、<code>justify-content</code>、<code>align-self</code> 等 flexbox 属性对元素进行对齐。"
         ]
       },
       "review-css-flexbox": {
-        "title": "CSS Flexbox Review",
+        "title": "CSS Flexbox 复习",
         "intro": [
-          "Before you're quizzed on CSS flexbox, you should review what you've learned.",
-          "Open up this page to review concepts like the <code>flex-direction</code>, <code>justify-content</code>, <code>align-items</code>, <code>flex-wrap</code> properties, and more."
+          "在参加 CSS flexbox 测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>flex-direction</code>、<code>justify-content</code>、<code>align-items</code>、<code>flex-wrap</code> 等属性。"
         ]
       },
       "quiz-css-flexbox": {
-        "title": "CSS Flexbox Quiz",
-        "intro": ["Test what you've learned on CSS flexbox with this quiz."]
+        "title": "CSS Flexbox 测验",
+        "intro": ["通过本测验测试你对 CSS flexbox 的掌握。"]
       },
       "lecture-working-with-css-fonts": {
-        "title": "Working with CSS Fonts",
+        "title": "CSS 字体的使用",
         "intro": [
-          "In these lecture videos, you will learn about typography and its best practices, fonts, and the <code>text-shadow</code> property."
+          "在这些讲解视频中，你将学习排版及其最佳实践、字体和 <code>text-shadow</code> 属性。"
         ]
       },
       "workshop-nutritional-label": {
-        "title": "Build a Nutritional Label",
+        "title": "制作营养标签",
         "intro": [
-          "Typography is the art of styling your text to be easily readable and suit its purpose.",
-          "In this workshop, you'll use typography to build a nutrition label webpage. You'll practice how to style text, adjust line height, and position your text using CSS."
+          "排版是让文本易读且符合用途的艺术。",
+          "在本练习中，你将用排版知识制作一个营养标签网页。你将练习如何用 CSS 设置文本样式、调整行高和定位文本。"
         ]
       },
       "lab-newspaper-article": {
-        "title": "Build a Newspaper Article",
+        "title": "制作报纸文章页面",
         "intro": [
-          "In this lab, you'll build a newspaper article page using HTML and CSS.",
-          "You'll style the fonts using properties like <code>font-family</code>, <code>font-size</code>, <code>font-weight</code>, and more."
+          "在本实验中，你将用 HTML 和 CSS 制作一个报纸文章页面。",
+          "你将用 <code>font-family</code>、<code>font-size</code>、<code>font-weight</code> 等属性为字体设置样式。"
         ]
       },
       "review-css-typography": {
-        "title": "CSS Typography Review",
+        "title": "CSS 排版复习",
         "intro": [
-          "Before you're quizzed on the fundamentals of typography, you should review what you've learned.",
-          "Open up this page to review concepts like web safe fonts, the <code>font-family</code> property and more."
+          "在参加排版基础测验前，你应先复习相关内容。",
+          "打开本页面，复习网页安全字体、<code>font-family</code> 属性等概念。"
         ]
       },
       "quiz-css-typography": {
-        "title": "CSS Typography Quiz",
-        "intro": ["Test your knowledge of typography with this quiz."]
+        "title": "CSS 排版测验",
+        "intro": ["通过本测验测试你对排版的掌握。"]
       },
       "lecture-best-practices-for-accessibility-and-css": {
-        "title": "Best Practices for Accessibility and CSS",
+        "title": "CSS 无障碍最佳实践",
         "intro": [
-          "In these lecture videos, you will learn about best practices for accessibility in CSS, and the tools for checking good color contrast on websites."
+          "在这些讲解视频中，你将学习 CSS 无障碍最佳实践，以及用于检查网页色彩对比度的工具。"
         ]
       },
       "workshop-accessibility-quiz": {
-        "title": "Build a Quiz Webpage",
+        "title": "制作测验网页",
         "intro": [
-          "Accessibility is the process of making your webpages usable for everyone, including people with disabilities.",
-          "In this workshop, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices."
+          "无障碍是让你的网页对所有人都可用的过程，包括残障人士。",
+          "在本练习中，你将制作一个测验网页。你将学习无障碍工具，如键盘快捷键、ARIA 属性和设计最佳实践。"
         ]
       },
       "lab-tribute-page": {
-        "title": "Build a Tribute Page",
+        "title": "制作致敬页",
         "intro": [
-          "In this lab, you'll build a tribute page for a subject of your choosing, fictional or real."
+          "在本实验中，你将为你选择的主题（虚构或真实）制作一个致敬页。"
         ]
       },
       "review-css-accessibility": {
-        "title": "CSS Accessibility Review",
+        "title": "CSS 无障碍复习",
         "intro": [
-          "Before you're quizzed on CSS and accessibility, you should review what you've learned.",
-          "Open up this page to review concepts like color contrast tools and accessibility best practices."
+          "在参加 CSS 与无障碍测验前，你应先复习相关内容。",
+          "打开本页面，复习色彩对比工具和无障碍最佳实践等概念。"
         ]
       },
       "quiz-css-accessibility": {
-        "title": "CSS Accessibility Quiz",
+        "title": "CSS 无障碍测验",
         "intro": [
-          "In this quiz, you'll test what you've learned about making your webpages accessible with CSS."
+          "通过本测验测试你用 CSS 实现网页无障碍的知识。"
         ]
       },
       "lecture-working-with-attribute-selectors": {
-        "title": "Working with Attribute Selectors",
+        "title": "属性选择器的使用",
         "intro": [
-          "In these lecture videos, you will learn about attribute selectors and how to use them to target elements like links and lists."
+          "在这些讲解视频中，你将学习属性选择器的用法，以及如何用它们选中链接、列表等元素。"
         ]
       },
       "workshop-balance-sheet": {
-        "title": "Build a Balance Sheet",
+        "title": "制作资产负债表",
         "intro": [
-          "In this workshop, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage."
+          "在本练习中，你将用伪选择器制作资产负债表。你将学习如何在鼠标悬停时改变元素样式，并触发网页上的其他事件。"
         ]
       },
       "lab-book-inventory-app": {
-        "title": "Build a Book Inventory App",
+        "title": "制作图书库存应用",
         "intro": [
-          "In this lab, you'll create a book inventory app.",
-          "You'll practice CSS attribute selectors like <code>[attribute]</code>, <code>[attribute=value]</code>, <code>[attribute~=value]</code>, and more."
+          "在本实验中，你将创建一个图书库存应用。",
+          "你将练习 CSS 属性选择器，如 <code>[attribute]</code>、<code>[attribute=value]</code>、<code>[attribute~=value]</code> 等。"
         ]
       },
       "review-css-attribute-selectors": {
-        "title": "CSS Attribute Selectors Review",
+        "title": "CSS 属性选择器复习",
         "intro": [
-          "Before you're quizzed on the fundamentals of CSS attribute selectors, you should review what you've learned about them.",
-          "Open up this page to review concepts like how to work with different attribute selectors that target links with the <code>href</code> and <code>title</code> attributes."
+          "在参加 CSS 属性选择器基础测验前，你应先复习相关内容。",
+          "打开本页面，复习如何用不同属性选择器选中带有 <code>href</code>、<code>title</code> 属性的链接等概念。"
         ]
       },
       "quiz-css-attribute-selectors": {
-        "title": "CSS Attribute Selectors Quiz",
+        "title": "CSS 属性选择器测验",
         "intro": [
-          "Test your knowledge of CSS attribute selectors with this quiz."
+          "通过本测验测试你对 CSS 属性选择器的掌握。"
         ]
       },
       "lecture-understanding-how-to-work-with-floats-and-positioning-in-css": {
-        "title": "Understanding How to Work with Floats and Positioning in CSS",
+        "title": "CSS 浮动与定位的理解与使用",
         "intro": [
-          "In these lecture videos, you will learn how to use CSS positioning and floats. You will learn about <code>absolute</code>, <code>relative</code>, <code>fixed</code>, and <code>sticky</code> positioning. You will also use the <code>z-index</code> property."
+          "在这些讲解视频中，你将学习如何使用 CSS 定位和浮动。你将学习 <code>absolute</code>、<code>relative</code>、<code>fixed</code>、<code>sticky</code> 定位方式，以及 <code>z-index</code> 属性。"
         ]
       },
       "workshop-cat-painting": {
-        "title": "Build a Cat Painting",
+        "title": "制作猫咪绘画",
         "intro": [
-          "Mastering CSS positioning is essential for creating visually appealing and responsive web layouts.",
-          "In this workshop, you will build a cat painting. You'll learn about how to work with absolute positioning, the <code>z-index</code> property, and the <code>transform</code> property."
+          "掌握 CSS 定位对于创建具有视觉吸引力和响应性的网页布局至关重要。",
+          "在本练习中，你将制作一幅猫咪绘画。你将学习绝对定位、<code>z-index</code> 属性和 <code>transform</code> 属性的用法。"
         ]
       },
       "lab-house-painting": {
-        "title": "Build a House Painting",
+        "title": "制作房屋绘画",
         "intro": [
-          "In this lab, you'll build a house painting using CSS.",
-          "You'll design individual elements of the house and position them using CSS properties like <code>position</code>, <code>top</code>, <code>left</code>, and more."
+          "在本实验中，你将用 CSS 制作一幅房屋绘画。",
+          "你将设计房屋的各个部分，并用 <code>position</code>、<code>top</code>、<code>left</code> 等属性进行定位。"
         ]
       },
       "review-css-positioning": {
-        "title": "CSS Positioning Review",
+        "title": "CSS 定位复习",
         "intro": [
-          "Before you're quizzed on the fundamentals of CSS positioning, you should review what you've learned.",
-          "Open up this page to review concepts like floats, relative positioning, absolute positioning and more."
+          "在参加 CSS 定位基础测验前，你应先复习相关内容。",
+          "打开本页面，复习浮动、相对定位、绝对定位等概念。"
         ]
       },
       "quiz-css-positioning": {
-        "title": "CSS Positioning Quiz",
-        "intro": ["Test your knowledge of CSS positioning with this quiz."]
+        "title": "CSS 定位测验",
+        "intro": ["通过本测验测试你对 CSS 定位的掌握。"]
       },
       "lecture-best-practices-for-responsive-web-design": {
-        "title": "Best Practices for Responsive Web Design",
+        "title": "响应式网页设计最佳实践",
         "intro": [
-          "In these lecture videos, you will learn about the best practices for responsive web design, the roles concepts like grid, flexbox, media queries, and media breakpoints play in responsive design, and more."
+          "在这些讲解视频中，你将学习响应式网页设计的最佳实践，了解 grid、flexbox、媒体查询、断点等概念在响应式设计中的作用。"
         ]
       },
       "workshop-piano": {
-        "title": "Design a Piano",
+        "title": "设计钢琴页面",
         "intro": [
-          "Responsive Design tells your webpage how it should look on different-sized screens.",
-          "In this workshop, you'll use CSS and responsive design to code a piano. You'll also practice media queries and pseudo selectors."
+          "响应式设计让你的网页适应不同尺寸的屏幕。",
+          "在本练习中，你将用 CSS 和响应式设计制作一个钢琴页面。你还将练习媒体查询和伪选择器。"
         ]
       },
       "lab-technical-documentation-page": {
-        "title": "Build a Technical Documentation Page",
+        "title": "制作技术文档页",
         "intro": [
-          "In this lab, you'll build a technical documentation page to serve as instruction or reference for a topic.",
-          "You'll also practice media queries to create a responsive design."
+          "在本实验中，你将制作一个技术文档页，用于某个主题的说明或参考。",
+          "你还将练习媒体查询，实现响应式设计。"
         ]
       },
       "review-responsive-web-design": {
-        "title": "Responsive Web Design Review",
+        "title": "响应式网页设计复习",
         "intro": [
-          "Before you're quizzed on the fundamentals of responsive design, you should review what you've learned.",
-          "Open up this page to review concepts like media queries, media breakpoints and mobile first approach design."
+          "在参加响应式设计基础测验前，你应先复习相关内容。",
+          "打开本页面，复习媒体查询、断点和移动优先设计等概念。"
         ]
       },
       "quiz-responsive-web-design": {
-        "title": "Responsive Web Design Quiz",
+        "title": "响应式网页设计测验",
         "intro": [
-          "Test what you've learned about making your webpages responsive with this quiz."
+          "通过本测验测试你让网页响应不同屏幕的知识。"
         ]
       },
       "lecture-working-with-css-variables": {
-        "title": "Working with CSS Variables",
+        "title": "CSS 变量的使用",
         "intro": [
-          "In these lecture videos, you will learn how to define and use custom properties (also known as CSS variables). You will also learn about the <code>@property</code> rule and how it works."
+          "在这些讲解视频中，你将学习如何定义和使用自定义属性（即 CSS 变量）。你还将学习 <code>@property</code> 规则及其用法。"
         ]
       },
       "workshop-city-skyline": {
-        "title": "Build a City Skyline",
+        "title": "制作城市天际线",
         "intro": [
-          "CSS variables help you organize your styles and reuse them.",
-          "In this workshop, you'll build a city skyline. You'll practice how to configure CSS variables so you can reuse them whenever you want."
+          "CSS 变量帮助你组织样式并实现复用。",
+          "在本练习中，你将制作一个城市天际线。你将练习如何配置 CSS 变量，以便随时复用。"
         ]
       },
       "lab-availability-table": {
-        "title": "Build an Availability Table",
+        "title": "制作可用性表格",
         "intro": [
-          "For this lab, you'll create an availability table that shows the availability of people for a meeting.",
-          "You'll practice using CSS variables to store and reuse colors, fonts, and other styles."
+          "在本实验中，你将创建一个显示会议人员可用性的表格。",
+          "你将练习用 CSS 变量存储和复用颜色、字体等样式。"
         ]
       },
       "review-css-variables": {
-        "title": "CSS Variables Review",
+        "title": "CSS 变量复习",
         "intro": [
-          "Before you're quizzed on the fundamentals of CSS variables, you should review what you've learned.",
-          "Open up this page to review how to work with CSS custom properties (CSS variables) and the <code>@property</code> rule."
+          "在参加 CSS 变量基础测验前，你应先复习相关内容。",
+          "打开本页面，复习 CSS 自定义属性（变量）和 <code>@property</code> 规则的用法。"
         ]
       },
       "quiz-css-variables": {
-        "title": "CSS Variables Quiz",
-        "intro": ["Test your knowledge of CSS variables with this quiz."]
+        "title": "CSS 变量测验",
+        "intro": ["通过本测验测试你对 CSS 变量的掌握。"]
       },
       "lecture-working-with-css-grid": {
-        "title": "Working with CSS Grid",
+        "title": "CSS Grid 的使用",
         "intro": [
-          "In these lecture videos, you will learn about CSS grid, its several properties and how to use them, and how CSS grid differs from flexbox."
+          "在这些讲解视频中，你将学习 CSS grid、其属性及用法，以及 grid 与 flexbox 的区别。"
         ]
       },
       "workshop-magazine": {
-        "title": "Build a Magazine",
+        "title": "制作杂志文章",
         "intro": [
-          "CSS Grid gives you control over the rows and columns of your webpage design.",
-          "In this workshop, you'll build a magazine article. You'll practice how to use CSS Grid, including concepts like grid rows and grid columns."
+          "CSS Grid 让你能控制网页设计的行和列。",
+          "在本练习中，你将制作一篇杂志文章。你将练习使用 CSS Grid，包括网格行和网格列等概念。"
         ]
       },
       "lab-magazine-layout": {
-        "title": "Design a Magazine Layout",
+        "title": "设计杂志布局",
         "intro": [
-          "In this lab, you will design a magazine layout using CSS Grid, including concepts like grid rows and grid columns."
+          "在本实验中，你将用 CSS Grid 设计杂志布局，包括网格行和网格列等概念。"
         ]
       },
       "lecture-debugging-css": {
-        "title": "Debugging CSS",
+        "title": "CSS 调试",
         "intro": [
-          "In this lecture video, you'll learn how to debug CSS using your browser's developer tools and CSS validators."
+          "在本讲解视频中，你将学习如何用浏览器开发者工具和 CSS 校验器调试 CSS。"
         ]
       },
       "lab-product-landing-page": {
-        "title": "Build a Product Landing Page",
+        "title": "制作产品登录页",
         "intro": [
-          "In this project, you'll build a product landing page to market a product of your choice."
+          "在本项目中，你将制作一个产品登录页，用于推销你选择的产品。"
         ]
       },
       "review-css-grid": {
-        "title": "CSS Grid Review",
+        "title": "CSS Grid 复习",
         "intro": [
-          "Before you're quizzed on the fundamentals of CSS Grid, you should review what you've learned.",
-          "Open up this page to review how to work with the different CSS Grid properties like <code>grid-template-columns</code>, <code>grid-gap</code> and more."
+          "在参加 CSS Grid 基础测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>grid-template-columns</code>、<code>grid-gap</code> 等属性的用法。"
         ]
       },
       "quiz-css-grid": {
-        "title": "CSS Grid Quiz",
-        "intro": ["Test your knowledge of CSS Grid with this quiz."]
+        "title": "CSS Grid 测验",
+        "intro": ["通过本测验测试你对 CSS Grid 的掌握。"]
       },
       "lecture-animations-and-accessibility": {
-        "title": "Animations and Accessibility",
+        "title": "动画与无障碍",
         "intro": [
-          "In these lecture videos, you will learn about CSS animations and their accessibility concerns. You will also learn how <code>prefers-reduced-motion</code> can help address those accessibility concerns."
+          "在这些讲解视频中，你将学习 CSS 动画及其无障碍问题。你还将学习 <code>prefers-reduced-motion</code> 如何帮助解决这些无障碍问题。"
         ]
       },
       "workshop-ferris-wheel": {
-        "title": "Build an Animated Ferris Wheel",
+        "title": "制作摩天轮动画",
         "intro": [
-          "You can use CSS animation to draw attention to specific sections of your webpage and make it more engaging.",
-          "In this workshop, you'll build a Ferris wheel. You'll practice how to use CSS to animate elements, transform them, and adjust their speed."
+          "你可以用 CSS 动画吸引用户注意网页的特定部分，让网页更有吸引力。",
+          "在本练习中，你将制作一个摩天轮。你将练习用 CSS 为元素设置动画、变换和调整速度。"
         ]
       },
       "lab-moon-orbit": {
-        "title": "Build a Moon Orbit",
+        "title": "制作月球轨道动画",
         "intro": [
-          "In this lab, you'll create an animation of the moon orbiting the earth.",
-          "You'll practice animation properties like <code>animation-name</code>, <code>animation-duration</code>, <code>animation-timing-function</code>, and more."
+          "在本实验中，你将制作月球绕地球公转的动画。",
+          "你将练习 <code>animation-name</code>、<code>animation-duration</code>、<code>animation-timing-function</code> 等动画属性。"
         ]
       },
       "workshop-flappy-penguin": {
-        "title": "Build a Flappy Penguin",
+        "title": "制作 Flappy 企鹅",
         "intro": [
-          "You can transform HTML elements to create appealing designs that draw your reader's eye. You can use transforms to rotate elements, scale them, and more.",
-          "In this workshop, you'll build a penguin. You'll use CSS transforms to position and resize the parts of your penguin, create a background, and animate your work."
+          "你可以变换 HTML 元素，创造吸引人的设计。你可以用变换来旋转、缩放元素等。",
+          "在本练习中，你将制作一只企鹅。你将用 CSS 变换定位和调整企鹅各部分，创建背景并为作品设置动画。"
         ]
       },
       "lab-personal-portfolio": {
-        "title": "Build a Personal Portfolio",
+        "title": "制作个人作品集",
         "intro": [
-          "In this project, you'll build your own personal portfolio page."
+          "在本项目中，你将制作自己的个人作品集页面。"
         ]
       },
       "review-css-animations": {
-        "title": "CSS Animations Review",
+        "title": "CSS 动画复习",
         "intro": [
-          "Before you're quizzed on working with CSS animations, you should review what you've learned about them.",
-          "Open up this page to review concepts including <code>prefers-reduced-motion</code>, the <code>@keyframes</code> rule and more."
+          "在参加 CSS 动画测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>prefers-reduced-motion</code>、<code>@keyframes</code> 规则等概念。"
         ]
       },
       "quiz-css-animations": {
-        "title": "CSS Animations Quiz",
-        "intro": ["Test your knowledge of CSS animations with this quiz."]
+        "title": "CSS 动画测验",
+        "intro": ["通过本测验测试你对 CSS 动画的掌握。"]
       },
       "review-css": {
-        "title": "CSS Review",
+        "title": "CSS 复习",
         "intro": [
-          "Before you take the CSS prep exam, you first need to review the concepts taught in the previous modules.",
-          "Open up this page to review concepts around the basics of CSS, responsive web design, animations, accessibility and more."
+          "在参加 CSS 预备考试前，你需要先复习前面模块讲授的内容。",
+          "打开本页面，复习 CSS 基础、响应式网页设计、动画、无障碍等相关概念。"
         ]
       },
       "lecture-working-with-code-editors-and-ides": {
-        "title": "Working with Code Editors and IDEs",
+        "title": "代码编辑器与 IDE 的使用",
         "intro": [
-          "In these lecture videos, you will learn how to work with code editors and IDEs. You will learn various concepts about the most popular code editor, VS Code such as its installation, how to create a project in it, keyboard shortcuts, and extensions."
+          "在这些讲解视频中，你将学习如何使用代码编辑器和 IDE。你将了解最流行的代码编辑器 VS Code 的安装、项目创建、快捷键和扩展等内容。"
         ]
       },
       "lecture-introduction-to-javascript": {
-        "title": "Introduction to JavaScript",
+        "title": "JavaScript 入门",
         "intro": [
-          "In these lecture videos, you will learn the fundamentals of JavaScript. Topics covered include, but are not limited to, variables, data types, how JavaScript interacts with HTML and CSS, strings, and much more."
+          "在这些讲解视频中，你将学习 JavaScript 的基础知识。内容包括变量、数据类型、JavaScript 如何与 HTML 和 CSS 交互、字符串等。"
         ]
       },
       "workshop-greeting-bot": {
-        "title": "Build a Greeting Bot",
+        "title": "制作问候机器人",
         "intro": [
-          "In this workshop, you will learn JavaScript fundamentals by building a greeting bot.",
-          "You will learn about variables, <code>let</code>, <code>const</code>, <code>console.log</code> and basic string usage."
+          "在本练习中，你将通过制作问候机器人学习 JavaScript 基础。",
+          "你将学习变量、<code>let</code>、<code>const</code>、<code>console.log</code> 以及字符串的基本用法。"
         ]
       },
       "lab-javascript-trivia-bot": {
-        "title": "Build a JavaScript Trivia Bot",
+        "title": "制作 JavaScript 问答机器人",
         "intro": [
-          "In this lab, you'll practice working with JavaScript variables and strings by building a trivia bot."
+          "在本实验中，你将通过制作一个问答机器人练习 JavaScript 变量和字符串的使用。"
         ]
       },
       "lab-sentence-maker": {
-        "title": "Build a Sentence Maker",
+        "title": "制作句子生成器",
         "intro": [
-          "In this lab, you will continue practicing with strings and concatenation by creating and customizing various stories."
+          "在本实验中，你将继续练习字符串和拼接，通过创建和定制各种故事。"
         ]
       },
       "lecture-working-with-data-types": {
-        "title": "Working with Data Types",
+        "title": "数据类型的使用",
         "intro": [
-          "In the following lecture videos, you will learn how to work with data types in JavaScript. You will also learn how dynamic typing differs from static typing, the <code>typeof</code> operator, and the <code>typeof null</code> bug."
+          "在以下讲解视频中，你将学习如何在 JavaScript 中使用数据类型。你还将了解动态类型与静态类型的区别、<code>typeof</code> 运算符，以及 <code>typeof null</code> 的 bug。"
         ]
       },
       "review-javascript-variables-and-data-types": {
-        "title": "JavaScript Variables and Data Types Review",
+        "title": "JavaScript 变量与数据类型复习",
         "intro": [
-          "Before you are quizzed on JavaScript variables and data types you first need to review the concepts.",
-          "Open up this page to review variables, data types, logging and commenting."
+          "在参加 JavaScript 变量与数据类型测验前，你需要先复习相关概念。",
+          "打开本页面，复习变量、数据类型、日志输出和注释。"
         ]
       },
       "quiz-javascript-variables-and-data-types": {
-        "title": "JavaScript Variables and Data Types Quiz",
+        "title": "JavaScript 变量与数据类型测验",
         "intro": [
-          "Test your knowledge of JavaScript variables and data types with this quiz."
+          "通过本测验测试你对 JavaScript 变量与数据类型的掌握。"
         ]
       },
       "lecture-working-with-strings-in-javascript": {
-        "title": "Working with Strings in JavaScript",
+        "title": "JavaScript 字符串的使用",
         "intro": [
-          "In these lecture videos, you will learn how to work with strings in JavaScript. You will learn how to access characters from a string, how to use template literals and interpolation, how to create a new line in strings, and much more."
+          "在这些讲解视频中，你将学习如何在 JavaScript 中操作字符串。你将学习如何访问字符串中的字符、如何使用模板字符串和插值、如何在字符串中创建换行等内容。"
         ]
       },
       "workshop-teacher-chatbot": {
-        "title": "Build a Teacher Chatbot",
+        "title": "制作教师聊天机器人",
         "intro": [
-          "In this workshop, you will continue to learn more about JavaScript strings by building a chatbot.",
-          "You will learn how to work with template literals, and the <code>indexOf</code> method."
+          "在本练习中，你将通过制作聊天机器人进一步学习 JavaScript 字符串。",
+          "你将学习如何使用模板字符串，以及 <code>indexOf</code> 方法。"
         ]
       },
       "lecture-working-with-common-string-methods": {
-        "title": "Working with Common String Methods",
+        "title": "常用字符串方法的使用",
         "intro": [
-          "In these lecture videos, you will learn about the common string methods available in JavaScript. The string methods will let you do things like extracting a part of a string, changing the casing for a string, replacing a part of a string, trimming whitespace from a string, and much more."
+          "在这些讲解视频中，你将学习 JavaScript 中常用的字符串方法。这些方法可以让你提取字符串的一部分、改变字符串大小写、替换字符串内容、去除空白等。"
         ]
       },
       "review-javascript-strings": {
-        "title": "JavaScript Strings Review",
+        "title": "JavaScript 字符串复习",
         "intro": [
-          "Before you are quizzed on working with JavaScript strings, you first need to review.",
-          "Open up this page to review how to work with template literals, the <code>slice</code> method, the <code>includes</code> method, the <code>trim</code> method and more."
+          "在参加 JavaScript 字符串测验前，你需要先复习相关内容。",
+          "打开本页面，复习模板字符串、<code>slice</code> 方法、<code>includes</code> 方法、<code>trim</code> 方法等。"
         ]
       },
       "quiz-javascript-strings": {
-        "title": "JavaScript Strings Quiz",
-        "intro": ["Test your knowledge of JavaScript strings with this quiz."]
+        "title": "JavaScript 字符串测验",
+        "intro": ["通过本测验测试你对 JavaScript 字符串的掌握。"]
       },
       "lecture-working-with-numbers-booleans-and-the-math-object": {
-        "title": "Working with Numbers, Booleans, and the Math Object",
+        "title": "数字、布尔值与 Math 对象的使用",
         "intro": [
-          "In these lecture videos, you will dive into the fundamentals of JavaScript. These include numbers, booleans, and the <code>Math</code> object. You will learn about different types of numbers, how arithmetic and comparison operators work, how JavaScript behaves when you combine strings and numbers in calculations, and much more."
+          "在这些讲解视频中，你将深入学习 JavaScript 的基础内容，包括数字、布尔值和 <code>Math</code> 对象。你将学习不同类型的数字、算术和比较运算符的用法、字符串与数字混合运算时的行为等。"
         ]
       },
       "workshop-mathbot": {
-        "title": "Build a Mathbot",
+        "title": "制作数学机器人",
         "intro": [
-          "In this workshop, you will review how to work with the different Math object methods by building a Mathbot."
+          "在本练习中，你将通过制作数学机器人复习 Math 对象的不同方法。"
         ]
       },
       "lab-fortune-teller": {
-        "title": "Build a Fortune Teller",
+        "title": "制作运势预测器",
         "intro": [
-          "In this lab, you'll build a fortune teller by randomly selecting a fortune from the available fortunes.",
-          "You'll practice how to work with the <code>Math.random()</code> method and the <code>Math.floor()</code> method to generate random numbers."
+          "在本实验中，你将通过随机选择一个运势来制作一个运势预测器。",
+          "你将练习 <code>Math.random()</code> 和 <code>Math.floor()</code> 方法生成随机数。"
         ]
       },
       "lecture-working-with-numbers-and-common-number-methods": {
-        "title": "Working with Numbers and Common Number Methods",
+        "title": "数字与常用数字方法的使用",
         "intro": [
-          "In these lecture videos, you will learn about numbers and common number methods. These include <code>isNaN()</code>, <code>parseInt()</code>, <code>parseFloat()</code>, and <code>toFixed()</code>."
+          "在这些讲解视频中，你将学习数字及常用数字方法，包括 <code>isNaN()</code>、<code>parseInt()</code>、<code>parseFloat()</code> 和 <code>toFixed()</code>。"
         ]
       },
       "review-javascript-math": {
-        "title": "JavaScript Math Review",
+        "title": "JavaScript 数学复习",
         "intro": [
-          "Before you're quizzed on working with the <code>Math</code> object, you should review what you've learned.",
-          "Open up this page to review how to work with the <code>Math.random()</code> method, the <code>Math.floor()</code> method and more."
+          "在参加 Math 对象测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>Math.random()</code>、<code>Math.floor()</code> 等方法的用法。"
         ]
       },
       "quiz-javascript-math": {
-        "title": "JavaScript Math Quiz",
+        "title": "JavaScript 数学测验",
         "intro": [
-          "Test your knowledge of the JavaScript <code>Math</code> object with this quiz."
+          "通过本测验测试你对 JavaScript <code>Math</code> 对象的掌握。"
         ]
       },
       "lecture-understanding-comparisons-and-conditionals": {
-        "title": "Understanding Comparisons and Conditionals",
+        "title": "理解比较与条件语句",
         "intro": [
-          "In these lecture videos, you will learn about comparison operators and conditionals. You will learn how the various conditionals differ from one another, and how comparisons work with <code>null</code> and <code>undefined</code>."
+          "在这些讲解视频中，你将学习比较运算符和条件语句。你将了解不同条件语句的区别，以及 <code>null</code> 和 <code>undefined</code> 的比较方式。"
         ]
       },
       "review-javascript-comparisons-and-conditionals": {
-        "title": "JavaScript Comparisons and Conditionals Review",
+        "title": "JavaScript 比较与条件语句复习",
         "intro": [
-          "Before you're quizzed on working with conditionals, you should review what you've learned about them.",
-          "Open up this page to review how to work with <code>switch</code> statements, other types of conditionals and more."
+          "在参加条件语句测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>switch</code> 语句、其他类型的条件语句等。"
         ]
       },
       "quiz-javascript-comparisons-and-conditionals": {
-        "title": "JavaScript Comparisons and Conditionals Quiz",
+        "title": "JavaScript 比较与条件语句测验",
         "intro": [
-          "Test your knowledge of JavaScript Comparisons and Conditionals with this quiz."
+          "通过本测验测试你对 JavaScript 比较与条件语句的掌握。"
         ]
       },
       "lecture-working-with-functions": {
-        "title": "Working with Functions",
+        "title": "函数的使用",
         "intro": [
-          "In these lecture videos, you will learn how to reuse a block of code with functions. You will learn what the purpose of a function is and how they work, and how scope works in programming. "
+          "在这些讲解视频中，你将学习如何用函数复用代码块。你将了解函数的作用、工作原理，以及作用域的概念。"
         ]
       },
       "workshop-calculator": {
-        "title": "Build a Calculator",
+        "title": "制作计算器",
         "intro": [
-          "In this workshop, you will review your knowledge of functions by building a calculator."
+          "在本练习中，你将通过制作计算器复习函数相关知识。"
         ]
       },
       "lab-email-masker": {
-        "title": "Build an Email Masker",
+        "title": "制作邮箱遮罩器",
         "intro": [
-          "In this lab, you'll build an email masker that will take an email address and obscure it.",
-          "You'll practice string slicing, concatenation, and using functions."
+          "在本实验中，你将制作一个邮箱遮罩器，用于隐藏邮箱地址。",
+          "你将练习字符串切片、拼接和函数的使用。"
         ]
       },
       "workshop-loan-qualification-checker": {
-        "title": "Build a Loan Qualification Checker",
+        "title": "制作贷款资格检查器",
         "intro": [
-          "In this workshop, you will continue to learn how to work with conditionals by building a loan qualification checker app.",
-          "You will learn more about <code>if</code> statements, and how to use comparison operators and multiple conditions in an <code>if</code> statement."
+          "在本练习中，你将通过制作贷款资格检查器继续学习条件语句的用法。",
+          "你将进一步学习 <code>if</code> 语句，以及如何在 <code>if</code> 语句中使用比较运算符和多个条件。"
         ]
       },
       "lab-leap-year-calculator": {
-        "title": "Build a Leap Year Calculator ",
+        "title": "制作闰年计算器",
         "intro": [
-          "In this lab you'll use conditional statements and loops to determine if a year is a leap year."
+          "在本实验中，你将用条件语句和循环判断某一年是否为闰年。"
         ]
       },
       "review-javascript-functions": {
-        "title": "JavaScript Functions Review",
+        "title": "JavaScript 函数复习",
         "intro": [
-          "Before you're quizzed on JavaScript functions, you should review what you've learned about them.",
-          "Open up this page to review functions, arrow functions and scope."
+          "在参加 JavaScript 函数测验前，你应先复习相关内容。",
+          "打开本页面，复习函数、箭头函数和作用域等概念。"
         ]
       },
       "quiz-javascript-functions": {
-        "title": "JavaScript Functions Quiz",
-        "intro": ["Test your knowledge of JavaScript functions with this quiz."]
+        "title": "JavaScript 函数测验",
+        "intro": ["通过本测验测试你对 JavaScript 函数的掌握。"]
       },
       "lecture-working-with-arrays": {
-        "title": "Working with Arrays",
+        "title": "数组的使用",
         "intro": [
-          "In these lecture videos, you will learn how to work with JavaScript arrays. You will learn about what makes an array, one-dimensional and two-dimensional arrays, how to access and update the elements in an array, and much more."
+          "在这些讲解视频中，你将学习如何操作 JavaScript 数组。你将了解数组的构成、一维和二维数组、如何访问和更新数组元素等内容。"
         ]
       },
       "workshop-shopping-list": {
-        "title": "Build a Shopping List",
+        "title": "制作购物清单",
         "intro": [
-          "In this workshop, you will practice how to work with arrays by building a shopping list.",
-          "You will review how to add and remove elements from an array using methods like <code>push</code>, <code>pop</code>, <code>shift</code>, and <code>unshift</code>."
+          "在本练习中，你将通过制作购物清单练习数组的使用。",
+          "你将复习如何用 <code>push</code>、<code>pop</code>、<code>shift</code>、<code>unshift</code> 等方法添加和移除数组元素。"
         ]
       },
       "lab-lunch-picker-program": {
-        "title": "Build a Lunch Picker Program",
+        "title": "制作午餐选择器",
         "intro": [
-          "In this lab, you'll review working with arrays and random numbers by building a lunch picker program."
+          "在本实验中，你将通过制作午餐选择器复习数组和随机数的使用。"
         ]
       },
       "lecture-working-with-common-array-methods": {
-        "title": "Working with Common Array Methods",
+        "title": "常用数组方法的使用",
         "intro": [
-          "In these lecture videos, you will learn about the array methods for performing more advanced operations like getting the position of an item in an array, checking if an array contains a certain element, copying an array, and lots more."
+          "在这些讲解视频中，你将学习数组的常用方法，包括获取元素位置、检查数组是否包含某元素、复制数组等高级操作。"
         ]
       },
       "review-javascript-arrays": {
-        "title": "JavaScript Arrays Review",
+        "title": "JavaScript 数组复习",
         "intro": [
-          "Before you're quizzed on JavaScript arrays, you should review what you've learned about them.",
-          "Open up this page to review concepts like array destructuring, how to add and remove elements from an array, and more."
+          "在参加 JavaScript 数组测验前，你应先复习相关内容。",
+          "打开本页面，复习数组解构、数组元素的添加与移除等概念。"
         ]
       },
       "quiz-javascript-arrays": {
-        "title": "JavaScript Arrays Quiz",
-        "intro": ["Test your knowledge of JavaScript arrays with this quiz."]
+        "title": "JavaScript 数组测验",
+        "intro": ["通过本测验测试你对 JavaScript 数组的掌握。"]
       },
       "lecture-working-with-objects": {
-        "title": "Working with Objects",
+        "title": "对象的使用",
         "intro": [
-          "In these lecture videos, you will learn how to work with JavaScript objects. The concepts you will learn include how to access properties from an object, check if an object has a property, how object methods differ from functions, object destructuring, and much more."
+          "在这些讲解视频中，你将学习如何操作 JavaScript 对象。你将学习如何访问对象属性、检查对象是否有某属性、对象方法与函数的区别、对象解构等内容。"
         ]
       },
       "workshop-recipe-tracker": {
-        "title": "Build a Recipe Tracker",
+        "title": "制作食谱追踪器",
         "intro": [
-          "In this workshop, you will review working with JavaScript objects by building a recipe tracker."
+          "在本练习中，你将通过制作食谱追踪器复习 JavaScript 对象的使用。"
         ]
       },
       "lab-quiz-game": {
-        "title": "Build a Quiz Game",
+        "title": "制作答题游戏",
         "intro": [
-          "In this lab, you'll build a quiz game using JavaScript arrays and objects.",
-          "You'll also practice using functions to randomly select a question and an answer from an array and compare them."
+          "在本实验中，你将用 JavaScript 数组和对象制作一个答题游戏。",
+          "你还将练习用函数从数组中随机选择问题和答案并进行比较。"
         ]
       },
       "review-javascript-objects": {
-        "title": "JavaScript Objects Review",
+        "title": "JavaScript 对象复习",
         "intro": [
-          "Before you're quizzed on JavaScript objects, you should review what you've learned about them.",
-          "Open up this page to review concepts including how to access information from objects, object destructuring, working with JSON, and more."
+          "在参加 JavaScript 对象测验前，你应先复习相关内容。",
+          "打开本页面，复习如何访问对象信息、对象解构、JSON 操作等概念。"
         ]
       },
       "quiz-javascript-objects": {
-        "title": "JavaScript Objects Quiz",
-        "intro": ["Test your knowledge of JavaScript objects with this quiz."]
+        "title": "JavaScript 对象测验",
+        "intro": ["通过本测验测试你对 JavaScript 对象的掌握。"]
       },
       "lecture-working-with-loops": {
-        "title": "Working with Loops",
+        "title": "循环的使用",
         "intro": [
-          "Loops are an essential part of JavaScript. That's why the following lecture videos have been prepared for you to learn about the different types of loops and how they work, and also how iteration works."
+          "循环是 JavaScript 的重要组成部分。以下讲解视频将帮助你学习不同类型的循环及其工作原理，以及迭代的概念。"
         ]
       },
       "workshop-sentence-analyzer": {
-        "title": "Build a Sentence Analyzer",
+        "title": "制作句子分析器",
         "intro": [
-          "In this workshop, you'll review how to work with JavaScript loops by building a sentence analyzer app."
+          "在本练习中，你将通过制作句子分析器复习 JavaScript 循环的使用。"
         ]
       },
       "lab-factorial-calculator": {
-        "title": "Build a Factorial Calculator ",
+        "title": "制作阶乘计算器",
         "intro": [
-          "In this lab, you'll build a factorial calculator.",
-          "You'll practice using loops and conditionals to calculate the factorial of a number."
+          "在本实验中，你将制作一个阶乘计算器。",
+          "你将练习用循环和条件语句计算一个数的阶乘。"
         ]
       },
       "review-javascript-loops": {
-        "title": "JavaScript Loops Review",
+        "title": "JavaScript 循环复习",
         "intro": [
-          "Before you're quizzed on the different JavaScript loops, you should review them.",
-          "Open up this page to review the <code>for...of</code> loop, <code>while</code> loop, <code>break and continue</code> statements and more."
+          "在参加 JavaScript 循环测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>for...of</code> 循环、<code>while</code> 循环、<code>break</code> 和 <code>continue</code> 语句等。"
         ]
       },
       "quiz-javascript-loops": {
-        "title": "JavaScript Loops Quiz",
-        "intro": ["Test your knowledge of JavaScript loops with this quiz."]
+        "title": "JavaScript 循环测验",
+        "intro": ["通过本测验测试你对 JavaScript 循环的掌握。"]
       },
       "lecture-understanding-core-javascript-fundamentals": {
-        "title": "Understanding Core JavaScript Fundamentals",
+        "title": "理解 JavaScript 核心基础",
         "intro": [
-          "In these lecture videos, you will learn more about the core JavaScript fundamentals. You will learn how a string object differs from a primitive string, the <code>toString()</code> method, conventions and common practices for naming variables, linters and formatters, closures, and much more."
+          "在这些讲解视频中，你将进一步学习 JavaScript 的核心基础知识。你将了解字符串对象与原始字符串的区别、<code>toString()</code> 方法、变量命名规范、代码格式化工具、闭包等内容。"
         ]
       },
       "lab-pyramid-generator": {
-        "title": "Build a Pyramid Generator",
+        "title": "制作金字塔生成器",
         "intro": [
-          "In this lab you'll build a pyramid generator.",
-          "You'll take a number as input and generate a pyramid with that many levels using a loop."
+          "在本实验中，你将制作一个金字塔生成器。",
+          "你将输入一个数字，并用循环生成对应层数的金字塔。"
         ]
       },
       "lab-gradebook-app": {
-        "title": "Build a Gradebook App",
+        "title": "制作成绩册应用",
         "intro": [
-          "For this lab, you'll create a gradebook app.",
-          "You'll practice conditionals to determine the student's grade based on their score."
+          "在本实验中，你将制作一个成绩册应用。",
+          "你将练习用条件语句根据分数判断学生的成绩。"
         ]
       },
       "lecture-the-var-keyword-and-hoisting": {
-        "title": "The var Keyword and Hoisting",
+        "title": "var 关键字与变量提升",
         "intro": [
-          "In these lecture videos, you will learn about the <code>var</code> keyword and why it is not recommended for use anymore. You will also learn about hoisting in JavaScript so you can avoid subtle bugs in your code."
+          "在这些讲解视频中，你将学习 <code>var</code> 关键字及其为何不推荐使用。你还将学习 JavaScript 中的变量提升，以避免代码中的隐性 bug。"
         ]
       },
       "lab-inventory-management-program": {
-        "title": "Build an Inventory Management Program",
+        "title": "制作库存管理程序",
         "intro": [
-          "For this lab, you'll build an inventory management program using JavaScript.",
-          "You'll use JavaScript array of objects to manage the inventory."
+          "在本实验中，你将用 JavaScript 制作一个库存管理程序。",
+          "你将用对象数组管理库存信息。"
         ]
       },
       "lecture-understanding-modules-imports-and-exports": {
-        "title": "Understanding Modules, Imports, and Exports",
+        "title": "理解模块、导入与导出",
         "intro": [
-          "In this lecture video, you will learn about modules, imports, and exports in JavaScript."
+          "在本讲解视频中，你将学习 JavaScript 中的模块、导入和导出。"
         ]
       },
       "lab-password-generator": {
-        "title": "Build a Password Generator App",
+        "title": "制作密码生成器应用",
         "intro": [
-          "In this lab, you'll build a password generator app based on the user's input."
+          "在本实验中，你将根据用户输入制作一个密码生成器应用。"
         ]
       },
       "review-javascript-fundamentals": {
-        "title": "JavaScript Fundamentals Review",
+        "title": "JavaScript 基础复习",
         "intro": [
-          "Before you are quizzed on JavaScript fundamentals, you first need to review the concepts.",
-          "Open up this page to review concepts like closures, memory management, and more."
+          "在参加 JavaScript 基础测验前，你需要先复习相关概念。",
+          "打开本页面，复习闭包、内存管理等内容。"
         ]
       },
       "quiz-javascript-fundamentals": {
-        "title": "JavaScript Fundamentals Quiz",
+        "title": "JavaScript 基础测验",
         "intro": [
-          "Test your knowledge of JavaScript fundamentals with this quiz."
+          "通过本测验测试你对 JavaScript 基础知识的掌握。"
         ]
       },
       "lecture-working-with-higher-order-functions-and-callbacks": {
-        "title": "Working with Higher Order Functions and Callbacks",
+        "title": "高阶函数与回调的使用",
         "intro": [
-          "In these lecture videos, you will learn how to work with higher order functions and callbacks. The higher order functions you will learn include <code>map()</code>, <code>filter()</code>, <code>reduce()</code>, <code>sort()</code>, <code>every()</code>, and <code>some()</code>. You will also learn how to chain these methods together to achieve your desired results."
+          "在这些讲解视频中，你将学习高阶函数和回调的用法。你将学习 <code>map()</code>、<code>filter()</code>、<code>reduce()</code>、<code>sort()</code>、<code>every()</code>、<code>some()</code> 等高阶函数，以及如何链式调用这些方法。"
         ]
       },
       "workshop-library-manager": {
-        "title": "Build a Library Manager",
+        "title": "制作图书馆管理器",
         "intro": [
-          "In this workshop, you will learn higher order array methods by building a library manager."
+          "在本练习中，你将通过制作图书馆管理器学习高阶数组方法。"
         ]
       },
       "lab-book-organizer": {
-        "title": "Build a Book Organizer",
+        "title": "制作图书整理器",
         "intro": [
-          "In this lab, you'll build a book organizer using higher order functions in JavaScript."
+          "在本实验中，你将用 JavaScript 高阶函数制作一个图书整理器。"
         ]
       },
       "review-javascript-higher-order-functions": {
-        "title": "JavaScript Higher Order Functions Review",
+        "title": "JavaScript 高阶函数复习",
         "intro": [
-          "Before you're quizzed on JavaScript higher order functions, you should review them.",
-          "Open up this page to review concepts including how to work with the <code>map()</code>, <code>filter()</code>, and <code>reduce()</code> methods."
+          "在参加 JavaScript 高阶函数测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>map()</code>、<code>filter()</code>、<code>reduce()</code> 等方法的用法。"
         ]
       },
       "quiz-javascript-higher-order-functions": {
-        "title": "JavaScript Higher Order Functions Quiz",
+        "title": "JavaScript 高阶函数测验",
         "intro": [
-          "Test your knowledge of JavaScript higher order functions with this quiz."
+          "通过本测验测试你对 JavaScript 高阶函数的掌握。"
         ]
       },
       "lecture-working-with-the-dom-click-events-and-web-apis": {
-        "title": "Working with the DOM, Click Events, and Web APIs",
+        "title": "DOM、点击事件与 Web API 的使用",
         "intro": [
-          "In these lecture videos, you will learn how to work with the Document Object Model (DOM), the <code>addEventListener()</code> method and events, and web APIs."
+          "在这些讲解视频中，你将学习如何操作文档对象模型（DOM）、<code>addEventListener()</code> 方法与事件，以及 Web API 的使用。"
         ]
       },
       "workshop-storytelling-app": {
-        "title": "Build a Storytelling App",
+        "title": "制作故事讲述应用",
         "intro": [
-          "In this workshop, you will build a storytelling app that will allow you to list different stories based on genre."
+          "在本练习中，你将制作一个故事讲述应用，可以按类型列出不同的故事。"
         ]
       },
       "lab-favorite-icon-toggler": {
-        "title": "Build a Favorite Icon Toggler",
+        "title": "制作收藏图标切换器",
         "intro": [
-          "In this lab, you'll build a favorite icon toggler by utilizing JavaScript click events."
+          "在本实验中，你将通过 JavaScript 点击事件制作一个收藏图标切换器。"
         ]
       },
       "lecture-understanding-the-event-object-and-event-delegation": {
-        "title": "Understanding the Event Object and Event Delegation",
+        "title": "理解事件对象与事件委托",
         "intro": [
-          "In these lecture videos, you will learn about the event object, the change event, event bubbling, and event delegation."
+          "在这些讲解视频中，你将学习事件对象、change 事件、事件冒泡和事件委托。"
         ]
       },
       "workshop-music-instrument-filter": {
-        "title": "Build a Music Instrument Filter",
+        "title": "制作乐器筛选器",
         "intro": [
-          "In this workshop, you will build a music instrument filter with JavaScript."
+          "在本练习中，你将用 JavaScript 制作一个乐器筛选器。"
         ]
       },
       "lab-real-time-counter": {
-        "title": "Build a Real Time Counter",
+        "title": "制作实时计数器",
         "intro": [
-          "In this lab, you'll build a real-time character counter",
-          "You'll practice how to work with the <code>input</code> event when the user types in the input field."
+          "在本实验中，你将制作一个实时字符计数器。",
+          "你将练习如何在用户输入时处理 <code>input</code> 事件。"
         ]
       },
       "lab-lightbox-viewer": {
-        "title": "Build a Lightbox Viewer",
+        "title": "制作图片灯箱查看器",
         "intro": [
-          "In this lab, you'll build a lighbox viewer for viewing images in a focused mode.",
-          "You'll practice click events and toggling classes."
+          "在本实验中，你将制作一个图片灯箱查看器，用于聚焦查看图片。",
+          "你将练习点击事件和切换类名。"
         ]
       },
       "workshop-rps-game": {
-        "title": "Build a Rock, Paper, Scissors Game",
+        "title": "制作石头剪刀布游戏",
         "intro": [
-          "In this workshop, you will review DOM manipulation and events by building a Rock, Paper, Scissors Game."
+          "在本练习中，你将通过制作石头剪刀布游戏复习 DOM 操作与事件。"
         ]
       },
       "lab-palindrome-checker": {
-        "title": "Build a Palindrome Checker",
+        "title": "制作回文检测器",
         "intro": [
-          "For this lab, you'll build an application that checks whether a given word is a palindrome."
+          "在本实验中，你将制作一个检测输入单词是否为回文的应用。"
         ]
       },
       "lab-football-team-cards": {
-        "title": "Build a Set of Football Team Cards",
+        "title": "制作足球队卡片集",
         "intro": [
-          "In this lab, you'll use DOM manipulation, object destructuring, event handling, and data filtering to build a set of football team cards."
+          "在本实验中，你将通过 DOM 操作、对象解构、事件处理和数据筛选制作一组足球队卡片。"
         ]
       },
       "review-dom-manipulation-and-click-events-with-javascript": {
-        "title": "DOM Manipulation and Click Events with JavaScript Review",
+        "title": "JavaScript DOM 操作与点击事件复习",
         "intro": [
-          "Before you're quizzed on the DOM, you should review what you've learned about it.",
-          "Open up this page to review concepts including how to work with the <code>DOM</code>, <code>Web APIs</code>, the <code>addEventListener()</code> method, change events, event bubbling and more."
+          "在参加 DOM 操作测验前，你应先复习相关内容。",
+          "打开本页面，复习 DOM、Web API、<code>addEventListener()</code> 方法、change 事件、事件冒泡等概念。"
         ]
       },
       "quiz-dom-manipulation-and-click-event-with-javascript": {
-        "title": "DOM Manipulation and Click Events with JavaScript Quiz",
+        "title": "JavaScript DOM 操作与点击事件测验",
         "intro": [
-          "Test your knowledge of DOM manipulation and click events in JavaScript with this quiz."
+          "通过本测验测试你对 JavaScript DOM 操作与点击事件的掌握。"
         ]
       },
       "lecture-debugging-techniques": {
-        "title": "Debugging Techniques",
+        "title": "调试技巧",
         "intro": [
-          "In these lecture videos, you will learn about the common errors in JavaScript and the techniques you can use to fix them – a process called debugging."
+          "在这些讲解视频中，你将学习 JavaScript 常见错误及调试技巧。"
         ]
       },
       "lab-random-background-color-changer": {
-        "title": "Debug a Random Background Color Changer",
+        "title": "调试随机背景变色程序",
         "intro": [
-          "In this lab, you'll debug a random background color changer and fix the errors to make it work properly."
+          "在本实验中，你将调试一个随机背景变色程序，修复错误使其正常工作。"
         ]
       },
       "review-debugging-javascript": {
-        "title": "Debugging JavaScript Review",
+        "title": "JavaScript 调试复习",
         "intro": [
-          "Before you're quizzed on common debugging techniques, you should review what you've learned.",
-          "Open up this page to review concepts including how to work with the <code>throw statement</code>, <code>try...catch...finally</code> and more."
+          "在参加调试技巧测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>throw</code> 语句、<code>try...catch...finally</code> 等概念。"
         ]
       },
       "quiz-debugging-javascript": {
-        "title": "Debugging JavaScript Quiz",
-        "intro": ["Test your knowledge of JavaScript debugging with this quiz."]
+        "title": "JavaScript 调试测验",
+        "intro": ["通过本测验测试你对 JavaScript 调试的掌握。"]
       },
       "lecture-working-with-regular-expressions": {
-        "title": "Working with Regular Expressions",
+        "title": "正则表达式的使用",
         "intro": [
-          "In these lecture videos, you will learn about regular expressions in JavaScript. You will learn about the methods for working with regular expressions, modifiers, character classes, lookaheads, lookbehinds, back-references, quantifiers, and more."
+          "在这些讲解视频中，你将学习 JavaScript 正则表达式。你将学习正则表达式的用法、修饰符、字符类、正向/负向查找、反向引用、量词等内容。"
         ]
       },
       "workshop-spam-filter": {
-        "title": "Build a Spam Filter",
+        "title": "制作垃圾邮件过滤器",
         "intro": [
-          "Regular expressions, often shortened to \"regex\" or \"regexp\", are patterns that help programmers match, search, and replace text. Regular expressions are powerful, but can be difficult to understand because they use so many special characters.",
-          "In this workshop, you'll use capture groups, positive lookaheads, negative lookaheads, and other techniques to match any text you want."
+          "正则表达式（regex 或 regexp）是帮助程序员匹配、搜索和替换文本的模式。正则表达式功能强大，但由于包含大量特殊字符，可能难以理解。",
+          "在本练习中，你将用捕获组、正向查找、负向查找等技术匹配任意文本。"
         ]
       },
       "lab-markdown-to-html-converter": {
-        "title": "Build a Markdown to HTML Converter",
+        "title": "制作 Markdown 转 HTML 转换器",
         "intro": [
-          "For this lab, you'll build a Markdown to HTML converter using JavaScript.",
-          "You'll practice regular expressions, string manipulation, and more."
+          "在本实验中，你将用 JavaScript 制作一个 Markdown 转 HTML 转换器。",
+          "你将练习正则表达式、字符串操作等内容。"
         ]
       },
       "lab-regex-sandbox": {
-        "title": "Build a RegEx Sandbox",
-        "intro": ["In this lab you'll build a regex sandbox."]
+        "title": "制作正则表达式沙盒",
+        "intro": ["在本实验中，你将制作一个正则表达式沙盒。"]
       },
       "review-javascript-regular-expressions": {
-        "title": "JavaScript Regular Expressions Review",
+        "title": "JavaScript 正则表达式复习",
         "intro": [
-          "Before you're quizzed on Regular Expressions, you should review what you've learned.",
-          "Open up this page to review concepts like lookaheads, lookbehinds, common regex modifiers and more."
+          "在参加正则表达式测验前，你应先复习相关内容。",
+          "打开本页面，复习正向/负向查找、常用正则修饰符等概念。"
         ]
       },
       "quiz-javascript-regular-expressions": {
-        "title": "JavaScript Regular Expressions Quiz",
+        "title": "JavaScript 正则表达式测验",
         "intro": [
-          "Test your knowledge of JavaScript Regular Expressions with this quiz."
+          "通过本测验测试你对 JavaScript 正则表达式的掌握。"
         ]
       },
       "lecture-understanding-form-validation": {
-        "title": "Understanding Form Validation",
+        "title": "理解表单验证",
         "intro": [
-          "In these lecture videos, you will learn about form validation in JavaScript. You will learn about the various ways to validate forms, how the <code>preventDefault()</code> method works, and how the submit event works."
+          "在这些讲解视频中，你将学习 JavaScript 表单验证。你将了解多种表单验证方式、<code>preventDefault()</code> 方法的工作原理，以及 submit 事件的用法。"
         ]
       },
       "workshop-calorie-counter": {
-        "title": "Build a Calorie Counter",
+        "title": "制作卡路里计算器",
         "intro": [
-          "Sometimes when you're coding a web application, you'll need to be able to accept input from a user. In this calorie counter workshop, you'll practice how to validate user input, perform calculations based on that input, and dynamically update your interface to display the results.",
-          "You'll also practice basic regular expressions, template literals, the <code>addEventListener()</code> method, and more."
+          "有时在编写 Web 应用时，你需要接收用户输入。在本练习中，你将练习如何验证用户输入、根据输入进行计算，并动态更新界面显示结果。",
+          "你还将练习基本正则表达式、模板字符串、<code>addEventListener()</code> 方法等内容。"
         ]
       },
       "lab-customer-complaint-form": {
-        "title": "Build a Customer Complaint Form",
+        "title": "制作客户投诉表单",
         "intro": [
-          "For this lab, you'll use JavaScript to validate a customer complaint form.",
-          "You'll practice how to validate form inputs, display error messages, and prevent the form from submitting if there are errors."
+          "在本实验中，你将用 JavaScript 验证客户投诉表单。",
+          "你将练习表单输入验证、错误信息显示，以及在有错误时阻止表单提交。"
         ]
       },
       "review-form-validation-with-javascript": {
-        "title": "Form Validation with JavaScript Review",
+        "title": "JavaScript 表单验证复习",
         "intro": [
-          "Before you're quizzed on form validation, you should review what you've learned.",
-          "Open up this page to review concepts including the <code>preventDefault()</code> method, the submit event and more."
+          "在参加表单验证测验前，你应先复习相关内容。",
+          "打开本页面，复习 <code>preventDefault()</code> 方法、submit 事件等概念。"
         ]
       },
       "quiz-form-validation-with-javascript": {
-        "title": "Form Validation with JavaScript Quiz",
+        "title": "JavaScript 表单验证测验",
         "intro": [
-          "Test what you've learned about JavaScript form validation with this quiz."
+          "通过本测验测试你对 JavaScript 表单验证的掌握。"
         ]
       },
       "lecture-working-with-dates": {
-        "title": "Working with Dates",
+        "title": "日期的使用",
         "intro": [
-          "In these lecture videos, you will learn about the JavaScript date object. You will learn about the methods for working with dates and how to format dates."
+          "在这些讲解视频中，你将学习 JavaScript 日期对象。你将学习日期操作方法以及如何格式化日期。"
         ]
       },
       "lab-date-conversion": {
-        "title": "Build a Date Conversion Program",
+        "title": "制作日期转换程序",
         "intro": [
-          "In this lab, you'll build a program to convert a date from one format to another."
+          "在本实验中，你将制作一个日期格式转换程序。"
         ]
       },
       "review-javascript-dates": {
-        "title": "JavaScript Dates Review",
+        "title": "JavaScript 日期复习",
         "intro": [
-          "Before you're quizzed on working with dates, you should review what you've learned.",
-          "Open up this page to review the <code>Date()</code> object and common methods."
+          "在参加日期相关测验前，你应先复习所学内容。",
+          "打开本页面，复习 <code>Date()</code> 对象及常用方法。"
         ]
       },
       "quiz-javascript-dates": {
-        "title": "JavaScript Dates Quiz",
+        "title": "JavaScript 日期测验",
         "intro": [
-          "Test what you've learned about JavaScript Dates with this quiz."
+          "通过本测验测试你对 JavaScript 日期的掌握。"
         ]
       },
       "lecture-working-with-audio-and-video": {
-        "title": "Working with Audio and Video",
+        "title": "音频与视频的使用",
         "intro": [
-          "In these lecture videos, you will learn how to work with audio and video files using JavaScript. You will learn about the <code>Audio</code> and <code>Video</code> constructors, their methods and properties, audio and video formats, codecs, the <code>HTMLMediaElement</code> API, and much more."
+          "在这些讲解视频中，你将学习如何用 JavaScript 操作音频和视频文件。你将了解 <code>Audio</code> 和 <code>Video</code> 构造函数、它们的方法和属性、音视频格式、编解码器、<code>HTMLMediaElement</code> API 等内容。"
         ]
       },
       "workshop-music-player": {
-        "title": "Build a Music Player",
+        "title": "制作音乐播放器",
         "intro": [
-          "In this workshop, you'll code a basic MP3 player using HTML, CSS, and JavaScript.",
-          "The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, and previous functionalities and dynamically update your user interface based on the current song."
+          "在本练习中，你将用 HTML、CSS 和 JavaScript 编写一个基础 MP3 播放器。",
+          "你将练习音频播放、播放列表管理、实现播放、暂停、上一首、下一首等功能，并根据当前歌曲动态更新界面。"
         ]
       },
       "lab-drum-machine": {
-        "title": "Build a Drum Machine",
+        "title": "制作鼓机",
         "intro": [
-          "For this lab you will use the <code>audio</code> element to build a drum machine."
+          "在本实验中，你将用 <code>audio</code> 元素制作一个鼓机。"
         ]
       },
       "review-javascript-audio-and-video": {
-        "title": "JavaScript Audio and Video Review",
+        "title": "JavaScript 音频与视频复习",
         "intro": [
-          "Before you're quizzed on working with audio and video in JavaScript, you should review what you've learned about them.",
-          "Open up this page to review concepts including the <code>Audio</code> constructor, the <code>HTMLMediaElement</code> API and more."
+          "在参加音频与视频相关测验前，你应先复习所学内容。",
+          "打开本页面，复习 <code>Audio</code> 构造函数、<code>HTMLMediaElement</code> API 等概念。"
         ]
       },
       "quiz-javascript-audio-and-video": {
-        "title": "JavaScript Audio and Video Quiz",
+        "title": "JavaScript 音频与视频测验",
         "intro": [
-          "Test what you've learned about JavaScript audio and video with this quiz."
+          "通过本测验测试你对 JavaScript 音频与视频的掌握。"
         ]
       },
       "lecture-working-with-maps-and-sets": {
-        "title": "Working with Maps and Sets",
+        "title": "Map 与 Set 的使用",
         "intro": [
-          "In these lecture videos, you will learn about JavaScript <code>Map</code> and <code>Set</code>. You will also learn how they both differ from <code>WeakSets</code> and <code>WeakMaps</code>."
+          "在这些讲解视频中，你将学习 JavaScript 的 <code>Map</code> 和 <code>Set</code>，以及它们与 <code>WeakSet</code> 和 <code>WeakMap</code> 的区别。"
         ]
       },
       "workshop-plant-nursery-catalog": {
-        "title": "Build a Plant Nursery Catalog",
+        "title": "制作植物苗圃目录",
         "intro": [
-          "In this workshop, you will practice using Maps and Sets by building a plant nursery catalog."
+          "在本练习中，你将通过制作植物苗圃目录练习 Map 和 Set 的用法。"
         ]
       },
       "lab-voting-system": {
-        "title": "Build a Voting System",
+        "title": "制作投票系统",
         "intro": [
-          "In this lab, you'll build a voting system using Maps and Sets.",
-          "You'll practice how to use the <code>Map</code> object to store key-value pairs and the <code>Set</code> object to store unique values."
+          "在本实验中，你将用 Map 和 Set 制作一个投票系统。",
+          "你将练习用 <code>Map</code> 存储键值对，用 <code>Set</code> 存储唯一值。"
         ]
       },
       "review-javascript-maps-and-sets": {
-        "title": "JavaScript Maps and Sets Review",
+        "title": "JavaScript Map 与 Set 复习",
         "intro": [
-          "Before you're quizzed on JavaScript Maps and Sets, you should review what you've learned about them.",
-          "Open up this page to review concepts such as the <code>Map</code> and <code>Set</code> objects, as well as WeakSet and WeakMap."
+          "在参加 Map 与 Set 测验前，你应先复习所学内容。",
+          "打开本页面，复习 <code>Map</code>、<code>Set</code>、WeakSet、WeakMap 等概念。"
         ]
       },
       "quiz-javascript-maps-and-sets": {
-        "title": "JavaScript Maps and Sets Quiz",
+        "title": "JavaScript Map 与 Set 测验",
         "intro": [
-          "Test what you've learned about JavaScript Maps and Sets with this quiz."
+          "通过本测验测试你对 JavaScript Map 与 Set 的掌握。"
         ]
       },
       "lecture-working-with-client-side-storage-and-crud-operations": {
-        "title": "Working with Client-Side Storage and CRUD Operations",
+        "title": "客户端存储与 CRUD 操作",
         "intro": [
-          "In these lecture videos, you will learn about client-side storage and CRUD operations in JavaScript. You will learn about <code>localStorage</code> and <code>sessionStorage</code> alongside their methods and properties, cookies, the Cache API, IndexDB, and much more."
+          "在这些讲解视频中，你将学习 JavaScript 的客户端存储与 CRUD 操作。你将了解 <code>localStorage</code>、<code>sessionStorage</code> 及其方法和属性、cookie、Cache API、IndexDB 等内容。"
         ]
       },
       "workshop-todo-app": {
-        "title": "Build a Todo App using Local Storage",
+        "title": "用本地存储制作 Todo 应用",
         "intro": [
-          "Local storage is a web browser feature that lets web applications store key-value pairs persistently within a user's browser. This allows web apps to save data during one session, then retrieve it in a later page session.",
-          "In this workshop, you'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements."
+          "本地存储是浏览器的一项功能，可让 Web 应用在用户浏览器中持久存储键值对。这样应用可以在一次会话中保存数据，并在后续页面会话中检索。",
+          "在本练习中，你将学习如何处理表单输入、管理本地存储、对任务执行 CRUD 操作、实现事件监听器和切换 UI 元素。"
         ]
       },
       "lab-bookmark-manager-app": {
-        "title": "Build a Bookmark Manager App",
+        "title": "制作书签管理应用",
         "intro": [
-          "For this lab, you'll build a bookmark manager app.",
-          "You'll utilize local storage to store bookmarks, and practice how to add, remove, and display bookmarks."
+          "在本实验中，你将制作一个书签管理应用。",
+          "你将用本地存储保存书签，并练习添加、移除和显示书签。"
         ]
       },
       "review-local-storage-and-crud": {
-        "title": "Local Storage and CRUD Review",
+        "title": "本地存储与 CRUD 复习",
         "intro": [
-          "Before you are quizzed on working with <code>localStorage</code>, you first need to review the concepts.",
-          "Open up this page to review the <code>localStorage</code> property, <code>sessionStorage</code> property and more."
+          "在参加 <code>localStorage</code> 测验前，你应先复习相关概念。",
+          "打开本页面，复习 <code>localStorage</code>、<code>sessionStorage</code> 等内容。"
         ]
       },
       "quiz-local-storage-and-crud": {
-        "title": "Local Storage and CRUD Quiz",
+        "title": "本地存储与 CRUD 测验",
         "intro": [
-          "Test what you've learned about local storage and CRUD with this quiz."
+          "通过本测验测试你对本地存储与 CRUD 的掌握。"
         ]
       },
       "lecture-understanding-how-to-work-with-classes-in-javascript": {
-        "title": "Understanding How to Work with Classes in JavaScript",
+        "title": "理解 JavaScript 类的使用",
         "intro": [
-          "In these lecture videos, you will learn about classes in JavaScript. You will learn about inheritance, the <code>this</code> keyword, static properties and methods, and more."
+          "在这些讲解视频中，你将学习 JavaScript 的类。你将了解继承、<code>this</code> 关键字、静态属性和方法等内容。"
         ]
       },
       "workshop-shopping-cart": {
-        "title": "Build a Shopping Cart",
+        "title": "制作购物车",
         "intro": [
-          "In this workshop you'll create a shopping cart using JavaScript classes.",
-          "You will practice how to use the this keyword, create class instances, implement methods for data manipulation and more."
+          "在本练习中，你将用 JavaScript 类制作一个购物车。",
+          "你将练习 <code>this</code> 关键字、创建类实例、实现数据操作方法等内容。"
         ]
       },
       "lab-project-idea-board": {
-        "title": "Build a Project Idea Board",
+        "title": "制作项目创意看板",
         "intro": [
-          "In this lab, you'll build a project idea board using OOP in JavaScript.",
-          "You'll practice how to create classes, add methods to classes, and create instances of classes."
+          "在本实验中，你将用 JavaScript 面向对象编程制作一个项目创意看板。",
+          "你将练习创建类、为类添加方法、创建类实例等内容。"
         ]
       },
       "lab-bank-account-manager": {
-        "title": "Build a Bank Account Management Program",
+        "title": "制作银行账户管理程序",
         "intro": [
-          "In this lab, you'll build a simple transaction management system for a bank account."
+          "在本实验中，你将制作一个简单的银行账户交易管理系统。"
         ]
       },
       "review-javascript-classes": {
-        "title": "JavaScript Classes Review",
+        "title": "JavaScript 类复习",
         "intro": [
-          "Before you're quizzed on how to work with classes, you should review what you've learned about them.",
-          "Open up this page to review concepts including the <code>this</code> keyword, class inheritance and more."
+          "在参加类相关测验前，你应先复习所学内容。",
+          "打开本页面，复习 <code>this</code> 关键字、类继承等概念。"
         ]
       },
       "quiz-javascript-classes": {
-        "title": "JavaScript Classes Quiz",
+        "title": "JavaScript 类测验",
         "intro": [
-          "Test what you've learned about JavaScript classes with this quiz."
+          "通过本测验测试你对 JavaScript 类的掌握。"
         ]
       },
       "lecture-understanding-recursion-and-the-call-stack": {
-        "title": "Understanding Recursion and the Call Stack",
+        "title": "理解递归与调用栈",
         "intro": [
-          "In this lecture video, you will learn about recursion and the call stack."
+          "在本讲解视频中，你将学习递归与调用栈。"
         ]
       },
       "workshop-decimal-to-binary-converter": {
-        "title": "Build a Decimal to Binary Converter",
+        "title": "制作十进制转二进制转换器",
         "intro": [
-          "Recursion is a programming concept where a function calls itself. This can reduce a complex problem into simpler sub-problems, until they become straightforward to solve.",
-          "In this workshop, you’ll build a decimal-to-binary converter using JavaScript. You’ll practice the fundamental concepts of recursion, explore the call stack, and build out a visual representation of the recursion process through an animation."
+          "递归是一种函数调用自身的编程概念。它可以将复杂问题分解为更简单的子问题，直到变得易于解决。",
+          "在本练习中，你将用 JavaScript 制作一个十进制转二进制转换器。你将练习递归的基本概念、探索调用栈，并通过动画直观展示递归过程。"
         ]
       },
       "lab-permutation-generator": {
-        "title": "Build a Permutation Generator",
+        "title": "制作排列生成器",
         "intro": [
-          "For this lab, you'll build a permutation generator that produces all possible permutations of a given string."
+          "在本实验中，你将制作一个字符串全排列生成器。"
         ]
       },
       "review-recursion": {
-        "title": "Recursion Review",
+        "title": "递归复习",
         "intro": [
-          "Before you're quizzed on recursion, you should review what you've learned.",
-          "Open up this page to review what is recursion and what is it used for."
+          "在参加递归测验前，你应先复习所学内容。",
+          "打开本页面，复习递归的定义及用途。"
         ]
       },
       "quiz-recursion": {
-        "title": "Recursion Quiz",
-        "intro": ["Test your knowledge of Recursion with this quiz."]
+        "title": "递归测验",
+        "intro": ["通过本测验测试你对递归的掌握。"]
       },
       "lecture-understanding-functional-programming": {
-        "title": "Understanding Functional Programming",
+        "title": "理解函数式编程",
         "intro": [
-          "In these lecture videos, you will learn about functional programming and how to nest functions using a technique called currying."
+          "在这些讲解视频中，你将学习函数式编程及如何用柯里化嵌套函数。"
         ]
       },
       "workshop-recipe-ingredient-converter": {
-        "title": "Build a Recipe Ingredient Converter",
+        "title": "制作食谱配料转换器",
         "intro": [
-          "In the previous lecture videos, you learned the core concepts behind functional programming and currying.",
-          "Now you will be able to apply what you have learned about currying and functional programming by building a recipe ingredient converter application."
+          "在前面的讲解视频中，你学习了函数式编程和柯里化的核心概念。",
+          "现在你将通过制作食谱配料转换器应用，实践柯里化和函数式编程。"
         ]
       },
       "lab-sorting-visualizer": {
-        "title": "Build a Sorting Visualizer",
+        "title": "制作排序可视化工具",
         "intro": [
-          "For this lab, you'll use JavaScript to visualize the steps that the Bubble Sort algorithm takes to reorder an array of integers."
+          "在本实验中，你将用 JavaScript 可视化冒泡排序算法对整数数组排序的过程。"
         ]
       },
       "review-javascript-functional-programming": {
-        "title": "JavaScript Functional Programming Review",
+        "title": "JavaScript 函数式编程复习",
         "intro": [
-          "Before you're quizzed on functional programming, you should review what you've learned.",
-          "Open up this page to review concepts on functional programming, currying and more."
+          "在参加函数式编程测验前，你应先复习所学内容。",
+          "打开本页面，复习函数式编程、柯里化等概念。"
         ]
       },
       "quiz-javascript-functional-programming": {
-        "title": "JavaScript Functional Programming Quiz",
+        "title": "JavaScript 函数式编程测验",
         "intro": [
-          "Test what you've learned about JavaScript functional programming with this quiz."
+          "通过本测验测试你对 JavaScript 函数式编程的掌握。"
         ]
       },
       "lecture-understanding-asynchronous-programming": {
-        "title": "Understanding Asynchronous Programming",
+        "title": "理解异步编程",
         "intro": [
-          "In these lecture videos, you will learn about asynchronous programming in JavaScript. You will learn about the differences between synchronous and asynchronous programming, how the <code>async</code> keyword works, the <code>Fetch</code> API, promises, <code>async/await</code>, the <code>Geolocation</code> API, and much more."
+          "在这些讲解视频中，你将学习 JavaScript 的异步编程。你将了解同步与异步的区别、<code>async</code> 关键字、<code>Fetch</code> API、Promise、<code>async/await</code>、<code>Geolocation</code> API 等内容。"
         ]
       },
       "workshop-fcc-authors-page": {
-        "title": "Build an fCC Authors Page",
+        "title": "制作 fCC 作者页面",
         "intro": [
-          "One common aspect of web development is learning how to fetch data from an external API, then work with asynchronous JavaScript.",
-          "In this workshop you will practice how to use the fetch method, dynamically update the DOM to display the fetched data and paginate your data so you can load results in batches."
+          "Web 开发中常见的一项工作是从外部 API 获取数据并用异步 JavaScript 处理。",
+          "在本练习中，你将练习 fetch 方法、动态更新 DOM 显示数据，以及分页加载结果。"
         ]
       },
       "lab-fcc-forum-leaderboard": {
-        "title": "Build an fCC Forum Leaderboard",
+        "title": "制作 fCC 论坛排行榜",
         "intro": [
-          "For this lab you'll practice asynchronous JavaScript by coding your own freeCodeCamp forum leaderboard."
+          "在本实验中，你将通过编写 freeCodeCamp 论坛排行榜练习异步 JavaScript。"
         ]
       },
       "lab-weather-app": {
-        "title": "Build a Weather App",
+        "title": "制作天气应用",
         "intro": [
-          "In this lab you'll build a Weather App using an API",
-          "You'll practice how to fetch data from the API, store and display it on your app."
+          "在本实验中，你将用 API 制作一个天气应用。",
+          "你将练习如何从 API 获取数据、存储并在应用中显示。"
         ]
       },
       "review-asynchronous-javascript": {
-        "title": "Asynchronous JavaScript Review",
+        "title": "异步 JavaScript 复习",
         "intro": [
-          "Review asynchronous JavaScript concepts to prepare for the upcoming quiz."
+          "复习异步 JavaScript 概念，为即将到来的测验做准备。"
         ]
       },
       "quiz-asynchronous-javascript": {
-        "title": "Asynchronous JavaScript Quiz",
+        "title": "异步 JavaScript 测验",
         "intro": [
-          "Test what you've learned about asynchronous JavaScript with this quiz."
+          "通过本测验测试你对异步 JavaScript 的掌握。"
         ]
       },
       "review-javascript": {
-        "title": "JavaScript Review",
+        "title": "JavaScript 复习",
         "intro": [
-          "Before you take the JavaScript prep exam, you should review everything you've learned about JavaScript.",
-          "Open up this page to review all of the concepts taught including variables, strings, booleans, functions, objects, arrays, debugging, working with the DOM and more."
+          "在参加 JavaScript 预备考试前，你应复习所有已学内容。",
+          "打开本页面，复习变量、字符串、布尔值、函数、对象、数组、调试、DOM 操作等所有知识点。"
         ]
       },
       "kagw": {
@@ -3427,68 +3088,68 @@
         "intro": []
       },
       "lecture-introduction-to-javascript-libraries-and-frameworks": {
-        "title": "Introduction to JavaScript Libraries and Frameworks",
+        "title": "JavaScript 库与框架简介",
         "intro": [
-          "In these lecture videos, you will get an introduction to JavaScript libraries and frameworks. You will learn about the roles of JavaScript libraries and frameworks, single page applications (SPAs) and the issue surrounding them, and React, the most popular frontend JavaScript library."
+          "在这些讲解视频中，你将了解 JavaScript 库与框架的基础。你将学习库与框架的作用、单页应用（SPA）及相关问题，以及最流行的前端库 React。"
         ]
       },
       "workshop-reusable-mega-navbar": {
-        "title": "Build a Reusable Mega Navbar",
+        "title": "制作可复用 Mega Navbar",
         "intro": [
-          "In the previous lecture videos, you learned how to work with components in React.",
-          "In this workshop, you will build a reusable Navbar component using React."
+          "在前面的讲解视频中，你学习了 React 组件的用法。",
+          "在本练习中，你将用 React 制作一个可复用的导航栏组件。"
         ]
       },
       "lab-reusable-footer": {
-        "title": "Build a Reusable Footer",
-        "intro": ["In this lab, you'll use React to build a reusable footer."]
+        "title": "制作可复用页脚",
+        "intro": ["在本实验中，你将用 React 制作一个可复用的页脚。"]
       },
       "lecture-working-with-data-in-react": {
-        "title": "Working with Data in React",
+        "title": "React 数据处理",
         "intro": [
-          "In these lecture videos, you will learn how to work with data in React. You will learn about <code>props</code> and how to pass them around, conditional rendering, how to render lists, and how to use inline styles."
+          "在这些讲解视频中，你将学习如何在 React 中处理数据。你将了解 <code>props</code> 及其传递方式、条件渲染、列表渲染和内联样式。"
         ]
       },
       "workshop-reusable-profile-card-component": {
-        "title": "Build a Reusable Profile Card Component",
+        "title": "制作可复用个人卡片组件",
         "intro": [
-          "In this workshop, you will learn how to work with props by building a reusable profile card component."
+          "在本练习中，你将通过制作可复用的个人卡片组件学习 props 的用法。"
         ]
       },
       "lab-mood-board": {
-        "title": "Build a Mood Board",
+        "title": "制作心情板",
         "intro": [
-          "In this lab, you'll create a mood board using React.",
-          "You'll practice how to pass data from a parent component to a child component using props."
+          "在本实验中，你将用 React 制作一个心情板。",
+          "你将练习如何用 props 从父组件向子组件传递数据。"
         ]
       },
       "review-react-basics": {
-        "title": "React Basics Review",
+        "title": "React 基础复习",
         "intro": [
-          "Review basic React concepts to prepare for the upcoming quiz."
+          "复习 React 基础概念，为即将到来的测验做准备。"
         ]
       },
       "quiz-react-basics": {
-        "title": "React Basics Quiz",
-        "intro": ["Test your knowledge of React basics with this quiz."]
+        "title": "React 基础测验",
+        "intro": ["通过本测验测试你对 React 基础的掌握。"]
       },
       "lecture-working-with-state-and-responding-to-events-in-react": {
-        "title": "Working with State and Responding to Events in React",
+        "title": "React 状态与事件响应",
         "intro": [
-          "In these lecture videos, you will learn about working with state and responding to events with React."
+          "在这些讲解视频中，你将学习 React 的状态管理和事件响应。"
         ]
       },
       "workshop-toggle-text-app": {
-        "title": "Toggle Text App",
+        "title": "制作文本切换应用",
         "intro": [
-          "In this workshop, you will continute to learn about the <code>useState()</code> hook by building an application that hides and shows a piece of text on the screen."
+          "在本练习中，你将继续学习 <code>useState()</code> hook，通过制作一个显示/隐藏文本的应用。"
         ]
       },
       "lab-color-picker": {
-        "title": "Build a Color Picker App",
+        "title": "制作颜色选择器应用",
         "intro": [
-          "In this lab you'll build a Color Picker.",
-          "You'll practice using state and hooks to manage the properties of an element."
+          "在本实验中，你将制作一个颜色选择器。",
+          "你将练习用 state 和 hooks 管理元素属性。"
         ]
       },
       "dbta": {
@@ -3496,9 +3157,9 @@
         "intro": []
       },
       "lecture-understanding-effects-and-referencing-values-in-react": {
-        "title": "Understanding Effects and Referencing Values in React",
+        "title": "理解 React 的副作用与引用",
         "intro": [
-          "In these lecture videos, you will learn about effects and referencing values with React."
+          "在这些讲解视频中，你将学习 React 的副作用和引用值的用法。"
         ]
       },
       "xdyh": {
@@ -3510,22 +3171,22 @@
         "intro": []
       },
       "review-react-state-and-hooks": {
-        "title": "React State and Hooks Review",
+        "title": "React 状态与 Hooks 复习",
         "intro": [
-          "Before you're quizzed on React state and hooks, you should review what you've learned.",
-          "Open up this page to review working with state, custom hooks and more."
+          "在参加 React 状态与 Hooks 测验前，你应先复习所学内容。",
+          "打开本页面，复习状态管理、自定义 hooks 等内容。"
         ]
       },
       "quiz-react-state-and-hooks": {
-        "title": "React State and Hooks Quiz",
+        "title": "React 状态与 Hooks 测验",
         "intro": [
-          "Test what you've learned about React's <code>useState</code> and <code>useEffect</code> hooks with this quiz."
+          "通过本测验测试你对 React <code>useState</code> 和 <code>useEffect</code> 的掌握。"
         ]
       },
       "lecture-working-with-forms-in-react": {
-        "title": "Working with Forms in React",
+        "title": "React 表单的使用",
         "intro": [
-          "In these lecture videos, you will learn about working with forms in React."
+          "在这些讲解视频中，你将学习 React 表单的用法。"
         ]
       },
       "sgau": {
@@ -3533,16 +3194,16 @@
         "intro": []
       },
       "lab-event-rsvp": {
-        "title": "Build an Event RSVP",
+        "title": "制作活动 RSVP 表单",
         "intro": [
-          "In this lab, you'll build an Event RSVP form using React.",
-          "You'll practice using the useState hook to manage form input and display user responses."
+          "在本实验中，你将用 React 制作一个活动 RSVP 表单。",
+          "你将练习用 useState hook 管理表单输入并显示用户响应。"
         ]
       },
       "lecture-working-with-data-fetching-and-memoization-in-react": {
-        "title": "Working with Data Fetching and Memoization in React",
+        "title": "React 数据获取与记忆化",
         "intro": [
-          "In these lecture videos, you will learn about data fetching and memoization in React."
+          "在这些讲解视频中，你将学习 React 的数据获取与记忆化。"
         ]
       },
       "ffpt": {
@@ -3550,103 +3211,103 @@
         "intro": []
       },
       "lab-currency-converter": {
-        "title": "Build a Currency Converter",
+        "title": "制作货币转换器",
         "intro": [
-          "For this lab, you'll build a currency converter app.",
-          "You'll use React state, memoization, and controlled components to convert between currencies."
+          "在本实验中，你将制作一个货币转换器应用。",
+          "你将用 React 状态、记忆化和受控组件实现货币转换。"
         ]
       },
       "lecture-routing-react-frameworks-and-dependency-management-tools": {
-        "title": "Routing, React Frameworks, and Dependency Management Tools",
+        "title": "React 路由、框架与依赖管理工具",
         "intro": [
-          "In these lecture videos, you will learn about routing in React, React frameworks, and dependency management tools."
+          "在这些讲解视频中，你将学习 React 路由、框架和依赖管理工具。"
         ]
       },
       "lab-tic-tac-toe": {
-        "title": "Build a Tic-Tac-Toe Game",
+        "title": "制作井字棋游戏",
         "intro": [
-          "In this lab, you'll build a Tic-Tac-Toe game using React.",
-          "You'll practice managing state, handling user interactions, and updating the UI dynamically."
+          "在本实验中，你将用 React 制作一个井字棋游戏。",
+          "你将练习状态管理、用户交互和动态更新界面。"
         ]
       },
       "lecture-react-strategies-and-debugging": {
-        "title": "React Strategies and Debugging",
+        "title": "React 策略与调试",
         "intro": [
-          "In these lecture videos, you will learn about different strategies and debugging in React."
+          "在这些讲解视频中，你将学习 React 的不同策略和调试方法。"
         ]
       },
       "review-react-forms-data-fetching-and-routing": {
-        "title": "React Forms, Data Fetching and Routing Review",
+        "title": "React 表单、数据获取与路由复习",
         "intro": [
-          "Before you take the React forms, data fetching and routing quiz, you should review everything you've learned so far.",
-          "Open up this page, to review all of the concepts taught including routing, forms, state management, prop drilling, data fetching and more."
+          "在参加 React 表单、数据获取与路由测验前，你应复习所有已学内容。",
+          "打开本页面，复习路由、表单、状态管理、props 传递、数据获取等所有知识点。"
         ]
       },
       "quiz-react-forms-data-fetching-and-routing": {
-        "title": "React Forms, Data Fetching and Routing Quiz",
+        "title": "React 表单、数据获取与路由测验",
         "intro": [
-          "Test what you've learned about routing, forms, and data fetching with this quiz."
+          "通过本测验测试你对路由、表单和数据获取的掌握。"
         ]
       },
       "lecture-understanding-performance-in-web-applications": {
-        "title": "Understanding Performance in Web Applications",
+        "title": "理解 Web 应用性能",
         "intro": [
-          "In these lecture videos, you will learn performance in web applications."
+          "在这些讲解视频中，你将学习 Web 应用的性能优化。"
         ]
       },
       "review-web-performance": {
-        "title": "Web Performance Review",
+        "title": "Web 性能复习",
         "intro": [
-          "Before you take the web performance quiz, you should review everything you've learned so far.",
-          "Open up this page to review all of the concepts taught including INP, key metrics for measuring performance, Performance Web APIs and more."
+          "在参加 Web 性能测验前，你应复习所有已学内容。",
+          "打开本页面，复习 INP、性能关键指标、Performance Web API 等内容。"
         ]
       },
       "quiz-web-performance": {
-        "title": "Web Performance Quiz",
+        "title": "Web 性能测验",
         "intro": [
-          "Test what you've learned about Web Performance with this quiz."
+          "通过本测验测试你对 Web 性能的掌握。"
         ]
       },
       "lecture-working-with-css-libraries-and-frameworks": {
-        "title": "Working with CSS Libraries and Frameworks",
+        "title": "CSS 库与框架的使用",
         "intro": [
-          "In these lecture videos, you will learn how to work with CSS libraries and frameworks."
+          "在这些讲解视频中，你将学习如何使用 CSS 库与框架。"
         ]
       },
       "review-css-libraries-and-frameworks": {
-        "title": "CSS Libraries and Frameworks Review",
+        "title": "CSS 库与框架复习",
         "intro": [
-          "Before you take the CSS libraries and frameworks quiz, you should review everything you've learned so far.",
-          "Open up this page to review all of the concepts taught including CSS frameworks, CSS preprocessors, Sass and more."
+          "在参加 CSS 库与框架测验前，你应复习所有已学内容。",
+          "打开本页面，复习 CSS 框架、预处理器、Sass 等内容。"
         ]
       },
       "quiz-css-libraries-and-frameworks": {
-        "title": "CSS Libraries and Frameworks Quiz",
+        "title": "CSS 库与框架测验",
         "intro": [
-          "Test what you've learned about CSS Libraries and Frameworks with this quiz."
+          "通过本测验测试你对 CSS 库与框架的掌握。"
         ]
       },
       "lecture-understanding-the-different-types-of-testing": {
-        "title": "Understanding the Different Types of Testing",
+        "title": "理解不同类型的测试",
         "intro": [
-          "In these lecture videos, you will learn about the different types of testing."
+          "在这些讲解视频中，你将学习不同类型的测试。"
         ]
       },
       "review-testing": {
-        "title": "Testing Review",
+        "title": "测试复习",
         "intro": [
-          "Before you take the testing quiz, you should review everything you've learned so far.",
-          "Open up this page to review all of the concepts taught including unit testing, end-to-end testing, functional testing and more."
+          "在参加测试测验前，你应复习所有已学内容。",
+          "打开本页面，复习单元测试、端到端测试、功能测试等内容。"
         ]
       },
       "quiz-testing": {
-        "title": "Testing Quiz",
-        "intro": ["Test what you've learned on testing with this quiz."]
+        "title": "测试测验",
+        "intro": ["通过本测验测试你对测试的掌握。"]
       },
       "lecture-introduction-to-typescript": {
-        "title": "Introduction to TypeScript",
+        "title": "TypeScript 简介",
         "intro": [
-          "In these lecture videos, you will learn what TypeScript is and how to use it."
+          "在这些讲解视频中，你将学习 TypeScript 及其用法。"
         ]
       },
       "trvf": {
@@ -3670,20 +3331,20 @@
         "intro": []
       },
       "review-typescript": {
-        "title": "Typescript Review",
+        "title": "TypeScript 复习",
         "intro": [
-          "Before you take the TypeScript quiz, you should review everything you've learned so far.",
-          "Open up this page to review all of the concepts taught including data types in TypeScript, generics, type narrowing and more."
+          "在参加 TypeScript 测验前，你应复习所有已学内容。",
+          "打开本页面，复习 TypeScript 的数据类型、泛型、类型收窄等内容。"
         ]
       },
       "quiz-typescript": {
-        "title": "TypeScript Quiz",
-        "intro": ["Test what you've learned on Typescript with this quiz."]
+        "title": "TypeScript 测验",
+        "intro": ["通过本测验测试你对 TypeScript 的掌握。"]
       },
       "review-front-end-libraries": {
-        "title": "Front End Libraries Review",
+        "title": "前端库复习",
         "intro": [
-          "Review the Front End Libraries concepts to prepare for the upcoming quiz."
+          "复习前端库相关概念，为即将到来的测验做准备。"
         ]
       },
       "rdzk": {
@@ -3695,49 +3356,49 @@
         "intro": []
       },
       "workshop-bash-boilerplate": {
-        "title": "Build a Boilerplate",
+        "title": "制作 Bash 模板",
         "intro": [
-          "The terminal allows you to send text commands to your computer that can manipulate the file system, run programs, automate tasks, and much more.",
-          "In this 170-lesson workshop, you will learn terminal commands by creating a website boilerplate using only the command line."
+          "终端允许你通过文本命令操作文件系统、运行程序、自动化任务等。",
+          "在本 170 节课的练习中，你将只用命令行创建网站模板，学习终端命令。"
         ]
       },
       "review-bash-commands": {
-        "title": "Bash Commands Review",
+        "title": "Bash 命令复习",
         "intro": [
-          "Review the Bash Commands concepts to prepare for the upcoming quiz."
+          "复习 Bash 命令相关概念，为即将到来的测验做准备。"
         ]
       },
       "quiz-bash-commands": {
-        "title": "Bash Commands Quiz",
-        "intro": ["Test what you've learned bash commands with this quiz."]
+        "title": "Bash 命令测验",
+        "intro": ["通过本测验测试你对 Bash 命令的掌握。"]
       },
       "voks": {
         "title": "306",
         "intro": []
       },
       "workshop-database-of-video-game-characters": {
-        "title": "Build a Database of Video Game Characters",
+        "title": "制作游戏角色数据库",
         "intro": [
-          "A relational database organizes data into tables that are linked together through relationships.",
-          "In this 165-lesson workshop, you will learn the basics of a relational database by creating a PostgreSQL database filled with video game characters."
+          "关系型数据库将数据组织为通过关系连接的表。",
+          "在本 165 节课的练习中，你将通过创建包含游戏角色的 PostgreSQL 数据库学习关系型数据库基础。"
         ]
       },
       "lab-celestial-bodies-database": {
-        "title": "Build a Celestial Bodies Database",
+        "title": "制作天体数据库",
         "intro": [
-          "For this project, you will build a database of celestial bodies using PostgreSQL."
+          "在本项目中，你将用 PostgreSQL 制作一个天体数据库。"
         ]
       },
       "review-relational-database": {
-        "title": "Relational Database Review",
+        "title": "关系型数据库复习",
         "intro": [
-          "Review the Relational Database concepts to prepare for the upcoming quiz."
+          "复习关系型数据库相关概念，为即将到来的测验做准备。"
         ]
       },
       "quiz-relational-database": {
-        "title": "Relational Database Quiz",
+        "title": "关系型数据库测验",
         "intro": [
-          "Test what you've learned on relational databases with this quiz."
+          "通过本测验测试你对关系型数据库的掌握。"
         ]
       },
       "pexz": {
@@ -3745,290 +3406,290 @@
         "intro": []
       },
       "workshop-bash-five-programs": {
-        "title": "Build Five Programs",
+        "title": "制作五个 Bash 程序",
         "intro": [
-          "Bash scripts combine terminal commands and logic into programs that can execute or automate tasks, and much more.",
-          "In this 220-lesson workshop, you will learn more terminal commands and how to use them within Bash scripts by creating five small programs."
+          "Bash 脚本将终端命令和逻辑结合成可执行或自动化任务的程序。",
+          "在本 220 节课的练习中，你将通过制作五个小程序学习更多终端命令及其在 Bash 脚本中的用法。"
         ]
       },
       "review-bash-scripting": {
-        "title": "Bash Scripting Review",
+        "title": "Bash 脚本复习",
         "intro": [
-          "Review the bash scripting concepts you've learned to prepare for the upcoming quiz."
+          "复习 Bash 脚本相关概念，为即将到来的测验做准备。"
         ]
       },
       "quiz-bash-scripting": {
-        "title": "Bash Scripting Quiz",
-        "intro": ["Test what you've learned on bash scripting in this quiz."]
+        "title": "Bash 脚本测验",
+        "intro": ["通过本测验测试你对 Bash 脚本的掌握。"]
       },
       "tkgg": {
         "title": "315",
         "intro": []
       },
       "workshop-sql-student-database-part-1": {
-        "title": "Build a Student Database: Part 1",
+        "title": "制作学生数据库：第 1 部分",
         "intro": [
-          "SQL, or Structured Query Language, is the language for communicating with a relational database.",
-          "In this 140-lesson workshop, you will create a Bash script that uses SQL to enter information about your computer science students into PostgreSQL."
+          "SQL（结构化查询语言）是与关系型数据库通信的语言。",
+          "在本 140 节课的练习中，你将用 Bash 脚本和 SQL 将计算机科学学生信息存储到 PostgreSQL。"
         ]
       },
       "workshop-sql-student-database-part-2": {
-        "title": "Build a Student Database: Part 2",
+        "title": "制作学生数据库：第 2 部分",
         "intro": [
-          "SQL join commands are used to combine information from multiple tables in a relational database",
-          "In this 140-lesson workshop, you will complete your student database while diving deeper into SQL commands."
+          "SQL join 命令用于合并关系型数据库中多个表的信息。",
+          "在本 140 节课的练习中，你将在更深入的 SQL 命令中完善学生数据库。"
         ]
       },
       "lab-world-cup-database": {
-        "title": "Build a World Cup Database",
+        "title": "制作世界杯数据库",
         "intro": [
-          "For this project, you will create a Bash script that enters information from World Cup games into PostgreSQL, then query the database for useful statistics."
+          "在本项目中，你将用 Bash 脚本将世界杯比赛信息存入 PostgreSQL，并通过查询获取统计数据。"
         ]
       },
       "workshop-kitty-ipsum-translator": {
-        "title": "Build a Kitty Ipsum Translator",
+        "title": "制作 Kitty Ipsum 翻译器",
         "intro": [
-          "There's more to Bash commands than you might think.",
-          "In this 140-lesson workshop, you will learn some more complex commands, and the details of how commands work."
+          "Bash 命令比你想象的更多。",
+          "在本 140 节课的练习中，你将学习更复杂的命令及其工作原理。"
         ]
       },
       "workshop-bike-rental-shop": {
-        "title": "Build a Bike Rental Shop",
+        "title": "制作自行车租赁店",
         "intro": [
-          "In this 210-lesson workshop, you will build an interactive Bash program that stores rental information for your bike rental shop using PostgreSQL."
+          "在本 210 节课的练习中，你将用 Bash 和 PostgreSQL 制作一个交互式自行车租赁信息管理程序。"
         ]
       },
       "lab-salon-appointment-scheduler": {
-        "title": "Build a Salon Appointment Scheduler",
+        "title": "制作沙龙预约安排程序",
         "intro": [
-          "For this lab, you will create an interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon."
+          "在本实验中，你将用 Bash 和 PostgreSQL 制作一个沙龙客户与预约管理程序。"
         ]
       },
       "review-bash-and-sql": {
-        "title": "Bash and SQL Review",
+        "title": "Bash 与 SQL 复习",
         "intro": [
-          "Review the Bash and SQL concepts to prepare for the upcoming quiz."
+          "复习 Bash 与 SQL 相关概念，为即将到来的测验做准备。"
         ]
       },
       "quiz-bash-and-sql": {
-        "title": "Bash and SQL Quiz",
-        "intro": ["Test what you've learned in this quiz on Bash and SQL."]
+        "title": "Bash 与 SQL 测验",
+        "intro": ["通过本测验测试你对 Bash 与 SQL 的掌握。"]
       },
       "eeez": {
         "title": "324",
         "intro": []
       },
       "workshop-castle": {
-        "title": "Build a Castle",
+        "title": "制作城堡",
         "intro": [
-          "Nano is a program that allows you to edit files right in the terminal.",
-          "In this 40-lesson workshop, you will learn how to edit files in the terminal with Nano while building a castle."
+          "Nano 是一个允许你在终端编辑文件的程序。",
+          "在本 40 节课的练习中，你将用 Nano 编辑文件并制作一个城堡。"
         ]
       },
       "review-nano": {
-        "title": "Nano Review",
-        "intro": ["Review the Nano concepts to prepare for the upcoming quiz."]
+        "title": "Nano 复习",
+        "intro": ["复习 Nano 相关概念，为即将到来的测验做准备。"]
       },
       "quiz-nano": {
-        "title": "Nano Quiz",
-        "intro": ["Test what you've learned on Nano with this quiz ."]
+        "title": "Nano 测验",
+        "intro": ["通过本测验测试你对 Nano 的掌握。"]
       },
       "rhhl": {
         "title": "328",
         "intro": []
       },
       "workshop-sql-reference-object": {
-        "title": "Build an SQL Reference Object",
+        "title": "制作 SQL 参考对象",
         "intro": [
-          "Git is a version control system that keeps track of all the changes you make to your codebase.",
-          "In this 240-lesson workshop, you will learn how Git keeps track of your code by creating an object containing commonly used SQL commands."
+          "Git 是一个版本控制系统，用于跟踪你对代码的所有更改。",
+          "在本 240 节课的练习中，你将通过制作包含常用 SQL 命令的对象学习 Git 如何跟踪代码。"
         ]
       },
       "lab-periodic-table-database": {
-        "title": "Build a Periodic Table Database",
+        "title": "制作元素周期表数据库",
         "intro": [
-          "For this lab, you will create a Bash script to get information about chemical elements from a periodic table database."
+          "在本实验中，你将用 Bash 脚本从元素周期表数据库获取元素信息。"
         ]
       },
       "lab-number-guessing-game": {
-        "title": "Build a Number Guessing Game",
+        "title": "制作猜数字游戏",
         "intro": [
-          "For this lab, you will use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information."
+          "在本实验中，你将用 Bash、PostgreSQL 和 Git 制作一个终端猜数字游戏，并保存用户信息。"
         ]
       },
       "review-git": {
-        "title": "Git Review",
-        "intro": ["Review Git concepts to prepare for the upcoming quiz."]
+        "title": "Git 复习",
+        "intro": ["复习 Git 相关概念，为即将到来的测验做准备。"]
       },
       "quiz-git": {
-        "title": "Git Quiz",
-        "intro": ["Test what you've learned on Git with this quiz."]
+        "title": "Git 测验",
+        "intro": ["通过本测验测试你对 Git 的掌握。"]
       },
       "review-relational-databases": {
-        "title": "Relational Databases Review",
+        "title": "关系型数据库复习",
         "intro": [
-          "Review relational databases concepts to prepare for the upcoming quiz."
+          "复习关系型数据库相关概念，为即将到来的测验做准备。"
         ]
       },
       "lecture-introduction-to-python": {
-        "title": "Introduction to Python",
-        "intro": ["Learn about Introduction to Python in these lectures."]
+        "title": "Python 入门",
+        "intro": ["在这些讲解中学习 Python 入门知识。"]
       },
       "workshop-caesar-cipher": {
-        "title": "Build a Caesar Cipher",
-        "intro": ["Learn about Build a Caesar Cipher in these lectures."]
+        "title": "制作凯撒密码",
+        "intro": ["在这些讲解中学习如何制作凯撒密码。"]
       },
       "lab-rpg-character": {
-        "title": "Build an RPG character",
+        "title": "制作 RPG 角色",
         "intro": [
-          "In this lab you will practice basic python by building an RPG character."
+          "在本实验中，你将通过制作 RPG 角色练习 Python 基础。"
         ]
       },
       "review-python-basics": {
-        "title": "Python Basics Review",
+        "title": "Python 基础复习",
         "intro": [
-          "Before you're quizzed on Python basics, you should review what you've learned about it.",
-          "[Add more details]"
+          "在参加 Python 基础测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-python-basics": {
-        "title": "Python Basics Quiz",
+        "title": "Python 基础测验",
         "intro": [
-          "Test what you've learned about Python basics with this quiz."
+          "通过本测验测试你对 Python 基础的掌握。"
         ]
       },
       "lecture-working-with-loops-and-sequences": {
-        "title": "Working with Loops and Sequences",
+        "title": "循环与序列的使用",
         "intro": [""]
       },
       "workshop-placeholder-loops-and-sequences": {
-        "title": "Placeholder - Waiting for title",
+        "title": "占位符 - 等待标题",
         "intro": [""]
       },
       "lab-placeholder-loops-and-sequences": {
-        "title": "Placeholder - waiting for title",
+        "title": "占位符 - 等待标题",
         "intro": [""]
       },
       "review-loops-and-sequences": {
-        "title": "Loops and Sequences Review",
+        "title": "循环与序列复习",
         "intro": [
-          "Before you're quizzed on loops and sequences, you should review what you've learned about them.",
-          "[Add more details]"
+          "在参加循环与序列测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-loops-and-sequences": {
-        "title": "Loops and Sequences Quiz",
+        "title": "循环与序列测验",
         "intro": [
-          "Test what you've learned about loops and sequences in Python with this quiz."
+          "通过本测验测试你对 Python 循环与序列的掌握。"
         ]
       },
       "lecture-working-with-dictionaries-and-sets": {
-        "title": "Working with Dictionaries and Sets",
+        "title": "字典与集合的使用",
         "intro": [""]
       },
       "lecture-working-with-modules": {
-        "title": "Working with Modules",
+        "title": "模块的使用",
         "intro": [""]
       },
       "workshop-placeholder-dictionaries-and-sets": {
-        "title": "Placeholder - waiting for title",
+        "title": "占位符 - 等待标题",
         "intro": [""]
       },
       "lab-placeholder-dictionaries-and-sets": {
-        "title": "Placeholder - waiting for title",
+        "title": "占位符 - 等待标题",
         "intro": [""]
       },
       "review-dictionaries-and-sets": {
-        "title": "Dictionaries and Sets review",
+        "title": "字典与集合复习",
         "intro": [
-          "Before you're quizzed on dictionaries and sets, you should review what you've learned about them.",
-          "[Add more details]"
+          "在参加字典与集合测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-dictionaries-and-sets": {
-        "title": "Dictionaries and Sets Quiz",
+        "title": "字典与集合测验",
         "intro": [
-          "Test what you've learned about dictionaries and sets in Python with this quiz."
+          "通过本测验测试你对 Python 字典与集合的掌握。"
         ]
       },
       "lecture-understanding-error-handling": {
-        "title": "Understanding Error Handling",
+        "title": "理解错误处理",
         "intro": [""]
       },
       "lab-isbn-validator": {
-        "title": "Debug a ISBN Validator",
+        "title": "调试 ISBN 校验器",
         "intro": [""]
       },
       "review-error-handling": {
-        "title": "Error Handling Review",
+        "title": "错误处理复习",
         "intro": [
-          "Before you're quizzed on error handling, you should review what you've learned about it.",
-          "[Add more details]"
+          "在参加错误处理测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-error-handling": {
-        "title": "Error Handling Quiz",
+        "title": "错误处理测验",
         "intro": [
-          "Test what you've learned about Error Handling in Python with this quiz."
+          "通过本测验测试你对 Python 错误处理的掌握。"
         ]
       },
       "lecture-classes-and-objects": {
-        "title": "Classes and Objects",
+        "title": "类与对象",
         "intro": [""]
       },
       "workshop-placeholder-classes-and-objects": {
-        "title": "Placeholder - waiting for title",
+        "title": "占位符 - 等待标题",
         "intro": [""]
       },
       "lab-budget-app": {
-        "title": "Build a Budget App",
+        "title": "制作预算应用",
         "intro": [
-          "In this lab you will build a budget app and practice creating a class and methods for that class."
+          "在本实验中，你将制作一个预算应用，练习创建类及其方法。"
         ]
       },
       "review-classes-and-objects": {
-        "title": "Classes and Objects Review",
+        "title": "类与对象复习",
         "intro": [
-          "Before you're quizzed on classes and objects, you should review what you've learned about them.",
-          "[Add more details]"
+          "在参加类与对象测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-classes-and-objects": {
-        "title": "Classes and Objects Quiz",
+        "title": "类与对象测验",
         "intro": [
-          "Test what you've learned about classes and objects in Python with this quiz."
+          "通过本测验测试你对 Python 类与对象的掌握。"
         ]
       },
       "lecture-understanding-object-oriented-programming-and-encapsulation": {
-        "title": "Understanding Object Oriented Programming and Encapsulation",
+        "title": "理解面向对象编程与封装",
         "intro": [""]
       },
       "workshop-placeholder-oop-1": {
-        "title": "Placeholder - Waiting for title",
+        "title": "占位符 - 等待标题",
         "intro": [""]
       },
       "lab-placeholder-oop-1": {
-        "title": "Placeholder - Waiting for title",
+        "title": "占位符 - 等待标题",
         "intro": [""]
       },
       "lecture-understanding-inheritance-and-polymorphism": {
-        "title": "Understanding Inheritance and polymorphism",
+        "title": "理解继承与多态",
         "intro": [""]
       },
       "workshop-placeholder-oop-2": {
-        "title": "Placeholder - Waiting for title",
+        "title": "占位符 - 等待标题",
         "intro": [""]
       },
       "lab-polygon-area-calculator": {
-        "title": "Build a Polygon Area Calculator",
+        "title": "制作多边形面积计算器",
         "intro": [""]
       },
       "lecture-understanding-abstraction": {
-        "title": "Understanding abstraction",
+        "title": "理解抽象",
         "intro": [""]
       },
       "workshop-placeholder-oop-3": {
-        "title": "Placeholder - Waiting for title",
+        "title": "占位符 - 等待标题",
         "intro": [""]
       },
       "lab-placeholder-oop-3": {
@@ -4036,150 +3697,150 @@
         "intro": [""]
       },
       "review-object-oriented-programming": {
-        "title": "Object Oriented Programming Review",
+        "title": "面向对象编程复习",
         "intro": [
-          "Before you're quizzed on object oriented programming, you should review what you've learned about it.",
-          "[Add more details]"
+          "在参加面向对象编程测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-object-oriented-programming": {
-        "title": "Object Oriented Programming Quiz",
+        "title": "面向对象编程测验",
         "intro": [
-          "Test what you've learned about object oriented programming in python with this quiz."
+          "通过本测验测试你对 Python 面向对象编程的掌握。"
         ]
       },
       "lecture-working-with-common-data-structures": {
-        "title": "Working with common data structures",
+        "title": "常用数据结构的使用",
         "intro": [""]
       },
       "workshop-linked-list-class": {
-        "title": "Build a Linked List Class",
+        "title": "制作链表类",
         "intro": [""]
       },
       "lab-hash-table-class": {
-        "title": "Build an Hash Table Class",
+        "title": "制作哈希表类",
         "intro": [""]
       },
       "review-data-structures": {
-        "title": "Data Structures Review",
+        "title": "数据结构复习",
         "intro": [
-          "Before you're quizzed on data structures, you should review what you've learned about them.",
-          "[Add more details]"
+          "在参加数据结构测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-data-structures": {
-        "title": "Data Structures Quiz",
+        "title": "数据结构测验",
         "intro": [
-          "Test what you've learned about data structures in Python with this quiz."
+          "通过本测验测试你对 Python 数据结构的掌握。"
         ]
       },
       "lecture-searching-and-sorting-algorithms": {
-        "title": "Searching and Sorting Algorithms",
+        "title": "查找与排序算法",
         "intro": [""]
       },
       "workshop-binary-search": {
-        "title": "Build a Binary Search",
+        "title": "制作二分查找",
         "intro": [""]
       },
       "lab-bisection-method": {
-        "title": "Build a Bisection Method",
+        "title": "制作二分法",
         "intro": [""]
       },
       "workshop-merge-sort": {
-        "title": "Build a Merge Sort",
+        "title": "制作归并排序",
         "intro": [""]
       },
       "lab-quick-sort": {
-        "title": "Build a Quick Sort",
+        "title": "制作快速排序",
         "intro": [""]
       },
       "lab-selection-sort": {
-        "title": "Build a Selection Sort",
+        "title": "制作选择排序",
         "intro": [""]
       },
       "lab-luhn-argorithm": {
-        "title": "Build a Luhn Algorithm",
+        "title": "制作 Luhn 算法",
         "intro": [""]
       },
       "review-searching-and-sorting-algorithms": {
-        "title": "Searching and Sorting Algorithms Review",
+        "title": "查找与排序算法复习",
         "intro": [
-          "Before you're quizzed on searching and sorting algorithms, you should review what you've learned about them.",
-          "[Add more details]"
+          "在参加查找与排序算法测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-searching-and-sorting-algorithms": {
-        "title": "Searching and Sorting Algorithms Quiz",
+        "title": "查找与排序算法测验",
         "intro": [
-          "Test what you've learned about searching and sorting algorithms in Python with this quiz."
+          "通过本测验测试你对 Python 查找与排序算法的掌握。"
         ]
       },
       "lecture-understanding-graphs-and-trees": {
-        "title": "Understanding Graphs and Trees",
+        "title": "理解图与树",
         "intro": [""]
       },
       "workshop-shortest-path-algorithm": {
-        "title": "Build a Shortest Path Algorithm",
+        "title": "制作最短路径算法",
         "intro": [""]
       },
       "lab-adjacency-list-matrix-converter": {
-        "title": "Build an Adjacency List/Matrix Converter",
+        "title": "制作邻接表/邻接矩阵转换器",
         "intro": [""]
       },
       "workshop-breadth-first-search": {
-        "title": "Build a Breadth First Search",
+        "title": "制作广度优先搜索",
         "intro": [""]
       },
       "lab-depth-first-search": {
-        "title": "Build a Depth First Search",
+        "title": "制作深度优先搜索",
         "intro": [""]
       },
       "review-graphs-and-trees": {
-        "title": "Graphs and Trees Review",
+        "title": "图与树复习",
         "intro": [
-          "Before you're quizzed on graphs and trees, you should review what you've learned about them.",
-          "[Add more details]"
+          "在参加图与树测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-graphs-and-trees": {
-        "title": "Graphs and Trees Quiz",
+        "title": "图与树测验",
         "intro": [
-          "Test what you've learned about graphs and trees in Python with this quiz."
+          "通过本测验测试你对 Python 图与树的掌握。"
         ]
       },
       "lecture-understanding-dynamic-programming": {
-        "title": "Understanding Dynamic Programming",
+        "title": "理解动态规划",
         "intro": [""]
       },
       "lab-nth-fibonacci-number": {
-        "title": "Build an Nth Fibonacci Number Calculator",
+        "title": "制作第 N 个斐波那契数计算器",
         "intro": [""]
       },
       "review-dynamic-programming": {
-        "title": "Dynamic Programming Review",
+        "title": "动态规划复习",
         "intro": [
-          "Before you're quizzed on dynamic programming, you should review what you've learned about it.",
-          "[Add more details]"
+          "在参加动态规划测验前，你应先复习所学内容。",
+          "[补充更多细节]"
         ]
       },
       "quiz-dynamic-programming": {
-        "title": "Dynamic Programming Quiz",
+        "title": "动态规划测验",
         "intro": [
-          "Test what you've learned about dynamic programming in python with this quiz."
+          "通过本测验测试你对 Python 动态规划的掌握。"
         ]
       },
       "review-python": {
-        "title": "Python Review",
-        "intro": ["Review Python concepts to prepare for the upcoming exam."]
+        "title": "Python 复习",
+        "intro": ["复习 Python 相关概念，为即将到来的考试做准备。"]
       },
       "exam-certified-full-stack-developer": {
-        "title": "Certified Full Stack Developer Exam",
-        "intro": ["Pass this exam to become a Certified Full Stack Developer."]
+        "title": "全栈开发者认证考试",
+        "intro": ["通过本考试，成为认证全栈开发者。"]
       }
     }
   },
   "misc-text": {
-    "browse-other": "Browse our other free certifications",
+    "browse-other": "浏览我们的其他免费认证课程",
     "courses": "课程",
     "steps": "步骤",
     "expand": "展开课程",
