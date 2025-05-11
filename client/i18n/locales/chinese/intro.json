@@ -1550,7 +1550,6 @@
           "要获得 A2 开发者英语认证，必须通过本考试。"
         ]
       }
-      }
     }
   },
   "b1-english-for-developers": {
@@ -1813,7 +1812,6 @@
       "review-python": "Python 复习",
       "exam-python": "Python 考试"
     },
-      },
       "quiz-design-fundamentals": {
         "title": "设计基础测验",
         "intro": [
@@ -3837,8 +3835,7 @@
         "title": "全栈开发者认证考试",
         "intro": ["通过本考试，成为认证全栈开发者。"]
       }
-    }
-  },
+    },
   "misc-text": {
     "browse-other": "浏览我们的其他免费认证课程",
     "courses": "课程",
