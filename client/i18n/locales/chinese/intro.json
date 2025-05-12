@@ -864,15 +864,11 @@
       },
       "build-a-polygon-area-calculator-project": {
         "title": "创建多边形面积计算器项目",
-        "intro": [
-          "这是你要获得认证必须做的项目之一。"
-        ]
+        "intro": ["这是你要获得认证必须做的项目之一。"]
       },
       "build-a-probability-calculator-project": {
         "title": "创建概率计算器项目",
-        "intro": [
-          "这是你要获得认证必须做的项目之一。"
-        ]
+        "intro": ["这是你要获得认证必须做的项目之一。"]
       },
       "learn-interfaces-by-building-an-equation-solver": {
         "title": "通过创建方程求解器学习接口",
@@ -1271,15 +1267,11 @@
       },
       "top-learn-to-solve-problems-and-understand-errors": {
         "title": "学习解决问题和理解错误",
-        "intro": [
-          "学习如何在 JavaScript 中解决问题并理解错误。"
-        ]
+        "intro": ["学习如何在 JavaScript 中解决问题并理解错误。"]
       },
       "top-build-a-rock-paper-scissors-game": {
         "title": "通过创建石头剪刀布游戏巩固所学",
-        "intro": [
-          "通过编写石头剪刀布游戏来检验你的 JavaScript 技能。"
-        ]
+        "intro": ["通过编写石头剪刀布游戏来检验你的 JavaScript 技能。"]
       }
     }
   },
@@ -1492,9 +1484,7 @@
       },
       "learn-how-to-document-code-for-a-project": {
         "title": "学习如何为项目写代码文档",
-        "intro": [
-          "本课程将介绍编写代码文档时常用的表达方式。"
-        ]
+        "intro": ["本课程将介绍编写代码文档时常用的表达方式。"]
       },
       "learn-how-to-read-and-understand-code-documentation": {
         "title": "学习如何阅读和理解代码文档",
@@ -1504,9 +1494,7 @@
       },
       "learn-how-to-analyze-code-documentation": {
         "title": "学习如何分析代码文档",
-        "intro": [
-          "在本课程中，你将学习如何用简单的方式分析和理解文档。"
-        ]
+        "intro": ["在本课程中，你将学习如何用简单的方式分析和理解文档。"]
       },
       "learn-how-to-share-progress-and-accomplishments": {
         "title": "学习如何分享进度和成就",
@@ -1516,9 +1504,7 @@
       },
       "learn-how-to-talk-about-updates-and-plans-for-tasks-and-projects": {
         "title": "学习如何谈论任务和项目的更新与计划",
-        "intro": [
-          "本课程将教你如何介绍项目的最新进展以及你的后续计划。"
-        ]
+        "intro": ["本课程将教你如何介绍项目的最新进展以及你的后续计划。"]
       },
       "learn-how-to-express-agreement-or-disagreement": {
         "title": "学习如何表达同意或不同意",
@@ -1528,27 +1514,19 @@
       },
       "learn-how-to-offer-technical-support-and-guidance": {
         "title": "学习如何提供技术支持和指导",
-        "intro": [
-          "在本课程中，你将学习如何向他人提供技术方面的帮助。"
-        ]
+        "intro": ["在本课程中，你将学习如何向他人提供技术方面的帮助。"]
       },
       "learn-how-to-request-and-receive-guidance": {
         "title": "学习如何请求和接受指导",
-        "intro": [
-          "本课程将教你在需要时如何向同事请求帮助。"
-        ]
+        "intro": ["本课程将教你在需要时如何向同事请求帮助。"]
       },
       "learn-how-to-provide-explanations-when-helping-others": {
         "title": "学习如何在帮助别人时提供解释",
-        "intro": [
-          "本课程将为你提供在协助他人时进行解释的表达方式。"
-        ]
+        "intro": ["本课程将为你提供在协助他人时进行解释的表达方式。"]
       },
       "a2-english-for-developers-certification-exam": {
         "title": "A2 开发者英语认证考试",
-        "intro": [
-          "要获得 A2 开发者英语认证，必须通过本考试。"
-        ]
+        "intro": ["要获得 A2 开发者英语认证，必须通过本考试。"]
       }
     }
   },
@@ -1563,21 +1541,15 @@
     "blocks": {
       "learn-how-to-describe-places-and-events": {
         "title": "学习如何描述地点和事件",
-        "intro": [
-          "本课程将教你如何用对话的方式描述地点和事件。"
-        ]
+        "intro": ["本课程将教你如何用对话的方式描述地点和事件。"]
       },
       "learn-how-to-talk-about-past-experiences": {
         "title": "学习如何谈论过去的经历",
-        "intro": [
-          "在本课程中，你将学习如何分享你过去的经历。"
-        ]
+        "intro": ["在本课程中，你将学习如何分享你过去的经历。"]
       },
       "learn-how-to-talk-about-past-activities": {
         "title": "学习如何谈论过去的活动",
-        "intro": [
-          "在本课程中，你将学习如何谈论你做过的事情。"
-        ]
+        "intro": ["在本课程中，你将学习如何谈论你做过的事情。"]
       },
       "learn-present-perfect-while-talking-about-accessibility": {
         "title": "通过谈论无障碍学习现在完成时",
@@ -1587,9 +1559,7 @@
       },
       "learn-how-to-plan-future-events": {
         "title": "学习如何规划未来事件",
-        "intro": [
-          "在本课程中，你将学习如何用不同的将来时表达计划中的事件。"
-        ]
+        "intro": ["在本课程中，你将学习如何用不同的将来时表达计划中的事件。"]
       },
       "learn-future-continuous-while-describing-actions": {
         "title": "通过描述动作学习将来进行时",
@@ -1611,21 +1581,15 @@
       },
       "learn-how-to-share-your-opinion": {
         "title": "学习如何表达你的观点",
-        "intro": [
-          "本课程将教你如何在讨论中表达你的想法和感受。"
-        ]
+        "intro": ["本课程将教你如何在讨论中表达你的想法和感受。"]
       },
       "learn-how-to-express-agreement": {
         "title": "学习如何表达同意",
-        "intro": [
-          "在本课程中，你将学习在不同的专业场合表达同意。"
-        ]
+        "intro": ["在本课程中，你将学习在不同的专业场合表达同意。"]
       },
       "learn-how-to-express-disagreement": {
         "title": "学习如何表达不同意",
-        "intro": [
-          "在本课程中，你将学习在不同的专业场合表达不同意。"
-        ]
+        "intro": ["在本课程中，你将学习在不同的专业场合表达不同意。"]
       },
       "learn-how-to-express-concerns": {
         "title": "学习如何表达担忧",
@@ -1812,11 +1776,342 @@
       "review-python": "Python 复习",
       "exam-python": "Python 考试"
     },
+    "blocks": {
+      "lecture-welcome-to-freecodecamp": {
+        "title": "欢迎来到 freeCodeCamp",
+        "intro": [
+          "观看这些视频，了解 freeCodeCamp 是什么，以及数百万人如何通过它学习编程并获得开发者工作。"
+        ]
+      },
+      "lecture-what-is-html": {
+        "title": "什么是 HTML？",
+        "intro": [
+          "在本讲解视频中，你将了解 HTML（超文本标记语言），这是一种用于创建网页的标记语言。",
+          "你将学习 HTML 在 Web 上的作用、基本语法，以及 HTML 属性是什么。"
+        ]
+      },
+      "workshop-cat-photo-app": {
+        "title": "制作猫咪相册应用",
+        "intro": [
+          "HTML 代表超文本标记语言，用于描述网页的内容和结构。",
+          "在本练习中，你将学习如何使用基本的 HTML 元素，如标题、段落、图片、链接和列表。"
+        ]
+      },
+      "lab-recipe-page": {
+        "title": "制作食谱页面",
+        "intro": [
+          "在本实验中，你将通过创建你最喜欢的食谱网页来复习 HTML 基础。你将创建 HTML 模板，并练习标题、列表、图片等内容。"
+        ]
+      },
+      "lecture-html-fundamentals": {
+        "title": "HTML 基础",
+        "intro": [
+          "在这些讲解视频中，你将学习 HTML 基础知识，如 <code>div</code> 元素、<code>id</code> 和 <code>class</code> 属性、HTML 模板、HTML 实体等内容。"
+        ]
+      },
+      "lab-travel-agency-page": {
+        "title": "制作旅行社网页",
+        "intro": [
+          "在本实验中，你将通过创建旅行社网页复习 HTML 基础。你将练习图片、<code>figure</code> 元素、<code>figcaption</code> 元素、<code>anchor</code> 元素等内容。"
+        ]
+      },
+      "lecture-working-with-media": {
+        "title": "媒体的使用",
+        "intro": [
+          "在这些讲解视频中，你将学习如何使用媒体资源，如 <code>audio</code>、<code>video</code> 元素、SVG、如何优化它们等内容。"
+        ]
+      },
+      "lab-video-compilation-page": {
+        "title": "制作视频合辑页面",
+        "intro": [
+          "在本实验中，你将创建一个视频合辑网页。你将练习 <code>iframe</code> 元素的使用。"
+        ]
+      },
+      "lecture-working-with-links": {
+        "title": "链接的使用",
+        "intro": [
+          "在这些讲解视频中，你将学习链接、<code>target</code> 属性、不同的链接状态、绝对路径和相对路径等内容。"
+        ]
+      },
+      "review-basic-html": {
+        "title": "基础 HTML 复习",
+        "intro": [
+          "在参加 HTML 基础测验前，你需要先复习相关概念。",
+          "打开本页面，复习 HTML 模板、<code>audio</code> 和 <code>video</code> 元素、不同的 <code>target</code> 属性值等内容。"
+        ]
+      },
+      "quiz-basic-html": {
+        "title": "基础 HTML 测验",
+        "intro": [
+          "本测验将测试你对基础 HTML 概念的掌握。",
+          "如果你正在准备考试，这里有多套测验题可供练习。完成测验后，你可以返回本页面获取新的一组题目。"
+        ]
+      },
+      "lecture-importance-of-semantic-html": {
+        "title": "语义化 HTML 的重要性",
+        "intro": [
+          "在这些讲解视频中，你将学习语义化 HTML 及其重要性、语义元素、语义化 HTML 与表现性 HTML 的区别等内容。"
+        ]
+      },
+      "workshop-blog-page": {
+        "title": "制作猫咪博客页面",
+        "intro": [
+          "在本练习中，你将用语义元素（如 <code>main</code>、<code>nav</code>、<code>article</code>、<code>footer</code>）制作一个仅用 HTML 的博客页面。"
+        ]
+      },
+      "lab-event-hub": {
+        "title": "制作活动中心页面",
+        "intro": [
+          "在本实验中，你将制作一个活动中心页面，并复习 <code>header</code>、<code>nav</code>、<code>article</code> 等语义元素。"
+        ]
+      },
+      "review-semantic-html": {
+        "title": "语义化 HTML 复习",
+        "intro": [
+          "在参加语义化 HTML 测验前，你需要先复习相关概念。",
+          "打开本页面，复习 <code>em</code>、<code>strong</code>、<code>blockquote</code>、<code>address</code> 等语义化 HTML 元素。"
+        ]
+      },
+      "quiz-semantic-html": {
+        "title": "语义化 HTML 测验",
+        "intro": [
+          "本测验将测试你对语义化 HTML 概念的掌握。",
+          "如果你正在准备考试，这里有多套测验题可供练习。完成测验后，你可以返回本页面获取新的一组题目。"
+        ]
+      },
+      "lecture-working-with-forms": {
+        "title": "表单的使用",
+        "intro": [
+          "在这些讲解视频中，你将学习表单、label、input、button 在表单中的作用、客户端表单验证和表单状态等内容。"
+        ]
+      },
+      "workshop-hotel-feedback-form": {
+        "title": "制作酒店反馈表单",
+        "intro": [
+          "在本练习中，你将制作一个酒店反馈表单。",
+          "你将练习 label、input、fieldset、legend、textarea、button 等元素的使用。"
+        ]
+      },
+      "lab-survey-form": {
+        "title": "制作调查表单",
+        "intro": [
+          "在本实验中，你将通过制作调查表单复习 HTML 表单。",
+          "你将练习 <code>label</code> 元素、不同类型的 <code>input</code> 元素、<code>required</code> 属性等内容。"
+        ]
+      },
+      "lecture-working-with-tables": {
+        "title": "表格的使用",
+        "intro": [
+          "在这些讲解视频中，你将学习 HTML 表格、如何创建表格以及何时使用表格。"
+        ]
+      },
+      "workshop-final-exams-table": {
+        "title": "制作期末考试表格",
+        "intro": ["在本练习中，你将通过制作期末考试表格练习 HTML 表格的使用。"]
+      },
+      "lab-book-catalog-table": {
+        "title": "制作图书目录表格",
+        "intro": [
+          "在本实验中，你将通过制作图书信息表格复习 HTML 表格。",
+          "你将练习 <code>thead</code>、<code>tbody</code>、<code>th</code>、<code>tr</code>、<code>td</code> 等表格组件。"
+        ]
+      },
+      "lecture-working-with-html-tools": {
+        "title": "HTML 工具的使用",
+        "intro": [
+          "在这些讲解视频中，你将学习 HTML 工具及其如何帮助你编写更好的代码。这些工具包括 HTML 校验器、DOM 检查器和浏览器开发者工具。"
+        ]
+      },
+      "review-html-tables-and-forms": {
+        "title": "HTML 表格与表单复习",
+        "intro": [
+          "在参加 HTML 表单、表格和工具测验前，你需要先复习相关概念。",
+          "打开本页面，复习 <code>table</code>、<code>input</code>、<code>button</code> 元素，以及常用工具如 HTML 校验器等内容。"
+        ]
+      },
+      "quiz-html-tables-and-forms": {
+        "title": "HTML 表格与表单测验",
+        "intro": [
+          "本测验将测试你对 HTML 表格、表单和常用 HTML 工具的掌握。",
+          "如果你正在准备考试，这里有多套测验题可供练习。完成测验后，你可以返回本页面获取新的一组题目。"
+        ]
+      },
+      "lecture-importance-of-accessibility-and-good-html-structure": {
+        "title": "无障碍与良好 HTML 结构的重要性",
+        "intro": [
+          "在这些讲解视频中，你将学习无障碍及其重要性、为残障人士提供的辅助工具、用于创建包容性网站的 HTML 属性、无障碍最佳实践等内容。"
+        ]
+      },
+      "lab-checkout-page": {
+        "title": "制作结账页面",
+        "intro": [
+          "在本实验中，你将创建一个无障碍的结账页面。",
+          "你将练习 <code>alt</code> 属性和 aria 角色等概念。"
+        ]
+      },
+      "lab-multimedia-player": {
+        "title": "制作多媒体播放器",
+        "intro": [
+          "在本实验中，你将制作一个多媒体播放器。",
+          "你将练习 <code>audio</code>、<code>video</code> 元素、<code>controls</code> 属性和 <code>aria-label</code> 属性的使用。"
+        ]
+      },
+      "review-html-accessibility": {
+        "title": "HTML 无障碍复习",
+        "intro": [
+          "在参加 HTML 与无障碍测验前，你需要先复习相关概念。",
+          "打开本页面，复习 <code>aria-hidden</code>、<code>aria-describedby</code>、<code>tabindex</code> 属性等内容。"
+        ]
+      },
+      "quiz-html-accessibility": {
+        "title": "HTML 无障碍测验",
+        "intro": [
+          "本测验将测试你对无障碍相关概念的掌握。",
+          "如果你正在准备考试，这里有多套测验题可供练习。完成测验后，你可以返回本页面获取新的一组题目。"
+        ]
+      },
+      "review-html": {
+        "title": "HTML 复习",
+        "intro": [
+          "在参加 HTML 预备考试前，你需要先复习前面模块讲授的内容。",
+          "打开本页面，复习 HTML 元素基础、语义化 HTML、表格、表单和无障碍等内容。"
+        ]
+      },
+      "qpra": {
+        "title": "30",
+        "intro": []
+      },
+      "lecture-understanding-computer-internet-and-tooling-basics": {
+        "title": "理解计算机、互联网与工具基础",
+        "intro": [
+          "在这些讲解视频中，你将学习计算机及其各个组成部分、互联网服务提供商（ISP）、专业开发者常用的工具等内容。"
+        ]
+      },
+      "lecture-working-with-file-systems": {
+        "title": "文件系统的使用",
+        "intro": [
+          "在这些讲解视频中，你将学习如何在计算机上操作文件和文件夹系统。你将学习如何创建、移动、删除文件和文件夹，文件命名和组织的最佳实践等内容。"
+        ]
+      },
+      "lecture-browsing-the-web-effectively": {
+        "title": "高效浏览网页",
+        "intro": [
+          "在这些讲解视频中，你将学习什么是网站、搜索引擎和浏览器，不同的浏览器有哪些，以及如何高效使用搜索引擎。"
+        ]
+      },
+      "review-computer-basics": {
+        "title": "计算机基础复习",
+        "intro": [
+          "在参加计算机和互联网基础测验前，你需要先复习。",
+          "打开本页面，复习 RAM、互联网服务提供商、常用浏览器、搜索引擎等内容。"
+        ]
+      },
+      "quiz-computer-basics": {
+        "title": "计算机基础测验",
+        "intro": ["通过本测验测试你对计算机基础知识的掌握。"]
+      },
+      "lecture-what-is-css": {
+        "title": "什么是 CSS？",
+        "intro": [
+          "以下讲解视频将介绍 CSS。你将学习 CSS 是什么及其在 Web 上的作用、CSS 规则及其结构、三种写 CSS 的方式及其适用场景、内联和块级元素等内容。"
+        ]
+      },
+      "workshop-cafe-menu": {
+        "title": "设计咖啡店菜单",
+        "intro": [
+          "CSS 告诉浏览器如何展示你的网页。你可以用 CSS 设置 HTML 元素的颜色、字体、大小等属性。",
+          "在本练习中，你将通过为咖啡店网页设计菜单页面学习 CSS。"
+        ]
+      },
+      "lab-business-card": {
+        "title": "设计名片",
+        "intro": [
+          "在本实验中，你将创建一张名片并用 CSS 进行样式设计。",
+          "你将练习 <code>color</code>、<code>font-size</code>、<code>text-align</code> 等样式属性。"
+        ]
+      },
+      "lecture-css-specificity-the-cascade-algorithm-and-inheritance": {
+        "title": "CSS 优先级、层叠算法与继承",
+        "intro": [
+          "在这些讲解视频中，你将学习 CSS 优先级、常见选择器及其优先级、层叠算法、继承等内容。"
+        ]
+      },
+      "review-basic-css": {
+        "title": "基础 CSS 复习",
+        "intro": [
+          "在参加基础 CSS 测验前，你需要先复习。",
+          "打开本页面，复习 <code>margin</code>、<code>padding</code>、CSS 组合器、CSS 优先级等内容。"
+        ]
+      },
+      "quiz-basic-css": {
+        "title": "基础 CSS 测验",
+        "intro": ["通过本测验测试你对基础 CSS 知识的掌握。"]
+      },
+      "lecture-styling-lists-and-links": {
+        "title": "列表与链接的样式设计",
+        "intro": [
+          "在这些讲解视频中，你将学习如何有效地为列表和链接设计样式，包括 <code>link</code>、<code>visited</code>、<code>hover</code>、<code>active</code> 等链接状态。"
+        ]
+      },
+      "lab-stylized-to-do-list": {
+        "title": "制作样式化待办清单",
+        "intro": [
+          "在本实验中，你将制作一个待办清单并为链接应用不同样式。",
+          "你将练习 <code>text-decoration</code>、<code>list-style-type</code> 属性，以及如何在悬停或点击时改变样式。"
+        ]
+      },
+      "lecture-working-with-backgrounds-and-borders": {
+        "title": "背景与边框的使用",
+        "intro": [
+          "在这些讲解视频中，你将学习为元素设置背景和边框所需的属性和值，以及背景的无障碍注意事项。"
+        ]
+      },
+      "lab-blog-post-card": {
+        "title": "设计博客文章卡片",
+        "intro": [
+          "在本实验中，你将用 HTML 和 CSS 设计一个博客文章卡片。",
+          "你将练习 <code>background-color</code>、<code>border-radius</code>、margin、padding 等概念。"
+        ]
+      },
+      "review-css-backgrounds-and-borders": {
+        "title": "列表、链接、CSS 背景与边框复习",
+        "intro": [
+          "在参加 CSS 背景与边框测验前，你需要先复习。",
+          "打开本页面，复习 <code>background-image</code>、<code>border</code> 属性等内容。"
+        ]
+      },
+      "quiz-css-backgrounds-and-borders": {
+        "title": "CSS 背景与边框测验",
+        "intro": ["通过本测验测试你对 CSS 背景与边框的掌握。"]
+      },
+      "lecture-user-interface-design-fundamentals": {
+        "title": "用户界面设计基础",
+        "intro": [
+          "在这些讲解视频中，你将学习用户界面（UI）设计的基础知识。你将了解与设计师沟通所需的术语、视觉层级、比例、对齐、留白等内容。"
+        ]
+      },
+      "lecture-user-centered-design": {
+        "title": "以用户为中心的设计",
+        "intro": [
+          "在这些讲解视频中，你将学习设计用户界面功能（如深色模式、面包屑导航、模态对话框等）的最佳实践。你还将学习如何进行用户调研、需求分析和测试。"
+        ]
+      },
+      "lecture-common-design-tools": {
+        "title": "常用设计工具",
+        "intro": [
+          "在这些讲解视频中，你将学习开发者应了解的常用设计工具。你还将了解设计简报以及开发者如何与之协作。"
+        ]
+      },
+      "review-design-fundamentals": {
+        "title": "设计基础复习",
+        "intro": [
+          "在参加设计基础测验前，你需要先复习所学内容。",
+          "打开本页面，复习以用户为中心的设计、比例、对齐、良好的视觉层级等概念。"
+        ]
+      },
       "quiz-design-fundamentals": {
         "title": "设计基础测验",
-        "intro": [
-          "通过本测验测试你对 UI 设计基础知识的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 UI 设计基础知识的掌握。"]
       },
       "lecture-working-with-relative-and-absolute-units": {
         "title": "相对与绝对单位的使用",
@@ -1840,9 +2135,7 @@
       },
       "quiz-css-relative-and-absolute-units": {
         "title": "CSS 相对与绝对单位测验",
-        "intro": [
-          "通过本测验测试你对 CSS 中相对与绝对单位的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 CSS 中相对与绝对单位的掌握。"]
       },
       "lecture-working-with-pseudo-classes-and-pseudo-elements-in-css": {
         "title": "CSS 伪类与伪元素的使用",
@@ -1931,9 +2224,7 @@
       },
       "quiz-styling-forms": {
         "title": "表单样式测验",
-        "intro": [
-          "通过本测验测试你对表单样式设计的掌握。"
-        ]
+        "intro": ["通过本测验测试你对表单样式设计的掌握。"]
       },
       "lecture-working-with-css-transforms-overflow-and-filters": {
         "title": "CSS 变换、溢出与滤镜的使用",
@@ -1975,9 +2266,7 @@
       },
       "workshop-flexbox-photo-gallery": {
         "title": "制作 Flexbox 照片集",
-        "intro": [
-          "在本练习中，你将用 Flexbox 制作一个响应式照片集网页。"
-        ]
+        "intro": ["在本练习中，你将用 Flexbox 制作一个响应式照片集网页。"]
       },
       "lab-page-of-playing-cards": {
         "title": "制作扑克牌页面",
@@ -2056,9 +2345,7 @@
       },
       "quiz-css-accessibility": {
         "title": "CSS 无障碍测验",
-        "intro": [
-          "通过本测验测试你用 CSS 实现网页无障碍的知识。"
-        ]
+        "intro": ["通过本测验测试你用 CSS 实现网页无障碍的知识。"]
       },
       "lecture-working-with-attribute-selectors": {
         "title": "属性选择器的使用",
@@ -2088,9 +2375,7 @@
       },
       "quiz-css-attribute-selectors": {
         "title": "CSS 属性选择器测验",
-        "intro": [
-          "通过本测验测试你对 CSS 属性选择器的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 CSS 属性选择器的掌握。"]
       },
       "lecture-understanding-how-to-work-with-floats-and-positioning-in-css": {
         "title": "CSS 浮动与定位的理解与使用",
@@ -2152,9 +2437,7 @@
       },
       "quiz-responsive-web-design": {
         "title": "响应式网页设计测验",
-        "intro": [
-          "通过本测验测试你让网页响应不同屏幕的知识。"
-        ]
+        "intro": ["通过本测验测试你让网页响应不同屏幕的知识。"]
       },
       "lecture-working-with-css-variables": {
         "title": "CSS 变量的使用",
@@ -2214,9 +2497,7 @@
       },
       "lab-product-landing-page": {
         "title": "制作产品登录页",
-        "intro": [
-          "在本项目中，你将制作一个产品登录页，用于推销你选择的产品。"
-        ]
+        "intro": ["在本项目中，你将制作一个产品登录页，用于推销你选择的产品。"]
       },
       "review-css-grid": {
         "title": "CSS Grid 复习",
@@ -2258,9 +2539,7 @@
       },
       "lab-personal-portfolio": {
         "title": "制作个人作品集",
-        "intro": [
-          "在本项目中，你将制作自己的个人作品集页面。"
-        ]
+        "intro": ["在本项目中，你将制作自己的个人作品集页面。"]
       },
       "review-css-animations": {
         "title": "CSS 动画复习",
@@ -2326,9 +2605,7 @@
       },
       "quiz-javascript-variables-and-data-types": {
         "title": "JavaScript 变量与数据类型测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 变量与数据类型的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 变量与数据类型的掌握。"]
       },
       "lecture-working-with-strings-in-javascript": {
         "title": "JavaScript 字符串的使用",
@@ -2413,9 +2690,7 @@
       },
       "quiz-javascript-comparisons-and-conditionals": {
         "title": "JavaScript 比较与条件语句测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 比较与条件语句的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 比较与条件语句的掌握。"]
       },
       "lecture-working-with-functions": {
         "title": "函数的使用",
@@ -2425,9 +2700,7 @@
       },
       "workshop-calculator": {
         "title": "制作计算器",
-        "intro": [
-          "在本练习中，你将通过制作计算器复习函数相关知识。"
-        ]
+        "intro": ["在本练习中，你将通过制作计算器复习函数相关知识。"]
       },
       "lab-email-masker": {
         "title": "制作邮箱遮罩器",
@@ -2445,9 +2718,7 @@
       },
       "lab-leap-year-calculator": {
         "title": "制作闰年计算器",
-        "intro": [
-          "在本实验中，你将用条件语句和循环判断某一年是否为闰年。"
-        ]
+        "intro": ["在本实验中，你将用条件语句和循环判断某一年是否为闰年。"]
       },
       "review-javascript-functions": {
         "title": "JavaScript 函数复习",
@@ -2475,9 +2746,7 @@
       },
       "lab-lunch-picker-program": {
         "title": "制作午餐选择器",
-        "intro": [
-          "在本实验中，你将通过制作午餐选择器复习数组和随机数的使用。"
-        ]
+        "intro": ["在本实验中，你将通过制作午餐选择器复习数组和随机数的使用。"]
       },
       "lecture-working-with-common-array-methods": {
         "title": "常用数组方法的使用",
@@ -2591,15 +2860,11 @@
       },
       "lecture-understanding-modules-imports-and-exports": {
         "title": "理解模块、导入与导出",
-        "intro": [
-          "在本讲解视频中，你将学习 JavaScript 中的模块、导入和导出。"
-        ]
+        "intro": ["在本讲解视频中，你将学习 JavaScript 中的模块、导入和导出。"]
       },
       "lab-password-generator": {
         "title": "制作密码生成器应用",
-        "intro": [
-          "在本实验中，你将根据用户输入制作一个密码生成器应用。"
-        ]
+        "intro": ["在本实验中，你将根据用户输入制作一个密码生成器应用。"]
       },
       "review-javascript-fundamentals": {
         "title": "JavaScript 基础复习",
@@ -2610,9 +2875,7 @@
       },
       "quiz-javascript-fundamentals": {
         "title": "JavaScript 基础测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 基础知识的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 基础知识的掌握。"]
       },
       "lecture-working-with-higher-order-functions-and-callbacks": {
         "title": "高阶函数与回调的使用",
@@ -2622,15 +2885,11 @@
       },
       "workshop-library-manager": {
         "title": "制作图书馆管理器",
-        "intro": [
-          "在本练习中，你将通过制作图书馆管理器学习高阶数组方法。"
-        ]
+        "intro": ["在本练习中，你将通过制作图书馆管理器学习高阶数组方法。"]
       },
       "lab-book-organizer": {
         "title": "制作图书整理器",
-        "intro": [
-          "在本实验中，你将用 JavaScript 高阶函数制作一个图书整理器。"
-        ]
+        "intro": ["在本实验中，你将用 JavaScript 高阶函数制作一个图书整理器。"]
       },
       "review-javascript-higher-order-functions": {
         "title": "JavaScript 高阶函数复习",
@@ -2641,9 +2900,7 @@
       },
       "quiz-javascript-higher-order-functions": {
         "title": "JavaScript 高阶函数测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 高阶函数的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 高阶函数的掌握。"]
       },
       "lecture-working-with-the-dom-click-events-and-web-apis": {
         "title": "DOM、点击事件与 Web API 的使用",
@@ -2671,9 +2928,7 @@
       },
       "workshop-music-instrument-filter": {
         "title": "制作乐器筛选器",
-        "intro": [
-          "在本练习中，你将用 JavaScript 制作一个乐器筛选器。"
-        ]
+        "intro": ["在本练习中，你将用 JavaScript 制作一个乐器筛选器。"]
       },
       "lab-real-time-counter": {
         "title": "制作实时计数器",
@@ -2691,15 +2946,11 @@
       },
       "workshop-rps-game": {
         "title": "制作石头剪刀布游戏",
-        "intro": [
-          "在本练习中，你将通过制作石头剪刀布游戏复习 DOM 操作与事件。"
-        ]
+        "intro": ["在本练习中，你将通过制作石头剪刀布游戏复习 DOM 操作与事件。"]
       },
       "lab-palindrome-checker": {
         "title": "制作回文检测器",
-        "intro": [
-          "在本实验中，你将制作一个检测输入单词是否为回文的应用。"
-        ]
+        "intro": ["在本实验中，你将制作一个检测输入单词是否为回文的应用。"]
       },
       "lab-football-team-cards": {
         "title": "制作足球队卡片集",
@@ -2716,15 +2967,11 @@
       },
       "quiz-dom-manipulation-and-click-event-with-javascript": {
         "title": "JavaScript DOM 操作与点击事件测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript DOM 操作与点击事件的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript DOM 操作与点击事件的掌握。"]
       },
       "lecture-debugging-techniques": {
         "title": "调试技巧",
-        "intro": [
-          "在这些讲解视频中，你将学习 JavaScript 常见错误及调试技巧。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习 JavaScript 常见错误及调试技巧。"]
       },
       "lab-random-background-color-changer": {
         "title": "调试随机背景变色程序",
@@ -2776,9 +3023,7 @@
       },
       "quiz-javascript-regular-expressions": {
         "title": "JavaScript 正则表达式测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 正则表达式的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 正则表达式的掌握。"]
       },
       "lecture-understanding-form-validation": {
         "title": "理解表单验证",
@@ -2809,9 +3054,7 @@
       },
       "quiz-form-validation-with-javascript": {
         "title": "JavaScript 表单验证测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 表单验证的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 表单验证的掌握。"]
       },
       "lecture-working-with-dates": {
         "title": "日期的使用",
@@ -2821,9 +3064,7 @@
       },
       "lab-date-conversion": {
         "title": "制作日期转换程序",
-        "intro": [
-          "在本实验中，你将制作一个日期格式转换程序。"
-        ]
+        "intro": ["在本实验中，你将制作一个日期格式转换程序。"]
       },
       "review-javascript-dates": {
         "title": "JavaScript 日期复习",
@@ -2834,9 +3075,7 @@
       },
       "quiz-javascript-dates": {
         "title": "JavaScript 日期测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 日期的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 日期的掌握。"]
       },
       "lecture-working-with-audio-and-video": {
         "title": "音频与视频的使用",
@@ -2853,9 +3092,7 @@
       },
       "lab-drum-machine": {
         "title": "制作鼓机",
-        "intro": [
-          "在本实验中，你将用 <code>audio</code> 元素制作一个鼓机。"
-        ]
+        "intro": ["在本实验中，你将用 <code>audio</code> 元素制作一个鼓机。"]
       },
       "review-javascript-audio-and-video": {
         "title": "JavaScript 音频与视频复习",
@@ -2866,9 +3103,7 @@
       },
       "quiz-javascript-audio-and-video": {
         "title": "JavaScript 音频与视频测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 音频与视频的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 音频与视频的掌握。"]
       },
       "lecture-working-with-maps-and-sets": {
         "title": "Map 与 Set 的使用",
@@ -2898,9 +3133,7 @@
       },
       "quiz-javascript-maps-and-sets": {
         "title": "JavaScript Map 与 Set 测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript Map 与 Set 的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript Map 与 Set 的掌握。"]
       },
       "lecture-working-with-client-side-storage-and-crud-operations": {
         "title": "客户端存储与 CRUD 操作",
@@ -2931,9 +3164,7 @@
       },
       "quiz-local-storage-and-crud": {
         "title": "本地存储与 CRUD 测验",
-        "intro": [
-          "通过本测验测试你对本地存储与 CRUD 的掌握。"
-        ]
+        "intro": ["通过本测验测试你对本地存储与 CRUD 的掌握。"]
       },
       "lecture-understanding-how-to-work-with-classes-in-javascript": {
         "title": "理解 JavaScript 类的使用",
@@ -2957,9 +3188,7 @@
       },
       "lab-bank-account-manager": {
         "title": "制作银行账户管理程序",
-        "intro": [
-          "在本实验中，你将制作一个简单的银行账户交易管理系统。"
-        ]
+        "intro": ["在本实验中，你将制作一个简单的银行账户交易管理系统。"]
       },
       "review-javascript-classes": {
         "title": "JavaScript 类复习",
@@ -2970,15 +3199,11 @@
       },
       "quiz-javascript-classes": {
         "title": "JavaScript 类测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 类的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 类的掌握。"]
       },
       "lecture-understanding-recursion-and-the-call-stack": {
         "title": "理解递归与调用栈",
-        "intro": [
-          "在本讲解视频中，你将学习递归与调用栈。"
-        ]
+        "intro": ["在本讲解视频中，你将学习递归与调用栈。"]
       },
       "workshop-decimal-to-binary-converter": {
         "title": "制作十进制转二进制转换器",
@@ -2989,9 +3214,7 @@
       },
       "lab-permutation-generator": {
         "title": "制作排列生成器",
-        "intro": [
-          "在本实验中，你将制作一个字符串全排列生成器。"
-        ]
+        "intro": ["在本实验中，你将制作一个字符串全排列生成器。"]
       },
       "review-recursion": {
         "title": "递归复习",
@@ -3032,9 +3255,7 @@
       },
       "quiz-javascript-functional-programming": {
         "title": "JavaScript 函数式编程测验",
-        "intro": [
-          "通过本测验测试你对 JavaScript 函数式编程的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 JavaScript 函数式编程的掌握。"]
       },
       "lecture-understanding-asynchronous-programming": {
         "title": "理解异步编程",
@@ -3064,15 +3285,11 @@
       },
       "review-asynchronous-javascript": {
         "title": "异步 JavaScript 复习",
-        "intro": [
-          "复习异步 JavaScript 概念，为即将到来的测验做准备。"
-        ]
+        "intro": ["复习异步 JavaScript 概念，为即将到来的测验做准备。"]
       },
       "quiz-asynchronous-javascript": {
         "title": "异步 JavaScript 测验",
-        "intro": [
-          "通过本测验测试你对异步 JavaScript 的掌握。"
-        ]
+        "intro": ["通过本测验测试你对异步 JavaScript 的掌握。"]
       },
       "review-javascript": {
         "title": "JavaScript 复习",
@@ -3123,9 +3340,7 @@
       },
       "review-react-basics": {
         "title": "React 基础复习",
-        "intro": [
-          "复习 React 基础概念，为即将到来的测验做准备。"
-        ]
+        "intro": ["复习 React 基础概念，为即将到来的测验做准备。"]
       },
       "quiz-react-basics": {
         "title": "React 基础测验",
@@ -3133,9 +3348,7 @@
       },
       "lecture-working-with-state-and-responding-to-events-in-react": {
         "title": "React 状态与事件响应",
-        "intro": [
-          "在这些讲解视频中，你将学习 React 的状态管理和事件响应。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习 React 的状态管理和事件响应。"]
       },
       "workshop-toggle-text-app": {
         "title": "制作文本切换应用",
@@ -3156,9 +3369,7 @@
       },
       "lecture-understanding-effects-and-referencing-values-in-react": {
         "title": "理解 React 的副作用与引用",
-        "intro": [
-          "在这些讲解视频中，你将学习 React 的副作用和引用值的用法。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习 React 的副作用和引用值的用法。"]
       },
       "xdyh": {
         "title": "270",
@@ -3183,9 +3394,7 @@
       },
       "lecture-working-with-forms-in-react": {
         "title": "React 表单的使用",
-        "intro": [
-          "在这些讲解视频中，你将学习 React 表单的用法。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习 React 表单的用法。"]
       },
       "sgau": {
         "title": "276",
@@ -3200,9 +3409,7 @@
       },
       "lecture-working-with-data-fetching-and-memoization-in-react": {
         "title": "React 数据获取与记忆化",
-        "intro": [
-          "在这些讲解视频中，你将学习 React 的数据获取与记忆化。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习 React 的数据获取与记忆化。"]
       },
       "ffpt": {
         "title": "279",
@@ -3217,9 +3424,7 @@
       },
       "lecture-routing-react-frameworks-and-dependency-management-tools": {
         "title": "React 路由、框架与依赖管理工具",
-        "intro": [
-          "在这些讲解视频中，你将学习 React 路由、框架和依赖管理工具。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习 React 路由、框架和依赖管理工具。"]
       },
       "lab-tic-tac-toe": {
         "title": "制作井字棋游戏",
@@ -3230,9 +3435,7 @@
       },
       "lecture-react-strategies-and-debugging": {
         "title": "React 策略与调试",
-        "intro": [
-          "在这些讲解视频中，你将学习 React 的不同策略和调试方法。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习 React 的不同策略和调试方法。"]
       },
       "review-react-forms-data-fetching-and-routing": {
         "title": "React 表单、数据获取与路由复习",
@@ -3243,15 +3446,11 @@
       },
       "quiz-react-forms-data-fetching-and-routing": {
         "title": "React 表单、数据获取与路由测验",
-        "intro": [
-          "通过本测验测试你对路由、表单和数据获取的掌握。"
-        ]
+        "intro": ["通过本测验测试你对路由、表单和数据获取的掌握。"]
       },
       "lecture-understanding-performance-in-web-applications": {
         "title": "理解 Web 应用性能",
-        "intro": [
-          "在这些讲解视频中，你将学习 Web 应用的性能优化。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习 Web 应用的性能优化。"]
       },
       "review-web-performance": {
         "title": "Web 性能复习",
@@ -3262,15 +3461,11 @@
       },
       "quiz-web-performance": {
         "title": "Web 性能测验",
-        "intro": [
-          "通过本测验测试你对 Web 性能的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Web 性能的掌握。"]
       },
       "lecture-working-with-css-libraries-and-frameworks": {
         "title": "CSS 库与框架的使用",
-        "intro": [
-          "在这些讲解视频中，你将学习如何使用 CSS 库与框架。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习如何使用 CSS 库与框架。"]
       },
       "review-css-libraries-and-frameworks": {
         "title": "CSS 库与框架复习",
@@ -3281,15 +3476,11 @@
       },
       "quiz-css-libraries-and-frameworks": {
         "title": "CSS 库与框架测验",
-        "intro": [
-          "通过本测验测试你对 CSS 库与框架的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 CSS 库与框架的掌握。"]
       },
       "lecture-understanding-the-different-types-of-testing": {
         "title": "理解不同类型的测试",
-        "intro": [
-          "在这些讲解视频中，你将学习不同类型的测试。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习不同类型的测试。"]
       },
       "review-testing": {
         "title": "测试复习",
@@ -3304,9 +3495,7 @@
       },
       "lecture-introduction-to-typescript": {
         "title": "TypeScript 简介",
-        "intro": [
-          "在这些讲解视频中，你将学习 TypeScript 及其用法。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习 TypeScript 及其用法。"]
       },
       "trvf": {
         "title": "293",
@@ -3341,9 +3530,7 @@
       },
       "review-front-end-libraries": {
         "title": "前端库复习",
-        "intro": [
-          "复习前端库相关概念，为即将到来的测验做准备。"
-        ]
+        "intro": ["复习前端库相关概念，为即将到来的测验做准备。"]
       },
       "rdzk": {
         "title": "301",
@@ -3362,9 +3549,7 @@
       },
       "review-bash-commands": {
         "title": "Bash 命令复习",
-        "intro": [
-          "复习 Bash 命令相关概念，为即将到来的测验做准备。"
-        ]
+        "intro": ["复习 Bash 命令相关概念，为即将到来的测验做准备。"]
       },
       "quiz-bash-commands": {
         "title": "Bash 命令测验",
@@ -3383,21 +3568,15 @@
       },
       "lab-celestial-bodies-database": {
         "title": "制作天体数据库",
-        "intro": [
-          "在本项目中，你将用 PostgreSQL 制作一个天体数据库。"
-        ]
+        "intro": ["在本项目中，你将用 PostgreSQL 制作一个天体数据库。"]
       },
       "review-relational-database": {
         "title": "关系型数据库复习",
-        "intro": [
-          "复习关系型数据库相关概念，为即将到来的测验做准备。"
-        ]
+        "intro": ["复习关系型数据库相关概念，为即将到来的测验做准备。"]
       },
       "quiz-relational-database": {
         "title": "关系型数据库测验",
-        "intro": [
-          "通过本测验测试你对关系型数据库的掌握。"
-        ]
+        "intro": ["通过本测验测试你对关系型数据库的掌握。"]
       },
       "pexz": {
         "title": "311",
@@ -3412,9 +3591,7 @@
       },
       "review-bash-scripting": {
         "title": "Bash 脚本复习",
-        "intro": [
-          "复习 Bash 脚本相关概念，为即将到来的测验做准备。"
-        ]
+        "intro": ["复习 Bash 脚本相关概念，为即将到来的测验做准备。"]
       },
       "quiz-bash-scripting": {
         "title": "Bash 脚本测验",
@@ -3465,9 +3642,7 @@
       },
       "review-bash-and-sql": {
         "title": "Bash 与 SQL 复习",
-        "intro": [
-          "复习 Bash 与 SQL 相关概念，为即将到来的测验做准备。"
-        ]
+        "intro": ["复习 Bash 与 SQL 相关概念，为即将到来的测验做准备。"]
       },
       "quiz-bash-and-sql": {
         "title": "Bash 与 SQL 测验",
@@ -3525,9 +3700,7 @@
       },
       "review-relational-databases": {
         "title": "关系型数据库复习",
-        "intro": [
-          "复习关系型数据库相关概念，为即将到来的测验做准备。"
-        ]
+        "intro": ["复习关系型数据库相关概念，为即将到来的测验做准备。"]
       },
       "lecture-introduction-to-python": {
         "title": "Python 入门",
@@ -3539,9 +3712,7 @@
       },
       "lab-rpg-character": {
         "title": "制作 RPG 角色",
-        "intro": [
-          "在本实验中，你将通过制作 RPG 角色练习 Python 基础。"
-        ]
+        "intro": ["在本实验中，你将通过制作 RPG 角色练习 Python 基础。"]
       },
       "review-python-basics": {
         "title": "Python 基础复习",
@@ -3552,9 +3723,7 @@
       },
       "quiz-python-basics": {
         "title": "Python 基础测验",
-        "intro": [
-          "通过本测验测试你对 Python 基础的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 基础的掌握。"]
       },
       "lecture-working-with-loops-and-sequences": {
         "title": "循环与序列的使用",
@@ -3577,9 +3746,7 @@
       },
       "quiz-loops-and-sequences": {
         "title": "循环与序列测验",
-        "intro": [
-          "通过本测验测试你对 Python 循环与序列的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 循环与序列的掌握。"]
       },
       "lecture-working-with-dictionaries-and-sets": {
         "title": "字典与集合的使用",
@@ -3606,9 +3773,7 @@
       },
       "quiz-dictionaries-and-sets": {
         "title": "字典与集合测验",
-        "intro": [
-          "通过本测验测试你对 Python 字典与集合的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 字典与集合的掌握。"]
       },
       "lecture-understanding-error-handling": {
         "title": "理解错误处理",
@@ -3627,9 +3792,7 @@
       },
       "quiz-error-handling": {
         "title": "错误处理测验",
-        "intro": [
-          "通过本测验测试你对 Python 错误处理的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 错误处理的掌握。"]
       },
       "lecture-classes-and-objects": {
         "title": "类与对象",
@@ -3641,9 +3804,7 @@
       },
       "lab-budget-app": {
         "title": "制作预算应用",
-        "intro": [
-          "在本实验中，你将制作一个预算应用，练习创建类及其方法。"
-        ]
+        "intro": ["在本实验中，你将制作一个预算应用，练习创建类及其方法。"]
       },
       "review-classes-and-objects": {
         "title": "类与对象复习",
@@ -3654,9 +3815,7 @@
       },
       "quiz-classes-and-objects": {
         "title": "类与对象测验",
-        "intro": [
-          "通过本测验测试你对 Python 类与对象的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 类与对象的掌握。"]
       },
       "lecture-understanding-object-oriented-programming-and-encapsulation": {
         "title": "理解面向对象编程与封装",
@@ -3703,9 +3862,7 @@
       },
       "quiz-object-oriented-programming": {
         "title": "面向对象编程测验",
-        "intro": [
-          "通过本测验测试你对 Python 面向对象编程的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 面向对象编程的掌握。"]
       },
       "lecture-working-with-common-data-structures": {
         "title": "常用数据结构的使用",
@@ -3728,9 +3885,7 @@
       },
       "quiz-data-structures": {
         "title": "数据结构测验",
-        "intro": [
-          "通过本测验测试你对 Python 数据结构的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 数据结构的掌握。"]
       },
       "lecture-searching-and-sorting-algorithms": {
         "title": "查找与排序算法",
@@ -3769,9 +3924,7 @@
       },
       "quiz-searching-and-sorting-algorithms": {
         "title": "查找与排序算法测验",
-        "intro": [
-          "通过本测验测试你对 Python 查找与排序算法的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 查找与排序算法的掌握。"]
       },
       "lecture-understanding-graphs-and-trees": {
         "title": "理解图与树",
@@ -3795,16 +3948,11 @@
       },
       "review-graphs-and-trees": {
         "title": "图与树复习",
-        "intro": [
-          "在参加图与树测验前，你应先复习所学内容。",
-          "[补充更多细节]"
-        ]
+        "intro": ["在参加图与树测验前，你应先复习所学内容。", "[补充更多细节]"]
       },
       "quiz-graphs-and-trees": {
         "title": "图与树测验",
-        "intro": [
-          "通过本测验测试你对 Python 图与树的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 图与树的掌握。"]
       },
       "lecture-understanding-dynamic-programming": {
         "title": "理解动态规划",
@@ -3823,9 +3971,7 @@
       },
       "quiz-dynamic-programming": {
         "title": "动态规划测验",
-        "intro": [
-          "通过本测验测试你对 Python 动态规划的掌握。"
-        ]
+        "intro": ["通过本测验测试你对 Python 动态规划的掌握。"]
       },
       "review-python": {
         "title": "Python 复习",
@@ -3835,7 +3981,8 @@
         "title": "全栈开发者认证考试",
         "intro": ["通过本考试，成为认证全栈开发者。"]
       }
-    },
+    }
+  },
   "misc-text": {
     "browse-other": "浏览我们的其他免费认证课程",
     "courses": "课程",
