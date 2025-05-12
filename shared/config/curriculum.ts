@@ -130,7 +130,7 @@ export const notAuditedSuperBlocks: NotAuditedSuperBlocks = {
     SuperBlocks.CodingInterviewPrep,
     SuperBlocks.ProjectEuler,
     SuperBlocks.TheOdinProject,
-    SuperBlocks.FullStackDeveloper,
+    // SuperBlocks.FullStackDeveloper,
     SuperBlocks.A2English,
     SuperBlocks.B1English,
     SuperBlocks.PythonForEverybody
