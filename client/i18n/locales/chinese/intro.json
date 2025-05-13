@@ -3394,11 +3394,15 @@
       },
       "lecture-working-with-forms-in-react": {
         "title": "React 表单的使用",
-        "intro": ["在这些讲解视频中，你将学习 React 表单的用法。"]
+        "intro": [
+          "在这些讲解视频中，你将学习如何在 React 中处理表单。"
+        ]
       },
-      "sgau": {
-        "title": "276",
-        "intro": []
+      "workshop-superhero-application-form": {
+        "title": "制作超级英雄申请表单",
+        "intro": [
+          "在本练习中，你将制作一个超级英雄申请表单。"
+        ]
       },
       "lab-event-rsvp": {
         "title": "制作活动 RSVP 表单",
@@ -3839,7 +3843,9 @@
       },
       "lab-polygon-area-calculator": {
         "title": "制作多边形面积计算器",
-        "intro": [""]
+        "intro": [
+          "在本实验中，你将使用面向对象编程计算不同多边形（如正方形和长方形）的面积。"
+        ]
       },
       "lecture-understanding-abstraction": {
         "title": "理解抽象",
