@@ -300,7 +300,7 @@
     }
   },
   "javascript-algorithms-and-data-structures-v8": {
-    "title": "JavaScript Algorithms and Data Structures",
+    "title": "JavaScript 算法与数据结构",
     "intro": [
       "开发者使用 HTML 和 CSS 来控制页面的内容与样式。他们还使用 JavaScript 来让页面可以交互。",
       "在这个 JavaScript 算法与数据结构认证中，你将学习如变量、数组、对象、循环、函数、DOM 等 JavaScript 的基础知识。",
@@ -309,10 +309,10 @@
     "note": "注意：一些浏览器扩展程序，如广告拦截器和脚本拦截器可能会干扰测试。如果你遇到问题，我们建议你在学习时禁止能更改或拦截页面内容的扩展程序。",
     "blocks": {
       "build-an-rpg-creature-search-app-project": {
-        "title": "Build an RPG Creature Search App Project",
+        "title": "创建 RPG 生物搜索应用项目",
         "intro": [
-          "This is one of the required projects to earn your certification.",
-          "For this project, you will build an RPG creature search app."
+          "这是你要获得认证必须做的项目之一。",
+          "在这个项目中，你将创建一个 RPG 生物搜索应用。"
         ]
       },
       "build-a-cash-register-project": {
@@ -772,9 +772,9 @@
     }
   },
   "scientific-computing-with-python": {
-    "title": "Scientific Computing with Python",
+    "title": "Python 科学计算",
     "intro": [
-      "The Scientific Computing with Python curriculum will equip you with the skills to analyze and manipulate data using Python, a powerful and versatile programming language. You'll learn key concepts like data structures, algorithm, Object Oriented Programming, and how to perform complex calculations using a variety of tools.",
+      "Python 科学计算课程将使你掌握使用 Python 分析和操作数据的技能，Python 是一种强大且通用的编程语言。你将学习数据结构、算法、面向对象编程等关键概念，以及如何使用各种工具执行复杂的计算。",
       "这个综合课程将指导你学习科学计算的基础知识，包括数据结构和算法。"
     ],
     "note": "",
@@ -3394,15 +3394,11 @@
       },
       "lecture-working-with-forms-in-react": {
         "title": "React 表单的使用",
-        "intro": [
-          "在这些讲解视频中，你将学习如何在 React 中处理表单。"
-        ]
+        "intro": ["在这些讲解视频中，你将学习如何在 React 中处理表单。"]
       },
       "workshop-superhero-application-form": {
         "title": "制作超级英雄申请表单",
-        "intro": [
-          "在本练习中，你将制作一个超级英雄申请表单。"
-        ]
+        "intro": ["在本练习中，你将制作一个超级英雄申请表单。"]
       },
       "lab-event-rsvp": {
         "title": "制作活动 RSVP 表单",
